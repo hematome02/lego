@@ -75,7 +75,6 @@ console.log(deals[0]);
 var communityName = new Set();
 
 for (let i = 0; i < deals.length; i++) {
-  // Récupérer la communauté de chaque deal
   var com = deals[i].community;
   communityName.add(com);
 }
@@ -114,9 +113,38 @@ console.log(sortedByDate);
 // 1. Filter the list of deals between 50% and 75%
 // 2. Log the list
 
+let min = 50 ;
+let max = 75 ;
+
+function FilterByDiscount (deals, min, max ) {
+  return deals.filter(deal => deal.discount >=min && deal.discount <=max)
+}
+
+const filterByDiscount = FilterByDiscount(deals, min, max);
+console.log(filterByDiscount);
+
 // 🎯 TODO 7: Average percentage discount
 // 1. Determine the average percentage discount of the deals
 // 2. Log the average
+
+function AverageDiscount ( deals ) {
+  let taille = deals.length; 
+  //console.log(taille)
+
+  let total = 0;
+
+  for (let i = 0; i < deals.length; i++) {
+    total += deals[i].discount;
+    //console.log(total);
+  }
+
+  return total/taille;
+}
+
+const averageDiscoun = AverageDiscount(deals);
+console.log(averageDiscoun);
+
+//console.log(deals);
 
 /**
  * 🏎
