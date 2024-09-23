@@ -63,14 +63,25 @@ console.log(Highest_Reduc[0]);
 
 var nberofdeals = deals.length; 
 
-console.log(nberofdeals)
-
-
+console.log(nberofdeals);
 
 // 🎯 TODO 3: Website name
 // 1. Create a variable and assign it the list of shopping community name only
 // 2. Log the variable
 // 3. Log how many shopping communities we have
+
+console.log(deals[0]);
+
+var communityName = new Set();
+
+for (let i = 0; i < deals.length; i++) {
+  // Récupérer la communauté de chaque deal
+  var com = deals[i].community;
+  communityName.add(com);
+}
+
+console.log(communityName);
+
 
 // 🎯 TODO 4: Sort by price
 // 1. Create a function to sort the deals by price
