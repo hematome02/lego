@@ -30,6 +30,23 @@ console.log(MY_FAVORITE_DEALERS[0]);
 // 1. Create a new variable and assign it the link of the lego set with the highest reduction I can find on these 2 websites
 // 2. Log the variable
 
+const Highest_Reduc = [
+  {
+    'name': '42171',
+    'url' : 'https://www.dealabs.com/bons-plans/lego-technic-42171-mercedes-amg-f1-w14-e-performance-2865271'
+  },
+  {
+    'name': '42171',
+    'url' : 'https://www.avenuedelabrique.com/lego-technic/42165-mercedes-amg-f1-w14-e-performance-pull-back/p9823'
+  }
+];
+
+console.table(Highest_Reduc);
+console.log(Highest_Reduc[0]);
+
+
+
+
 /**
  * 🧱
  * Easy 😁?
@@ -42,6 +59,13 @@ console.log(MY_FAVORITE_DEALERS[0]);
 // 🎯 TODO 2: Number of deals
 // 1. Create a variable and assign it the number of deals
 // 2. Log the variable
+
+
+var nberofdeals = deals.length; 
+
+console.log(nberofdeals)
+
+
 
 // 🎯 TODO 3: Website name
 // 1. Create a variable and assign it the list of shopping community name only
