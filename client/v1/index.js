@@ -81,6 +81,7 @@ for (let i = 0; i < deals.length; i++) {
 
 console.log(communityName);
 
+console.log(communityName[0]);
 
 // 🎯 TODO 4: Sort by price
 // 1. Create a function to sort the deals by price
@@ -168,6 +169,49 @@ console.log(averageDiscoun);
 //
 // 2. Log the variable
 // 3. Log the number of deals by community
+
+const communities = {};
+// console.log("Surprise");
+// console.log(communityName);
+// console.log("Surprise 1");
+// console.log(communityName.size);
+console.log("Surprise 2");
+
+for (const com of communityName)
+{
+  communities[com] = {};
+  
+}
+
+console.log(communities);
+
+console.log("Surprise 3");
+
+for (const com of communityName)
+{
+  communities[com]= {deals :[]};
+  for (let i =0 ; i< deals.length; i++)
+  {
+    if (deals[i].community == com )
+    {
+      communities[com].deals.push(deals[i]);
+
+    }
+    
+  }
+}
+console.log(communities);
+console.log("marre");
+
+console.log("Surprise 4");
+
+console.log(Object.keys(communities).length);
+
+for (const com of communityName)
+{
+  console.log(com," : ",Object.keys(communities[com].deals).length);
+}
+
 
 // 🎯 TODO 9: Sort by price for each community
 // 1. For each community, sort the deals by discount price, from highest to lowest
