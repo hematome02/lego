@@ -219,6 +219,13 @@ for (const com of communityName) {
 // 1. For each set, sort the deals by date, from old to recent
 // 2. Log the sort
 
+for (const com of communityName) {
+  communities[com].deals.sort((a, b) => new Date(b.published) - new Date(a.published));
+  
+  console.log(`Deals for ${com} sorted by date from oldest to recent :`);
+  console.log(communities[com].deals);
+}
+
 
 /**
  * 🧥
