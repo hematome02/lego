@@ -500,6 +500,11 @@ console.log(VINTED.find(item => item.uuid === "f2c5377c-84f9-571d-8712-98902dcbb
 // 1. Delete the item with the uuid `f2c5377c-84f9-571d-8712-98902dcbb913`
 // 2. Log the new list of items
 
+console.log(VINTED.length);
+const newVINTED = VINTED.filter(item => item.uuid !== "f2c5377c-84f9-571d-8712-98902dcbb913" ); 
+console.log(newVINTED.length);
+
+
 // 🎯 TODO 5: Save a favorite item
 // We declare and assign a variable called `sealedCamera`
 let sealedCamera = {
