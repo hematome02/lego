@@ -525,8 +525,8 @@ camera.favorite = true;
 // 1. Log `sealedCamera` and `camera` variables
 // 2. What do you notice?
 
-console.log("sealedcamera : ", sealedCamera);
-console.log("camera : ",camera);
+console.log("sealedcamera 1: ", sealedCamera);
+console.log("camera 1: ",camera);
 
 //we notice that the changes made in one appears in the other.
 
@@ -540,8 +540,14 @@ sealedCamera = {
 };
 
 // 3. Update `camera` property with `favorite` to true WITHOUT changing sealedCamera properties
-console.log("sealedcamera : ", sealedCamera);
-console.log("camera : ",camera);
+console.log("sealedcamera 2: ", sealedCamera);
+console.log("camera 2: ",camera);
+
+camera = {...sealedCamera};
+camera.favorite = true ;
+
+console.log("sealedcamera 3: ", sealedCamera);
+console.log("camera 3: ",camera);
 
 // 🎯 TODO 11: Compute the profitability
 // From a specific deal called `deal`
