@@ -561,7 +561,18 @@ const deal = {
 // 1. Compute the potential highest profitability based on the VINTED items
 // 2. Log the value
 
+let highprofit = 0; 
 
+VINTED.forEach (item => {
+  const profit =((item.price -deal.retail) / deal.retail )*100 ;
+
+  if (profit > highprofit) 
+  {
+    highprofit = profit ; 
+  }
+});
+
+console.log("Meilleure rentabilité : ", highprofit.toFixed(2));
 
 /**
  * 🎬
