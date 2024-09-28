@@ -448,9 +448,47 @@ const VINTED = [
 // 3. Compute the p99 price value of the listing
 // The p95 value (95th percentile) is the lower value expected to be exceeded in 95% of the vinted items
 
+const prices = VINTED.map(item => item.price);
+
+
+function calculateAverage(prices) {
+  const sum = prices.reduce((acc, price) => acc + price, 0);
+  return sum / prices.length;
+}
+console.log("Moyenne: " + calculateAverage(prices).toFixed(2)); 
+
+
+function calculatePercentile(prices, percentile) {
+  prices.sort((a, b) => a - b);  
+  const index = (percentile / 100) * (prices.length - 1);
+  const lower = Math.floor(index);
+  const upper = Math.ceil(index);
+  const weight = index - lower;
+  return prices[lower] + weight * (prices[upper] - prices[lower]);
+}
+
+console.log("95e percentile: " + calculatePercentile(prices, 95).toFixed(2)); 
+console.log("99e percentile: " + calculatePercentile(prices, 99).toFixed(2)); 
+
+
 // 🎯 TODO 12: Very old listed items
 // // 1. Log if we have very old items (true or false)
 // // A very old item is an item `released` more than 3 weeks ago.
+
+function ancienItems(dateOfRelaeased) {
+  const aujourdhui = new Date(); 
+  const releasedDate = new Date( dateOfRelaeased); 
+
+  const diff = aujourdhui - releasedDate;
+  console.log(diff); 
+
+  const jours = diff / (1000*3600*24);
+
+  return jours ;
+}
+
+console.log( "Articles anciens : "+ VINTED.some(item => ancienItems(item.released)) );
+
 
 // 🎯 TODO 13: Find a specific item
 // 1. Find the item with the uuid `f2c5377c-84f9-571d-8712-98902dcbb913`
