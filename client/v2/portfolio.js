@@ -48,7 +48,8 @@ const setCurrentDeals = ({result, meta}) => {
  * @param  {Number}  [size=12] - size of the page
  * @return {Object}
  */
-const fetchDeals = async (page = 1, size = 6) => {
+const fetchDeals = async (page = 1, size = 6
+) => {
   try {
     const response = await fetch(
       `https://lego-api-blue.vercel.app/deals?page=${page}&size=${size}`
@@ -144,6 +145,7 @@ const render = (deals, pagination) => {
 /**
  * Select the number of deals to display
  */
+
 selectShow.addEventListener('change', async (event) => {
   const deals = await fetchDeals(currentPagination.currentPage, parseInt(event.target.value));
 
@@ -153,6 +155,13 @@ selectShow.addEventListener('change', async (event) => {
 
 document.addEventListener('DOMContentLoaded', async () => {
   const deals = await fetchDeals();
+
+  setCurrentDeals(deals);
+  render(currentDeals, currentPagination);
+});
+
+selectPage.addEventListener('change', async (event) => {
+  const deals = await fetchDeals( parseInt(event.target.value),parseInt(selectShow.value));
 
   setCurrentDeals(deals);
   render(currentDeals, currentPagination);
