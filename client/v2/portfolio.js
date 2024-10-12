@@ -24,6 +24,8 @@ This endpoint accepts the following optional query string parameters:
 // current deals on the page
 let currentDeals = [];
 let currentPagination = {};
+let currentDealsVinted = [];
+
 
 // instantiate the selectors
 const selectShow = document.querySelector('#show-select');
@@ -32,7 +34,8 @@ const selectLegoSetIds = document.querySelector('#lego-set-id-select');
 const sectionDeals= document.querySelector('#deals');
 const spanNbDeals = document.querySelector('#nbDeals');
 const selectSort = document.querySelector('#sort-select');
-
+const sectionVinted= document.querySelector('#vinted');
+const spanNbSales = document.querySelector('#nbSales');
 
 /**
  * Set global value
@@ -70,9 +73,31 @@ const fetchDeals = async (page = 1, size = 6
   }
 };
 
+const fetchVinted = async (id 
+) => {
+  try {
+    const response = await fetch(
+      `https://lego-api-blue.vercel.app/sales?id=${id}`
+    );
+    const body = await response.json();
+
+    if (body.success !== true) {
+      console.error(body);
+      return null;
+    }
+
+    return body.data;
+  } catch (error) {
+    console.error(error);
+    return null;
+  }
+};
+
+
 /**
  * Render list of deals
  * @param  {Array} deals
+ * @param  {Array} dealvinteds
  */
 const renderDeals = deals => {
   const fragment = document.createDocumentFragment();
@@ -93,6 +118,27 @@ const renderDeals = deals => {
   fragment.appendChild(div);
   sectionDeals.innerHTML = '<h2>Deals</h2>';
   sectionDeals.appendChild(fragment);
+};
+
+const renderVinted = dealvinteds => {
+  const fragment = document.createDocumentFragment();
+  const div = document.createElement('div');
+  const template = dealvinteds
+    .map(dealvinted => {
+      return `
+      <div class="Vinted" id=${dealvinted.uuid}>
+        <span>${selectLegoSetIds.value}</span>
+        <a href="${dealvinted.link}">${dealvinted.title}</a>
+        <span>${dealvinted.price}</span>
+      </div>
+    `;
+    })
+    .join('');
+
+  div.innerHTML = template;
+  fragment.appendChild(div);
+  sectionVinted.innerHTML = '<h2>Vinted</h2>';
+  sectionVinted.appendChild(fragment);
 };
 
 /**
@@ -129,8 +175,9 @@ const renderLegoSetIds = deals => {
  */
 const renderIndicators = pagination => {
   const {count} = pagination;
-
+  
   spanNbDeals.innerHTML = count;
+  
 };
 
 const render = (deals, pagination) => {
@@ -138,6 +185,7 @@ const render = (deals, pagination) => {
   renderPagination(pagination);
   renderIndicators(pagination);
   renderLegoSetIds(deals)
+  
 };
 
 /**
@@ -206,4 +254,11 @@ selectSort.addEventListener('change', async (event) => {
   }   
 
   render(currentDeals, currentPagination);
+});
+
+selectLegoSetIds.addEventListener('change', async (event) => {
+  const dealvinteds = await fetchVinted(selectLegoSetIds.value);
+  console.log(dealvinteds)
+  spanNbSales.innerHTML = dealvinteds.result.length;
+  renderVinted(dealvinteds.result);
 });
