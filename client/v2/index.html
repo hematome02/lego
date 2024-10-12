@@ -20,13 +20,24 @@
         <select name="page" id="page-select"> </select>
       </div>
       <div id="filters">
-        <span>By best discount</span>
-        <span>By most commented</span>
-        <span>By hot deals</span>
+        <h3>Filters</h3>
+        <div>
+          <label for="bestDiscount">Best discount</label>
+            <input type="checkbox" id="bestDiscount" />
+        </div>
+        <div>
+          <label for="mostCommented">Most commented</label>
+            <input type="checkbox" id="mostCommented" />
+        </div>
+        <div>
+          <label for="hotDeals">Hot deals</label>
+            <input type="checkbox" id="hotDeals" />
+        </div>
       </div>
       <div id="sort">
         <label for="sort-select">Sort:</label>
         <select name="sort" id="sort-select">
+          <option>Choix</option>
           <option value="price-asc">Cheaper</option>
           <option value="price-desc">Expensive</option>
           <option value="date-asc">Recently published</option>
@@ -39,6 +50,7 @@
       <div>
         <label>Lego set id:</label>
         <select id="lego-set-id-select"></select> 
+        <section id="Vinted"></section>
       </div>
     </section>
     <section id="indicators">

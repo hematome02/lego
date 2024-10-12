@@ -31,6 +31,8 @@ const selectPage = document.querySelector('#page-select');
 const selectLegoSetIds = document.querySelector('#lego-set-id-select');
 const sectionDeals= document.querySelector('#deals');
 const spanNbDeals = document.querySelector('#nbDeals');
+const selectSort = document.querySelector('#sort-select');
+
 
 /**
  * Set global value
@@ -164,5 +166,44 @@ selectPage.addEventListener('change', async (event) => {
   const deals = await fetchDeals( parseInt(event.target.value),parseInt(selectShow.value));
 
   setCurrentDeals(deals);
+  render(currentDeals, currentPagination);
+});
+selectPage.addEventListener('change', async (event) => {
+  const deals = await fetchDeals( parseInt(event.target.value),parseInt(selectShow.value));
+
+  setCurrentDeals({result: getFinalDeals(deals), meta: deals.meta});
+  render(currentDeals, currentPagination);
+});
+
+document.querySelectorAll('#bestDiscount, #mostCommented, #hotDeals').forEach(item =>
+    item.addEventListener('change', async (event) => {
+      const deals = await fetchDeals(currentPagination.currentPage, parseInt(selectShow.value));
+
+      setCurrentDeals({result: getFinalDeals(deals), meta: deals.meta});
+
+      render(currentDeals, currentPagination);
+    })
+);
+
+selectSort.addEventListener('change', async (event) => {
+  const sort = event.target.value;
+  switch (sort) {
+    case "price-asc" : 
+    currentDeals = SortedByPrice(currentDeals,sort);
+    break; 
+
+    case "price-desc" : 
+    currentDeals = SortedByPrice(currentDeals,sort);
+    break; 
+
+    case "date-desc" :
+    currentDeals = SortedByDate(currentDeals,sort);
+    break;
+
+    case "date-asc" :
+    currentDeals = SortedByDate(currentDeals,sort);
+    break;    
+  }   
+
   render(currentDeals, currentPagination);
 });
