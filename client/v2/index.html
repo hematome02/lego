@@ -3,27 +3,15 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>🧱 Lego | Predictability of a lego set deal</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.3/font/bootstrap-icons.min.css">
     <style>
-      /* Styles pour aligner le #options à droite */
-      #opti {
-          display: flex;                 /* Utilise flex pour organiser les éléments */
-          justify-content: flex-end;     /* Aligne le contenu à droite */
-          gap: 20px;                     /* Espace entre les éléments */
-          padding: 10px;
-      }
-
-      /* Optionnel : styles pour les divs internes */
-      #show, #page {
-          display: flex;
-          align-items: center;           /* Centre verticalement le label et le select */
-      }
-
-      label {
-          margin-right: 8px;             /* Espace entre le label et le select */
+      .img-max {
+        max-width: 100px;
+        width:100%;
       }
   </style>
   </head>
-
   <header>
     <table width="100%" style="background-color: #c54a4a; text-align: center; border-collapse: collapse;">
         <tr>
@@ -42,98 +30,159 @@
 </header>
   <body>
     <section id="options">
-      <section id="opti">
-        <div id="show">
-            <label for="show-select">Show:</label>
-            <select name="show" id="show-select">
-                <option value="6">6</option>
-                <option value="12">12</option>
-                <option value="24">24</option>
-            </select>
+      <div class="card mb-3">
+        <div class="card-header d-flex">
+          <div class="p-2 me-auto">
+            <h3>Filters & Sorts</h3>
+          </div>
+          <div class="p-2 float-end">
+            <section id="opti" class="d-flex gap-2">
+              <div id="show" class="form-floating" style="width: 150px;">
+                <select class="form-select" id="show-select">
+                  <option value="6">6</option>
+                  <option value="12">12</option>
+                  <option value="24">24</option>
+                </select>
+                <label for="show-select">Show</label>
+              </div>
+              <div id="page" class="form-floating" style="width: 150px;">
+                <select name="page" class="form-select" id="page-select">
+                </select>
+                <label for="page-select">Go to page</label>
+              </div>
+            </section>
+          </div>
         </div>
-        <div id="page">
-            <label for="page-select">Go to page:</label>
-            <select name="page" id="page-select">
-                <!-- Les options de page seraient ajoutées ici -->
-            </select>
+        <div class="card-body">
+            <div class="row">
+              <div class="col-6" id="filters">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" value="" id="bestDiscount">
+                  <label class="form-check-label" for="bestDiscount">
+                    Best discount
+                  </label>
+                </div>
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" value="" id="mostCommented">
+                  <label class="form-check-label" for="mostCommented">
+                    Most commented
+                  </label>
+                </div>
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" value="" id="hotDeals">
+                  <label class="form-check-label" for="hotDeals">
+                    Hot deals
+                  </label>
+                </div>
+              </div>
+              <div class="col-6" id="sort">
+                <div class="form-floating">
+                  <select class="form-select" id="sort-select" aria-label="Floating label select example">
+                    <option value=""></option>
+                    <option value="price-asc">Cheaper</option>
+                    <option value="price-desc">Expensive</option>
+                    <option value="date-asc">Recently published</option>
+                    <option value="date-desc">Anciently published</option>
+                  </select>
+                  <label for="sort-select">Sort</label>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-      </section>
-      <div id="show">
-        <label for="show-select">Show:</label>
-        <select name="show" id="show-select">
-          <option value="6">6</option>
-          <option value="12">12</option>
-          <option value="24">24</option>
-        </select>
-      </div>
-      <div id="page">
-        <label for="page-select">Go to page:</label>
-        <select name="page" id="page-select"> </select>
-      </div>
-      <div id="filters">
-        <h3>Filters</h3>
-        <div>
-          <label for="bestDiscount">Best discount</label>
-            <input type="checkbox" id="bestDiscount" />
+    </section><section id="deals" class="mb-2">
+      <div class="card">
+        <div class="card-header d-flex">
+          <h3 class="me-auto">
+            Deals
+          </h3>
+          <button class="btn btn-link d-flex float-end" data-bs-toggle="collapse" data-bs-target="#dealsContent" aria-expanded="true" aria-controls="dealsContent">
+            <i class="bi bi-chevron-down ms-2" id="icon-chevron"></i>
+          </button>
         </div>
-        <div>
-          <label for="mostCommented">Most commented</label>
-            <input type="checkbox" id="mostCommented" />
+        <div id="dealsContent" class="collapse show">
+          <div class="card-body">
+            <table class="table table-striped">
+              <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Image</th>
+                <th scope="col">Title</th>
+                <th scope="col">Price</th>
+                <th scope="col">Information supplémentaire</th>
+              </tr>
+              </thead>
+              <tbody id="deals-table">
+              <!-- Rows will be dynamically added here -->
+              </tbody>
+            </table>
+          </div>
         </div>
-        <div>
-          <label for="hotDeals">Hot deals</label>
-            <input type="checkbox" id="hotDeals" />
-        </div>
-      </div>
-      <div id="sort">
-        <label for="sort-select">Sort:</label>
-        <select name="sort" id="sort-select">
-          <option>Choix</option>
-          <option value="price-asc">Cheaper</option>
-          <option value="price-desc">Expensive</option>
-          <option value="date-asc">Recently published</option>
-          <option value="date-desc">Anciently published</option>
-        </select>
       </div>
     </section>
-    <section id="lego">
-      <h2>Lego sets</h2>
-      <div>
-        <label>Lego set id:</label>
-        <select id="lego-set-id-select"></select> 
-        <section id="vinted"></section>
+
+
+    <div class="card">
+      <div class="card-header d-flex">
+        <div class="p-2 me-auto">
+          <h3>Lego détails</h3>
+        </div>
+        <div class="p-2 float-end">
+          <section id="lego" class="d-flex gap-2">
+            <div class="form-floating" style="width: 200px;">
+              <select name="page" class="form-select" id="lego-set-id-select">
+                <option value=""></option>
+              </select>
+              <label for="lego-set-id-select">Lego id</label>
+            </div>
+          </section>
+        </div>
       </div>
-    </section>
-    <section id="indicators">
-      <h2>Indicators</h2>
-      <div>
-        <span>Number of deals</span>
-        <span id="nbDeals">0</span>
+      <div class="card-body">
+        <section id="indicators" class="mb-2">
+          <div class="row">
+            <div class="col">
+                <strong>Number of deals:</strong>
+                <span id="nbDeals">0</span>
+              <br>
+                <strong>Number of sales:</strong>
+                <span id="nbSales">0</span>
+              <br>
+                <strong>Lifetime value:</strong>
+                <span id ="lifetimevalue">10 days</span>
+            </div>
+            <div class="col">
+                <strong>p5 sales price value:</strong>
+                <span id="p5">0</span>
+              <br>
+                <strong>p25 sales price value:</strong>
+                <span id="p25">0</span>
+              <br>
+                <strong>p50 sales price value:</strong>
+                <span id="p50">0</span>
+            </div>
+          </div>
+        </section>
+        <section id="vinted">
+          <table class="table table-striped">
+            <thead>
+            <tr>
+              <th scope="col">Title</th>
+              <th scope="col">Price</th>
+              <th scope="col">Date de publication</th>
+            </tr>
+            </thead>
+            <tbody id="vinted-table">
+              <tr>
+                <td colspan="3" class="text-center">No vinted found</td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
       </div>
-      <div>
-        <span>Number of sales</span>
-        <span id="nbSales">0</span>
-      </div>
-      <div>
-        <span>p5 sales price value</span>
-        <span id="p5">0</span>
-      </div>
-      <div>
-        <span>p25 sales price value</span>
-        <span id="p25">0</span>
-      </div>
-      <div>
-        <span>p50 sales price value</span>
-        <span id="p50">0</span>
-      </div>
-      <div>
-        <span>Lifetime value</span>
-        <span id ="lifetimevalue">10 days</span>
-      </div>
-    </section>
-    <section id="deals"></section>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <script type="text/javascript" charset="UTF-8" src="utils.js"></script>
     <script type="text/javascript" charset="UTF-8" src="portfolio.js"></script>
-    
   </body>
 </html>

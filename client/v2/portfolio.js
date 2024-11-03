@@ -105,45 +105,71 @@ const fetchVinted = async (id
  * @param  {Array} dealvinteds
  */
 const renderDeals = deals => {
-  const fragment = document.createDocumentFragment();
-  const div = document.createElement('div');
-  const template = deals
-    .map(deal => {
-      return `
-      <div class="deal" id=${deal.uuid}>
-        <span>${deal.id}</span>
-        <a href="${deal.link}" target="_blank">${deal.title}</a>
-        <span>${deal.price}</span>
-      </div>
+  let template = '';
+  if(!deals.length) {
+    template = `
+      <tr>
+        <td colspan="5" class="text-center">No deals found</td>
+      </tr>
     `;
-    })
-    .join('');
+  }else{
+    template = deals
+        .map(deal => {
+          return `
+        <tr id="${deal.uuid}">
+          <td>${deal.id}</td>
+          <td><img src="${deal.photo}" class="img-fluid img-thumbnail img-max" alt="${deal.title}"></td>
+          <td>
+            <a href="${deal.link}" target="_blank">${deal.title}</a>
+          </td>
+          <td>
+            ${deal.price}€
+            <br>
+            <span class="badge text-bg-danger">${deal.discount}%</span>
+          </td>
+          <td>
+            Nombre de commentaires : ${deal.comments}
+            <br>
+            Température : ${deal.temperature}
+          </td>
+        </tr>
+    `;
+        })
+        .join('');
+  }
 
-  div.innerHTML = template;
-  fragment.appendChild(div);
-  sectionDeals.innerHTML = '<h2>Deals</h2>';
-  sectionDeals.appendChild(fragment);
+  document.querySelector('#deals-table').innerHTML = template;
 };
 
 const renderVinted = dealvinteds => {
-  const fragment = document.createDocumentFragment();
-  const div = document.createElement('div');
-  const template = dealvinteds
-    .map(dealvinted => {
-      return `
-      <div class="Vinted" id=${dealvinted.uuid}>
-        <span>${selectLegoSetIds.value}</span>
-        <a href="${dealvinted.link}">${dealvinted.title}</a>
-        <span>${dealvinted.price}</span>
-      </div>
+  let template = '';
+  if(!dealvinteds.length) {
+    template = `
+      <tr>
+        <td colspan="3" class="text-center">No vinted found</td>
+      </tr>
     `;
-    })
-    .join('');
+  }else{
+    template = dealvinteds
+        .map(dealvinted => {
+          return `
+        <tr id="${dealvinted.uuid}">
+          <td>
+            <a href="${dealvinted.link}" target="_blank">${dealvinted.title}</a>
+          </td>
+          <td>
+            ${dealvinted.price}€
+          </td>
+          <td>
+            ${new Date(dealvinted.published*1000).toLocaleDateString()}
+          </td>
+        </tr>
+    `;
+        })
+        .join('');
+  }
 
-  div.innerHTML = template;
-  fragment.appendChild(div);
-  sectionVinted.innerHTML = '<h2>Vinted</h2>';
-  sectionVinted.appendChild(fragment);
+  document.querySelector('#vinted-table').innerHTML = template;
 };
 
 /**
@@ -167,7 +193,8 @@ const renderPagination = pagination => {
  */
 const renderLegoSetIds = deals => {
   const ids = getIdsFromDeals(deals);
-  const options = ids.map(id => 
+  let options = '<option value="">Select a lego id</option>';
+  options += ids.map(id =>
     `<option value="${id}">${id}</option>`
   ).join('');
 
@@ -310,4 +337,18 @@ selectLegoSetIds.addEventListener('change', async (event) => {
 
 
   renderVinted(dealvinteds.result);
+});
+
+
+const dealsContent = document.getElementById("dealsContent");
+const iconChevron = document.getElementById("icon-chevron");
+
+dealsContent.addEventListener("shown.bs.collapse", function () {
+  iconChevron.classList.remove("bi-chevron-right");
+  iconChevron.classList.add("bi-chevron-down");
+});
+
+dealsContent.addEventListener("hidden.bs.collapse", function () {
+  iconChevron.classList.remove("bi-chevron-down");
+  iconChevron.classList.add("bi-chevron-right");
 });
