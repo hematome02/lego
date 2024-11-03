@@ -36,6 +36,11 @@ const spanNbDeals = document.querySelector('#nbDeals');
 const selectSort = document.querySelector('#sort-select');
 const sectionVinted= document.querySelector('#vinted');
 const spanNbSales = document.querySelector('#nbSales');
+const spanp5 = document.querySelector('#p5');
+const spanp25 = document.querySelector('#p25');
+const spanp50 = document.querySelector('#p50');
+const lifetime = document.querySelector('lifetimevalue');
+
 
 /**
  * Set global value
@@ -257,8 +262,52 @@ selectSort.addEventListener('change', async (event) => {
 });
 
 selectLegoSetIds.addEventListener('change', async (event) => {
+  
   const dealvinteds = await fetchVinted(selectLegoSetIds.value);
-  console.log(dealvinteds)
+  
   spanNbSales.innerHTML = dealvinteds.result.length;
+  
+  //je recupere l'id du set lego
+
+  const id= selectLegoSetIds.value; 
+ 
+  //je recupere les ventes vinted pour cet id
+
+  const response = await fetchVinted(selectLegoSetIds.value);
+  const sales = response.result;
+  
+  //je parcours le tableau des ventes vinted et e résupere le prix 
+  
+  const prices = [];
+
+  for (let i=0; i< sales.length; i++)
+  {
+    prices.push(sales[i].price); 
+    
+  }
+  spanp5.innerHTML= parseFloat(numPercentile (prices, 0.05)).toFixed(2); 
+  spanp25.innerHTML= parseFloat(numPercentile (prices, 0.25)).toFixed(2);
+  spanp50.innerHTML= parseFloat(numPercentile (prices, 0.50)).toFixed(2);
+
+  //je cherche la date de la vente la plus ancienne
+  let life =0 ;  
+
+  console.log(life);
+  console.log(sales);
+  for (let i=0; i< sales.length; i++)
+  {
+    const temp= new Date(sales[i].published )
+    console.log(temp);
+    if ( sales[i].published - life > 0)  
+      life = sales[i].published;
+      console.log(life);
+      
+    
+  }
+  console.log("2e");
+  console.log(Date(life));
+
+
+
   renderVinted(dealvinteds.result);
 });

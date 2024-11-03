@@ -62,3 +62,27 @@ function SortedByDate (deals,orders) {
     
 }
 
+
+function calculatePercentile(prices, percentile) {
+  /*  const prices =0
+    for( let i=0; i < prices.length; i++)
+    {
+        cons
+
+    }*/
+     
+    const index = (percentile / 100) * (prices.length - 1);
+    const lower = Math.floor(index);
+    const upper = Math.ceil(index);
+    const weight = index - lower;
+    return prices[lower] + weight * (prices[upper] - prices[lower]);
+  }
+
+  function numPercentile(a, p) {
+    var q = JSON.parse(JSON.stringify(a)).sort(function(x, y) {
+          return x-y;
+        }),
+        r = (q.length-1) * p,
+        b = Math.floor(r);
+    return ((q[b+1] !== undefined) ? (q[b] + (r-b) * (q[b+1] - q[b])) : q[b]);
+  }
