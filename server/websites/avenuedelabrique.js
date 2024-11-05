@@ -1,5 +1,7 @@
-const fetch = require('node-fetch');
+const fetch = (...args) =>
+  import("node-fetch").then(({ default: fetch }) => fetch(...args));
 const cheerio = require('cheerio');
+const fs = require('fs');
 
 /**
  * Parse webpage data response
@@ -27,26 +29,35 @@ const parse = data => {
         discount,
         price,
         'title': $(element).attr('title'),
+        
       };
     })
     .get();
+    
 };
 
 /**
  * Scrape a given url page
  * @param {String} url - url to parse
+ * @param {String} outputFile - path to the output JSON file
  * @returns 
  */
-module.exports.scrape = async url => {
+module.exports.scrape = async (url,outputFile) => {
   const response = await fetch(url);
-
+  
   if (response.ok) {
     const body = await response.text();
-
-    return parse(body);
+    console.log(`Data accessed`);
+    const parsedData = parse(body);
+       
+    fs.writeFileSync(outputFile, JSON.stringify(parsedData, null, 2), 'utf-8');
+    console.log(`Data saved to ${outputFile}`);
+   
+   return parse(body);
   }
 
   console.error(response);
+  
 
   return null;
 };
