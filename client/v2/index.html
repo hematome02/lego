@@ -12,6 +12,7 @@
       }
   </style>
   </head>
+
   <header>
     <table width="100%" style="background-color: #c54a4a; text-align: center; border-collapse: collapse;">
         <tr>
@@ -29,6 +30,36 @@
     </table>
 </header>
   <body>
+
+  <section id="favorite" class="mb-2">
+    <div class="card">
+      <div class="card-header d-flex">
+        <h3 class="me-auto">
+          Favorite
+        </h3>
+        <button class="btn btn-link d-flex float-end" data-bs-toggle="collapse" data-bs-target="#favContent" aria-expanded="true" aria-controls="dealsContent">
+          <i class="bi bi-chevron-right ms-2" id="icon-chevron-fav"></i>
+        </button>
+      </div>
+      <div id="favContent" class="collapse">
+        <div class="card-body">
+          <table class="table table-striped">
+            <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Image</th>
+              <th scope="col">Title</th>
+              <th scope="col">Price</th>
+              <th scope="col">Information supplémentaire</th>
+            </tr>
+            </thead>
+            <tbody id="fav-table">
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
     <section id="options">
       <div class="card mb-3">
         <div class="card-header d-flex">
@@ -90,7 +121,8 @@
             </div>
           </div>
         </div>
-    </section><section id="deals" class="mb-2">
+    </section>
+    <section id="deals" class="mb-2">
       <div class="card">
         <div class="card-header d-flex">
           <h3 class="me-auto">
@@ -120,8 +152,6 @@
         </div>
       </div>
     </section>
-
-
     <div class="card">
       <div class="card-header d-flex">
         <div class="p-2 me-auto">

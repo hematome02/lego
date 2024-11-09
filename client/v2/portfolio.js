@@ -25,6 +25,7 @@ This endpoint accepts the following optional query string parameters:
 let currentDeals = [];
 let currentPagination = {};
 let currentDealsVinted = [];
+let favoriteDeals = localStorage.getItem('favoriteDeals') ? JSON.parse(localStorage.getItem('favoriteDeals')) : [];
 
 
 // instantiate the selectors
@@ -102,14 +103,14 @@ const fetchVinted = async (id
 /**
  * Render list of deals
  * @param  {Array} deals
- * @param  {Array} dealvinteds
+ * @param table
  */
-const renderDeals = deals => {
+const renderDeals = (deals, table = 'deals') => {
   let template = '';
   if(!deals.length) {
     template = `
       <tr>
-        <td colspan="5" class="text-center">No deals found</td>
+        <td colspan="5" class="text-center">No ${table === 'deals' ? 'deals' : 'favorites'} found</td>
       </tr>
     `;
   }else{
@@ -117,7 +118,14 @@ const renderDeals = deals => {
         .map(deal => {
           return `
         <tr id="${deal.uuid}">
-          <td>${deal.id}</td>
+          <td>
+            ${deal.id}
+            <br>
+            <span class="badge rounded-pill text-bg-${favoriteDeals.some(favDeal => favDeal.id === deal.id) ? 'warning remove-favorite' : 'success add-favorite'}"
+            data-id="${deal.id}">
+              Favorite
+            </span>
+          </td>
           <td><img src="${deal.photo}" class="img-fluid img-thumbnail img-max" alt="${deal.title}"></td>
           <td>
             <a href="${deal.link}" target="_blank">${deal.title}</a>
@@ -138,7 +146,7 @@ const renderDeals = deals => {
         .join('');
   }
 
-  document.querySelector('#deals-table').innerHTML = template;
+  document.querySelector('#'+table+'-table').innerHTML = template;
 };
 
 const renderVinted = dealvinteds => {
@@ -352,3 +360,37 @@ dealsContent.addEventListener("hidden.bs.collapse", function () {
   iconChevron.classList.remove("bi-chevron-down");
   iconChevron.classList.add("bi-chevron-right");
 });
+
+const favContent = document.getElementById("favContent");
+const iconChevronFav = document.getElementById("icon-chevron-fav");
+
+favContent.addEventListener("shown.bs.collapse", function () {
+  iconChevronFav.classList.remove("bi-chevron-right");
+  iconChevronFav.classList.add("bi-chevron-down");
+});
+
+favContent.addEventListener("hidden.bs.collapse", function () {
+  iconChevronFav.classList.remove("bi-chevron-down");
+  iconChevronFav.classList.add("bi-chevron-right");
+});
+
+// Get element when add-favotrite is clicked
+document.addEventListener('click', async (event) => {
+  if (event.target.classList.contains('add-favorite')) {
+    let id = event.target.getAttribute('data-id');
+    let deal = currentDeals.find(deal => deal.id === id);
+    favoriteDeals.push(deal);
+    renderDeals(favoriteDeals, 'fav');
+    renderDeals(currentDeals);
+    localStorage.setItem('favoriteDeals', JSON.stringify(favoriteDeals));
+  }else if (event.target.classList.contains('remove-favorite')) {
+    let id = event.target.getAttribute('data-id');
+    favoriteDeals = favoriteDeals.filter(deal => deal.id !== id);
+    renderDeals(favoriteDeals, 'fav');
+    renderDeals(currentDeals);
+    localStorage.setItem('favoriteDeals', JSON.stringify(favoriteDeals));
+  }
+});
+
+
+renderDeals(favoriteDeals, 'fav');
