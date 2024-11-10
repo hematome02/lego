@@ -40,7 +40,7 @@ const spanNbSales = document.querySelector('#nbSales');
 const spanp5 = document.querySelector('#p5');
 const spanp25 = document.querySelector('#p25');
 const spanp50 = document.querySelector('#p50');
-const lifetime = document.querySelector('lifetimevalue');
+const lifetime = document.querySelector('#lifetimevalue');
 
 
 /**
@@ -133,13 +133,12 @@ const renderDeals = (deals, table = 'deals') => {
           <td>
             ${deal.price}€
             <br>
-            <span class="badge text-bg-danger">${deal.discount}%</span>
+            <span class="badge rounded-pill bg-info text-dark">${deal.discount}%</span>
           </td>
           <td>
             Nombre de commentaires : ${deal.comments}
             <br>
-            Température : ${deal.temperature}
-          </td>
+            <span class="badge rounded-pill bg-danger">${deal.temperature}°</span> 
         </tr>
     `;
         })
@@ -311,7 +310,7 @@ selectLegoSetIds.addEventListener('change', async (event) => {
   const response = await fetchVinted(selectLegoSetIds.value);
   const sales = response.result;
   
-  //je parcours le tableau des ventes vinted et e résupere le prix 
+  //je parcours le tableau des ventes vinted et je résupere le prix 
   
   const prices = [];
 
@@ -320,28 +319,111 @@ selectLegoSetIds.addEventListener('change', async (event) => {
     prices.push(sales[i].price); 
     
   }
-  spanp5.innerHTML= parseFloat(numPercentile (prices, 0.05)).toFixed(2); 
-  spanp25.innerHTML= parseFloat(numPercentile (prices, 0.25)).toFixed(2);
-  spanp50.innerHTML= parseFloat(numPercentile (prices, 0.50)).toFixed(2);
+  spanp5.innerHTML= parseFloat(numPercentile (prices, 0.05)).toFixed(2)+" €"; 
+  spanp25.innerHTML= parseFloat(numPercentile (prices, 0.25)).toFixed(2)+" €";
+  spanp50.innerHTML= parseFloat(numPercentile (prices, 0.50)).toFixed(2)+" €";
 
   //je cherche la date de la vente la plus ancienne
-  let life =0 ;  
 
-  console.log(life);
-  console.log(sales);
+  //je cherche la date d'aujourd'hui
+  let aujourd= new Date(); 
+  let day = aujourd.getDate();  
+  let month = aujourd.getMonth() + 1;  
+  let year = aujourd.getFullYear();  
+
+  // on ajoute un peu de formatage 
+  day = day < 10 ? '0' + day : day;
+  month = month < 10 ? '0' + month : month;
+
+  //la date d'aujourd'hui est hui
+  let hui = new Date( year, month-1, day).toLocaleDateString();
+
+  console.log("aujourd", aujourd); 
+  console.log("hui",hui);
+
+  console.log("day",day);
+
+  let an=-1;
+  let mo =-1;
+  let jour=-1;
+
+  let ana=-1;
+  let moi =-1;
+  let jours=-1;
+
+
+  
+  
   for (let i=0; i< sales.length; i++)
   {
-    const temp= new Date(sales[i].published )
-    console.log(temp);
-    if ( sales[i].published - life > 0)  
-      life = sales[i].published;
-      console.log(life);
-      
+    const temp= new Date(sales[i].published*1000).toLocaleDateString();
+    /*console.log(temp);
+    console.log("top");
+    console.log(temp.slice(0,2));
+    console.log(temp.slice(3,5));
+    console.log(temp.slice(6,10));
+    console.log(temp.slice(6,10));*/
     
-  }
-  console.log("2e");
-  console.log(Date(life));
+    //console.log("annee", year-temp.slice(6,10));
+    an=year-temp.slice(6,10);
+     
+    //console.log("mois",temp.slice(3,5)-month);
+    mo=Math.abs(temp.slice(3,5)-month);    
 
+    //console.log("jour",temp.slice(0,2)-day);
+    jour=0;
+    //console.log(temp.slice(0,2)>=day);
+    if(temp.slice(0,2)<=day) {
+      jour=Math.abs(temp.slice(0,2)-day);
+      jour+=1;
+    }
+    else {
+      mo-=1;
+      const moisJour = [
+        { mois: 1, jours: 31 },   // Janvier
+        { mois: 2, jours: 28 },   // Février
+        { mois: 3, jours: 31 },   // Mars
+        { mois: 4, jours: 30 },   // Avril
+        { mois: 5, jours: 31 },   // Mai
+        { mois: 6, jours: 30 },   // Juin
+        { mois: 7, jours: 31 },   // Juillet
+        { mois: 8, jours: 31 },   // Août
+        { mois: 9, jours: 30 },   // Septembre
+        { mois: 10, jours: 31 },  // Octobre
+        { mois: 11, jours: 30 },  // Novembre
+        { mois: 12, jours: 31 }   // Décembre
+      ];
+
+      //console.log("test",moisJour.find(m => m.mois === month));
+      //console.log((moisJour.find(m => m.mois === month)).jours);
+      jour=Math.abs((moisJour.find(m => m.mois === month)).jours-(temp.slice(0,2)-day)+2);
+    }
+     
+    console.log("diff year", temp.slice(6,10)==year)
+    if(temp.slice(6,10)!=year ){
+      mo=month;  
+      jour=day;             
+    }
+
+    console.log(ana, moi, jours);
+    console.log(an,mo, jour);
+
+    if(ana<=an){ 
+      ana=an;
+      if(moi<=mo){
+        moi=mo; 
+        jours=jour;
+
+      }
+      else{
+        if(jours<jour) {
+          jours=jour;
+        }
+      }
+    }
+  }
+ 
+  lifetime.innerHTML=`${ana} an, ${moi} mois, ${jours} jour(s)`;
 
 
   renderVinted(dealvinteds.result);
