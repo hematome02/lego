@@ -29,28 +29,36 @@ async function sandbox (){
     console.log(`Data saved to dealabs.json`);
 
     //4eme étape : Récuperer les ids des set Lego de dealabs.com 
+    let iddeal=[];
+    console.log("Length table avec les ids", deals.length);
+
+    for(let i=0; i <deals.length; i++){ //remplacer 10 par deals.length lorsque cela fonctionne
+      iddeal=iddeal.concat(deals[i].id);
+    }
+    console.log("4eme etape ", iddeal);
 
     //5eme étape : Scrapper les pages avec les ids set Lego sur Vinted
+    console.log("5eme etape", iddeal.length);//taille du tableau contenant les id des set lego
 
-    //6eme étape : Transformer le tableau en fichier json
-
-
-  /*
-    //nous avons créer un tableau dans lequel nous allons récuperer les Ids des set Lego pour aller sur Vinted 
-
-    const dlabs=await dealabs.scrape("https://www.dealabs.com/groupe/lego?page=2&hide_expired=true","dealabs.json");
-
-    //console.log(deals);
-    
-    // deals= deals.concat (valeur concat) pour récupérer le tableau de lego id 
-    
-    console.log(deals);
-    deals= await vinted.scrape(website,"vinted.json");
-
-    console.log(await vinted.scrape(website,"vinted.json"));
-    console.log("In sandbox ");
-    console.log(deals);*/
-    
+    for(let i=0; i< iddeal.length; i++){
+      let temp= await vinted.scrape(`https://www.vinted.fr/api/v2/catalog/items?page=1&per_page=96&search_text=${iddeal[i]}&catalog_ids=&size_ids=&brand_ids=89162&status_ids=&material_ids=`);
+       //6eme étape : Transformer le tableau en fichier json
+       // un fichier json par id set Lego qui nenvoit des offres Vinted
+      console.log(temp.length);
+      console.log(temp!=null);
+      if(temp.length >0 ){
+      fs.writeFileSync(`Vinted/${iddeal[i]}.json`, JSON.stringify(temp, null, 2), 'utf-8');    
+      console.log(`Data saved to ${iddeal[i]}.json`);
+      }
+      else {
+        console.log("id de set Lego non vendu sur Vinted",iddeal[i])
+        fs.writeFileSync(`Vinted/Non existant ${iddeal[i]}.json`, JSON.stringify(temp, null, 2), 'utf-8');
+        console.log(`Data saved to ${iddeal[i]}.json`);
+      }
+      
+      
+    }
+       
     console.log('done');
   
     process.exit(0);
