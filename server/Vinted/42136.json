@@ -1,27 +1,15 @@
 [
   {
+    "titre": "Lego Technic",
+    "lienURL": "https://www.vinted.fr/items/5414298263-lego-technic",
+    "price": "25.0",
+    "favourite": 2
+  },
+  {
     "titre": "Mode d'emploi lego technique",
     "lienURL": "https://www.vinted.fr/items/4934872595-mode-demploi-lego-technique",
     "price": "3.5",
     "favourite": 0
-  },
-  {
-    "titre": "Lego Technik, John Deere, 42136 NEU",
-    "lienURL": "https://www.vinted.fr/items/5397104646-lego-technik-john-deere-42136-neu",
-    "price": "18.0",
-    "favourite": 6
-  },
-  {
-    "titre": "Lego technique",
-    "lienURL": "https://www.vinted.fr/items/5405572652-lego-technique",
-    "price": "21.0",
-    "favourite": 6
-  },
-  {
-    "titre": "LEGO Technic 42136",
-    "lienURL": "https://www.vinted.fr/items/5382956322-lego-technic-42136",
-    "price": "20.0",
-    "favourite": 44
   },
   {
     "titre": "Stickers Lego Techinc 42136 - Tracteur John Deere 9620R 4WD",
@@ -31,9 +19,39 @@
   },
   {
     "titre": "LEGO Technic 42136",
+    "lienURL": "https://www.vinted.fr/items/5382956322-lego-technic-42136",
+    "price": "20.0",
+    "favourite": 46
+  },
+  {
+    "titre": "Lego Technik, John Deere, 42136 NEU",
+    "lienURL": "https://www.vinted.fr/items/5397104646-lego-technik-john-deere-42136-neu",
+    "price": "18.0",
+    "favourite": 6
+  },
+  {
+    "titre": "Lego 42136",
+    "lienURL": "https://www.vinted.fr/items/4460895885-lego-42136",
+    "price": "15.0",
+    "favourite": 10
+  },
+  {
+    "titre": "Lego Technic 42136 John Deere tractor",
+    "lienURL": "https://www.vinted.fr/items/5415347480-lego-technic-42136-john-deere-tractor",
+    "price": "20.0",
+    "favourite": 1
+  },
+  {
+    "titre": "LEGO Technic 42136",
     "lienURL": "https://www.vinted.fr/items/5403051066-lego-technic-42136",
     "price": "20.0",
-    "favourite": 5
+    "favourite": 6
+  },
+  {
+    "titre": "LEGO Technic 42136 : Tracteur John Deere 9620R 4WD",
+    "lienURL": "https://www.vinted.fr/items/5414426980-lego-technic-42136-tracteur-john-deere-9620r-4wd",
+    "price": "29.5",
+    "favourite": 1
   },
   {
     "titre": "Lego 42136 John deere",
@@ -42,15 +60,21 @@
     "favourite": 9
   },
   {
-    "titre": "Lego 42136",
-    "lienURL": "https://www.vinted.fr/items/4460895885-lego-42136",
-    "price": "15.0",
-    "favourite": 9
+    "titre": "Lego technic neuf jamais ouvert  john deere le tracteur numéro 42136",
+    "lienURL": "https://www.vinted.fr/items/5414243519-lego-technic-neuf-jamais-ouvert-john-deere-le-tracteur-numero-42136",
+    "price": "29.0",
+    "favourite": 2
   },
   {
     "titre": "NEU Lego technic Traktor 42136",
     "lienURL": "https://www.vinted.fr/items/5134261715-neu-lego-technic-traktor-42136",
     "price": "20.0",
+    "favourite": 2
+  },
+  {
+    "titre": "LEGO 42136 John deree originale nuovo",
+    "lienURL": "https://www.vinted.fr/items/5202418459-lego-42136-john-deree-originale-nuovo",
+    "price": "22.0",
     "favourite": 3
   },
   {
@@ -60,34 +84,22 @@
     "favourite": 0
   },
   {
-    "titre": "LEGO 42136 John deree originale nuovo",
-    "lienURL": "https://www.vinted.fr/items/5202418459-lego-42136-john-deree-originale-nuovo",
-    "price": "22.0",
-    "favourite": 3
-  },
-  {
-    "titre": "Lego 42136",
-    "lienURL": "https://www.vinted.fr/items/5372676696-lego-42136",
-    "price": "25.0",
-    "favourite": 6
-  },
-  {
     "titre": "Lego Tchinc John Deere",
     "lienURL": "https://www.vinted.fr/items/5332589430-lego-tchinc-john-deere",
     "price": "20.0",
-    "favourite": 7
-  },
-  {
-    "titre": "Lego technic 42136 neuf et emballé",
-    "lienURL": "https://www.vinted.fr/items/5209122542-lego-technic-42136-neuf-et-emballe",
-    "price": "34.0",
-    "favourite": 13
+    "favourite": 8
   },
   {
     "titre": "Notice Lego 42136 - instructions",
     "lienURL": "https://www.vinted.fr/items/3429320237-notice-lego-42136-instructions",
     "price": "5.0",
     "favourite": 0
+  },
+  {
+    "titre": "Lego technic 42136 neuf et emballé",
+    "lienURL": "https://www.vinted.fr/items/5209122542-lego-technic-42136-neuf-et-emballe",
+    "price": "34.0",
+    "favourite": 13
   },
   {
     "titre": "LEGO John Deere 9620R-4WD-Tractor - 42136",
@@ -102,10 +114,10 @@
     "favourite": 16
   },
   {
-    "titre": "LEGO technic 42136",
-    "lienURL": "https://www.vinted.fr/items/5336481059-lego-technic-42136",
-    "price": "14.0",
-    "favourite": 5
+    "titre": "Lego 42136",
+    "lienURL": "https://www.vinted.fr/items/5372676696-lego-42136",
+    "price": "25.0",
+    "favourite": 6
   },
   {
     "titre": "Lego technic 42136 trattore con rimorchio",
@@ -114,10 +126,10 @@
     "favourite": 3
   },
   {
-    "titre": "Lego technic 42136",
-    "lienURL": "https://www.vinted.fr/items/5369374896-lego-technic-42136",
-    "price": "27.5",
-    "favourite": 1
+    "titre": "LEGO technic 42136",
+    "lienURL": "https://www.vinted.fr/items/5336481059-lego-technic-42136",
+    "price": "14.0",
+    "favourite": 5
   },
   {
     "titre": "Lego John Deere 9620R 4WD Tractor 42136",
@@ -132,22 +144,40 @@
     "favourite": 0
   },
   {
-    "titre": "Lego John Deere 42136",
-    "lienURL": "https://www.vinted.fr/items/3973525338-lego-john-deere-42136",
-    "price": "30.0",
-    "favourite": 4
-  },
-  {
     "titre": "Lego Technic 42136",
     "lienURL": "https://www.vinted.fr/items/5282999457-lego-technic-42136",
     "price": "25.0",
     "favourite": 3
   },
   {
+    "titre": "Lego John Deere 42136",
+    "lienURL": "https://www.vinted.fr/items/3973525338-lego-john-deere-42136",
+    "price": "30.0",
+    "favourite": 4
+  },
+  {
+    "titre": "Lego technic 42136",
+    "lienURL": "https://www.vinted.fr/items/5369374896-lego-technic-42136",
+    "price": "27.5",
+    "favourite": 1
+  },
+  {
     "titre": "Lego technic 42136",
     "lienURL": "https://www.vinted.fr/items/3907095553-lego-technic-42136",
     "price": "30.0",
     "favourite": 6
+  },
+  {
+    "titre": "LEGO® Technic 42136 John Deere",
+    "lienURL": "https://www.vinted.fr/items/4869920355-legor-technic-42136-john-deere",
+    "price": "19.9",
+    "favourite": 5
+  },
+  {
+    "titre": "Lego Technic 42136 John Deere New",
+    "lienURL": "https://www.vinted.fr/items/5248580536-lego-technic-42136-john-deere-new",
+    "price": "29.99",
+    "favourite": 5
   },
   {
     "titre": "Lego Technic 42136",
@@ -162,28 +192,16 @@
     "favourite": 2
   },
   {
-    "titre": "Lego Technic 42136 John Deere New",
-    "lienURL": "https://www.vinted.fr/items/5248580536-lego-technic-42136-john-deere-new",
-    "price": "29.99",
-    "favourite": 5
-  },
-  {
-    "titre": "LEGO® Technic 42136 John Deere",
-    "lienURL": "https://www.vinted.fr/items/4869920355-legor-technic-42136-john-deere",
-    "price": "19.9",
-    "favourite": 5
+    "titre": "Lego 42136 John Deere Sealef",
+    "lienURL": "https://www.vinted.fr/items/5323674920-lego-42136-john-deere-sealef",
+    "price": "35.0",
+    "favourite": 1
   },
   {
     "titre": "Lego Technic 42136 neu & Ovp ",
     "lienURL": "https://www.vinted.fr/items/4102339553-lego-technic-42136-neu-ovp",
     "price": "34.9",
     "favourite": 0
-  },
-  {
-    "titre": "Lego 42136 John Deere Sealef",
-    "lienURL": "https://www.vinted.fr/items/5323674920-lego-42136-john-deere-sealef",
-    "price": "35.0",
-    "favourite": 1
   },
   {
     "titre": "Lego 42136 John Deere",
