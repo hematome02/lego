@@ -1,33 +1,9 @@
 [
   {
-    "titre": "Lego Kart",
-    "lienURL": "https://www.vinted.fr/items/5368903900-lego-kart",
-    "price": "7.9",
-    "favourite": 3
-  },
-  {
     "titre": "lego 60400",
     "lienURL": "https://www.vinted.fr/items/5310432729-lego-60400",
     "price": "6.0",
     "favourite": 2
-  },
-  {
-    "titre": "Lego City kart 60400",
-    "lienURL": "https://www.vinted.fr/items/4788682825-lego-city-kart-60400",
-    "price": "9.9",
-    "favourite": 3
-  },
-  {
-    "titre": "Lego 60400",
-    "lienURL": "https://www.vinted.fr/items/4860626246-lego-60400",
-    "price": "9.0",
-    "favourite": 2
-  },
-  {
-    "titre": "60400 Lego",
-    "lienURL": "https://www.vinted.fr/items/5004478305-60400-lego",
-    "price": "5.0",
-    "favourite": 1
   },
   {
     "titre": "Lego City Go Kart 60400",
@@ -36,15 +12,21 @@
     "favourite": 2
   },
   {
-    "titre": "Lego city 60400 raceauto",
-    "lienURL": "https://www.vinted.fr/items/5411809824-lego-city-60400-raceauto",
+    "titre": "Lego Kart",
+    "lienURL": "https://www.vinted.fr/items/5368903900-lego-kart",
+    "price": "7.9",
+    "favourite": 3
+  },
+  {
+    "titre": "60400 Lego",
+    "lienURL": "https://www.vinted.fr/items/5004478305-60400-lego",
     "price": "5.0",
     "favourite": 1
   },
   {
-    "titre": "Lego go-karts karting 60400",
-    "lienURL": "https://www.vinted.fr/items/5396760487-lego-go-karts-karting-60400",
-    "price": "12.0",
+    "titre": "Lego 60400",
+    "lienURL": "https://www.vinted.fr/items/4860626246-lego-60400",
+    "price": "9.0",
     "favourite": 2
   },
   {
@@ -54,33 +36,15 @@
     "favourite": 4
   },
   {
-    "titre": "Lego City - Karts de Corrida (60400)",
-    "lienURL": "https://www.vinted.fr/items/5408050304-lego-city-karts-de-corrida-60400",
-    "price": "8.99",
-    "favourite": 1
+    "titre": "Lego City kart 60400",
+    "lienURL": "https://www.vinted.fr/items/4788682825-lego-city-kart-60400",
+    "price": "9.9",
+    "favourite": 3
   },
   {
-    "titre": "Lego 60400",
-    "lienURL": "https://www.vinted.fr/items/4868253861-lego-60400",
+    "titre": "Lego go-karts karting 60400",
+    "lienURL": "https://www.vinted.fr/items/5396760487-lego-go-karts-karting-60400",
     "price": "10.0",
-    "favourite": 0
-  },
-  {
-    "titre": "Lego city cod.60400 go-kart e piloti nuovo e sigillato",
-    "lienURL": "https://www.vinted.fr/items/5007905952-lego-city-cod60400-go-kart-e-piloti-nuovo-e-sigillato",
-    "price": "7.0",
-    "favourite": 9
-  },
-  {
-    "titre": "Lego city 60400",
-    "lienURL": "https://www.vinted.fr/items/5240887157-lego-city-60400",
-    "price": "8.0",
-    "favourite": 2
-  },
-  {
-    "titre": "Lego set kart 60400",
-    "lienURL": "https://www.vinted.fr/items/5092810517-lego-set-kart-60400",
-    "price": "8.0",
     "favourite": 2
   },
   {
@@ -90,16 +54,46 @@
     "favourite": 1
   },
   {
+    "titre": "Lego city 60400 raceauto",
+    "lienURL": "https://www.vinted.fr/items/5411809824-lego-city-60400-raceauto",
+    "price": "5.0",
+    "favourite": 1
+  },
+  {
+    "titre": "Lego 60400",
+    "lienURL": "https://www.vinted.fr/items/4868253861-lego-60400",
+    "price": "10.0",
+    "favourite": 0
+  },
+  {
+    "titre": "Lego city 60400",
+    "lienURL": "https://www.vinted.fr/items/5240887157-lego-city-60400",
+    "price": "8.0",
+    "favourite": 2
+  },
+  {
+    "titre": "Lego city cod.60400 go-kart e piloti nuovo e sigillato",
+    "lienURL": "https://www.vinted.fr/items/5007905952-lego-city-cod60400-go-kart-e-piloti-nuovo-e-sigillato",
+    "price": "7.0",
+    "favourite": 9
+  },
+  {
     "titre": "Lego 60400 Go Kart und Rennfahrer",
     "lienURL": "https://www.vinted.fr/items/4554821620-lego-60400-go-kart-und-rennfahrer",
     "price": "5.0",
     "favourite": 2
   },
   {
-    "titre": "Lego 60400 et 60399",
-    "lienURL": "https://www.vinted.fr/items/5395808720-lego-60400-et-60399",
-    "price": "9.0",
-    "favourite": 0
+    "titre": "Lego City - Karts de Corrida (60400)",
+    "lienURL": "https://www.vinted.fr/items/5408050304-lego-city-karts-de-corrida-60400",
+    "price": "8.99",
+    "favourite": 1
+  },
+  {
+    "titre": "Lego set kart 60400",
+    "lienURL": "https://www.vinted.fr/items/5092810517-lego-set-kart-60400",
+    "price": "8.0",
+    "favourite": 2
   },
   {
     "titre": "Lego City 60400 - Karts en racers",
@@ -112,5 +106,11 @@
     "lienURL": "https://www.vinted.fr/items/3973167596-lego-60400",
     "price": "14.0",
     "favourite": 4
+  },
+  {
+    "titre": "5 lego 60400 ,60399 ,10782,76287, 31134",
+    "lienURL": "https://www.vinted.fr/items/5423272042-5-lego-60400-60399-1078276287-31134",
+    "price": "30.0",
+    "favourite": 0
   }
 ]

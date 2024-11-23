@@ -1,341 +1,1613 @@
 [
   {
+    "threadId": 2926651,
+    "image": "https://static-pepper.dealabs.com/threads/raw/H5jrk/2926651_1/re/300x300/qt/60/2926651_1.jpg",
+    "id": "75357",
+    "titre": "Jeu de construction Lego Star Wars (75357) - Ahsoka avec les vaisseaux Ghost et Phantom II (Frontaliers Belgique)",
+    "temperature": 1.21,
+    "publication": "23/11/2024",
+    "price": 123.99,
+    "reduction": 169.99,
+    "promotion": 27,
+    "link": "https://www.amazon.com.be/LEGO-75357-Comprenant-Construire-Personnages/dp/B0BV7FZH9C",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2926576,
+    "image": "https://static-pepper.dealabs.com/threads/raw/pTEzE/2926576_1/re/300x300/qt/60/2926576_1.jpg",
+    "id": "60422",
+    "titre": "Lego City 60422 : Le port et le navire marchand (via 20€ de cagnotte fidélité)",
+    "temperature": 36.29,
+    "publication": "23/11/2024",
+    "price": 59.99,
+    "reduction": 109.99,
+    "promotion": 45,
+    "link": "https://www.e.leclerc/fp/le-port-et-le-navire-marchand-5702017587288",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2926167,
+    "image": "https://static-pepper.dealabs.com/threads/raw/CrfBq/2926167_1/re/300x300/qt/60/2926167_1.jpg",
+    "id": "60414",
+    "titre": "Lego City 60414 La Caserne et le Camion de Pompiers (Via 13.45 sur la Carte de Fidélité )",
+    "temperature": 71.46,
+    "publication": "23/11/2024",
+    "price": 40.35,
+    "reduction": 54.9,
+    "promotion": 27,
+    "link": "https://www.e.leclerc/fp/5702017582962",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2926145,
+    "image": "https://static-pepper.dealabs.com/threads/raw/vonfk/2926145_1/re/300x300/qt/60/2926145_1.jpg",
+    "id": "10698",
+    "titre": "Jouet Lego Classic - Boîte de Briques Créative Deluxe 10698 - 790 pièces (via 25% sur la carte)",
+    "temperature": 73.18,
+    "publication": "23/11/2024",
+    "price": 25.21,
+    "reduction": 36,
+    "promotion": 30,
+    "link": "https://www.e.leclerc/fp/lego-classic-boite-de-briques-creatives-deluxe-jouet-creatif-construction-rangement-10698-5702015357197",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2925950,
+    "image": "https://static-pepper.dealabs.com/threads/raw/V1lc8/2925950_1/re/300x300/qt/60/2925950_1.jpg",
+    "id": "42638",
+    "titre": "Lego 42638 Friends La chambre d'hôte dans un château (via remise panier)",
+    "temperature": 35.03,
+    "publication": "23/11/2024",
+    "price": 64.69,
+    "reduction": 79.69,
+    "promotion": 19,
+    "link": "https://amzn.eu/d/3A2BEnX",
+    "datefin": false,
+    "commentaire": 2
+  },
+  {
+    "threadId": 2925745,
+    "image": "https://static-pepper.dealabs.com/threads/raw/5zuMr/2925745_1/re/300x300/qt/60/2925745_1.jpg",
+    "id": "10321",
+    "titre": "Lego 10321 Corvette",
+    "temperature": 35.4,
+    "publication": "23/11/2024",
+    "price": 119.99,
+    "reduction": 131,
+    "promotion": 8,
+    "link": "https://www.lego.com/fr-fr/product/corvette-10321",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2925741,
+    "image": "https://static-pepper.dealabs.com/threads/raw/trC6c/2925741_1/re/300x300/qt/60/2925741_1.jpg",
+    "id": "75308",
+    "titre": "Lego 75308 R2-D2",
+    "temperature": -27.43,
+    "publication": "23/11/2024",
+    "price": 191.99,
+    "reduction": 239.99,
+    "promotion": 20,
+    "link": "https://www.lego.com/fr-fr/product/r2-d2-75308",
+    "datefin": false,
+    "commentaire": 2
+  },
+  {
+    "threadId": 2925728,
+    "image": "https://static-pepper.dealabs.com/threads/raw/KUCRx/2925728_1/re/300x300/qt/60/2925728_1.jpg",
+    "id": "76266",
+    "titre": "Lego Marvel 76266 Endgame : Le Combat Final",
+    "temperature": 29.42,
+    "publication": "23/11/2024",
+    "price": 73.49,
+    "reduction": 104.99,
+    "promotion": 30,
+    "link": "https://www.king-jouet.com/jeu-jouet/jeux-constructions/lego-planchettes/ref-934574-76266-lego-marvel-endgame-le-combat-final.htm",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2925670,
+    "image": "https://static-pepper.dealabs.com/threads/raw/XjSzH/2925670_1/re/300x300/qt/60/2925670_1.jpg",
+    "id": "42168",
+    "titre": "Jeu de construction Lego Technic 42168 - John Deere 9700 Forage Harvester (via 8,25€ sur la carte de fidélité)",
+    "temperature": 55.45,
+    "publication": "23/11/2024",
+    "price": 24.74,
+    "reduction": 42.99,
+    "promotion": 42,
+    "link": "https://www.e.leclerc/fp/lego-technic-john-deere-forage-harvester-jouet-de-tracteur-agricole-42168-5702017583532",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2925574,
+    "image": "https://static-pepper.dealabs.com/threads/raw/UfSEY/2925574_1/re/300x300/qt/60/2925574_1.jpg",
+    "id": "43111",
+    "titre": "Jeu de construction Lego Vidiyo Candy Castle Stage BeatBox 43111",
+    "temperature": -14.02,
+    "publication": "23/11/2024",
+    "price": 16.49,
+    "reduction": 32.99,
+    "promotion": 50,
+    "link": "https://www.king-jouet.com/jeu-jouet/jeux-constructions/lego-planchettes/ref-868728-43111-lego-vidiyo-candy-castle-stage-beatbox.htm",
+    "datefin": false,
+    "commentaire": 2
+  },
+  {
+    "threadId": 2925566,
+    "image": "https://static-pepper.dealabs.com/threads/raw/xq47h/2925566_1/re/300x300/qt/60/2925566_1.jpg",
+    "id": "10303",
+    "titre": "[Membres] Sélection de set en promotion - Ex: Le grand huit LEGO Icons 10303 (+ Tourne-disque vintage & Train des fêtes + 32€ en points)",
+    "temperature": 311.87,
+    "publication": "23/11/2024",
+    "price": 319.99,
+    "reduction": 399.99,
+    "promotion": 20,
+    "link": "https://www.lego.com/fr-fr/product/loop-coaster-10303",
+    "datefin": false,
+    "commentaire": 21
+  },
+  {
+    "threadId": 2925524,
+    "image": "https://static-pepper.dealabs.com/threads/raw/UEx71/2925524_1/re/300x300/qt/60/2925524_1.jpg",
+    "id": "71374",
+    "titre": "[Membres LEGO Insiders] Lego Nintendo Entertainment (71374)",
+    "temperature": 36.79,
+    "publication": "23/11/2024",
+    "price": 215.99,
+    "reduction": 269.99,
+    "promotion": 20,
+    "link": "https://www.lego.com/fr-fr/product/nintendo-entertainment-system-71374",
+    "datefin": false,
+    "commentaire": 4
+  },
+  {
+    "threadId": 2925441,
+    "image": "https://static-pepper.dealabs.com/threads/raw/uU4Pe/2925441_1/re/300x300/qt/60/2925441_1.jpg",
+    "id": "21245",
+    "titre": "Jeu de construction Lego Minecraft - Le refuge panda n°21245",
+    "temperature": 29.64,
+    "publication": "22/11/2024",
+    "price": 29.99,
+    "reduction": 49.99,
+    "promotion": 40,
+    "link": "https://www.cultura.com/p-le-refuge-panda-5702017415802.html",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2925408,
+    "image": "https://static-pepper.dealabs.com/threads/raw/cYXrL/2925408_1/re/300x300/qt/60/2925408_1.jpg",
+    "id": "71439",
+    "titre": "Lego Super Mario. Sélection de sets en promotion - Ex : Lego Super Mario 71439",
+    "temperature": 13.03,
+    "publication": "22/11/2024",
+    "price": 34.9,
+    "reduction": 42,
+    "promotion": 17,
+    "link": "https://store.nintendo.fr/fr/offers/deals-and-offers-lego?c_franchise=LEGO&sort=newest-products&orderable_only=true",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2925368,
+    "image": "https://static-pepper.dealabs.com/threads/raw/F0SIi/2925368_1/re/300x300/qt/60/2925368_1.jpg",
+    "id": "10331",
+    "titre": "Jeu de construction Lego Icons (10331) - Le Martin-pêcheur (via 8.75€ sur la carte)",
+    "temperature": 95.92,
+    "publication": "22/11/2024",
+    "price": 26.25,
+    "reduction": 35,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/lego-icons-le-martin-pecheur-kit-de-maquette-pour-adultes-10331-5702017599564",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2925257,
+    "image": "https://static-pepper.dealabs.com/threads/raw/YoyNL/2925257_1/re/300x300/qt/60/2925257_1.jpg",
+    "id": "71426",
+    "titre": "Jeu de construction Lego Super Mario (71426) - La Plante Piranha",
+    "temperature": 83.99,
+    "publication": "22/11/2024",
+    "price": 45.99,
+    "reduction": 55.21,
+    "promotion": 17,
+    "link": "https://www.amazon.fr/dp/B0BV7DPF3C?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2925174,
+    "image": "https://static-pepper.dealabs.com/threads/raw/4qzCM/2925174_1/re/300x300/qt/60/2925174_1.jpg",
+    "id": "76433",
+    "titre": "Lego Harry Potter 76433 - La Mandragore (Via 13.25€ sur la Carte de Fidélité & Via Retrait Magasin)",
+    "temperature": 194.7,
+    "publication": "22/11/2024",
+    "price": 39.74,
+    "reduction": 52.99,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/mandragore-5702017583143",
+    "datefin": false,
+    "commentaire": 2
+  },
+  {
+    "threadId": 2925181,
+    "image": "https://static-pepper.dealabs.com/threads/raw/hZl25/2925181_1/re/300x300/qt/60/2925181_1.jpg",
+    "id": "31140",
+    "titre": "Jouet Lego 31140 Creator 3-en-1 La Licorne Magique",
+    "temperature": 63.89,
+    "publication": "22/11/2024",
+    "price": 6.29,
+    "reduction": 9.99,
+    "promotion": 37,
+    "link": "https://www.amazon.fr/dp/B0BBRZZSMD?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2925163,
+    "image": "https://static-pepper.dealabs.com/threads/raw/PEHAp/2925163_1/re/300x300/qt/60/2925163_1.jpg",
+    "id": "43247",
+    "titre": "Jouet Lego Disney Simba 43247 (via 26€ sur la carte)",
+    "temperature": 86.92,
+    "publication": "22/11/2024",
+    "price": 76.94,
+    "reduction": 102.59,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/5702017591940",
+    "datefin": false,
+    "commentaire": 5
+  },
+  {
+    "threadId": 2925176,
+    "image": "https://static-pepper.dealabs.com/threads/raw/CXVaI/2925176_1/re/300x300/qt/60/2925176_1.jpg",
+    "id": "71438",
+    "titre": "Lego Super Mario World 71438 - Mario et Yoshi (via 26,22€ sur Carte Fidélité) - sélection de magasin",
+    "temperature": 438.03,
+    "publication": "22/11/2024",
+    "price": 78.66,
+    "reduction": 129.99,
+    "promotion": 39,
+    "link": "https://www.e.leclerc/fp/lego-super-mario-super-mario-world-mario-et-yoshi-figurines-pixelisees-71438-5702017592770",
+    "datefin": false,
+    "commentaire": 14
+  },
+  {
+    "threadId": 2925165,
+    "image": "https://static-pepper.dealabs.com/threads/raw/F88HS/2925165_1/re/300x300/qt/60/2925165_1.jpg",
+    "id": "76958",
+    "titre": "LEGO Dilophosaurus Ambush (76958)",
+    "temperature": 55.73,
+    "publication": "22/11/2024",
+    "price": 18.99,
+    "reduction": 0,
+    "promotion": 0,
+    "link": "https://www.amazon.fr/dp/B0BPCD4RH9?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2924993,
+    "image": "https://static-pepper.dealabs.com/threads/raw/pjJYB/2924993_1/re/300x300/qt/60/2924993_1.jpg",
+    "id": "71408",
+    "titre": "Lego Super Mario 71408 Le Château de Peach - 1216 pièces",
+    "temperature": 46.22,
+    "publication": "22/11/2024",
+    "price": 74.99,
+    "reduction": 101.57,
+    "promotion": 26,
+    "link": "https://www.amazon.fr/dp/B09QFZW3V6?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2924939,
+    "image": "https://static-pepper.dealabs.com/threads/raw/IsKYT/2924939_1/re/300x300/qt/60/2924939_1.jpg",
+    "id": "42179",
+    "titre": "Lego Technic 42179 - La planète Terre et la Lune en orbite (via 25% sur la carte Leclerc)",
+    "temperature": 253.2,
+    "publication": "22/11/2024",
+    "price": 41.99,
+    "reduction": 56,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/lego-technic-la-planete-terre-et-la-lune-en-orbite-jouet-theme-du-systeme-solaire-42179-5702017584133",
+    "datefin": false,
+    "commentaire": 3
+  },
+  {
+    "threadId": 2924925,
+    "image": "https://static-pepper.dealabs.com/threads/raw/GFPRD/2924925_1/re/300x300/qt/60/2924925_1.jpg",
+    "id": "31213",
+    "titre": "LEGO Art 31213 La Joconde (+23,96€ cagnottés pour les CDAV)",
+    "temperature": 35.61,
+    "publication": "22/11/2024",
+    "price": 79.88,
+    "reduction": 99.99,
+    "promotion": 20,
+    "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-art-31213-la-joconde-set-de-construction/f-12084-lego31213.html",
+    "datefin": false,
+    "commentaire": 7
+  },
+  {
+    "threadId": 2924896,
+    "image": "https://static-pepper.dealabs.com/threads/raw/97S1t/2924896_1/re/300x300/qt/60/2924896_1.jpg",
+    "id": "10327",
+    "titre": "Jouet Lego Icons 10327 - Dune Atreides Royal Ornithopter (+11,55€ cagnottés pour les CDAV)",
+    "temperature": 71.68,
+    "publication": "22/11/2024",
+    "price": 115.49,
+    "reduction": 164.99,
+    "promotion": 30,
+    "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-icons-dune-atreides-royal-ornithopter-set-de/f-12084-lego10327.html",
+    "datefin": false,
+    "commentaire": 9
+  },
+  {
+    "threadId": 2924842,
+    "image": "https://static-pepper.dealabs.com/threads/raw/wSwhe/2924842_1/re/300x300/qt/60/2924842_1.jpg",
+    "id": "75381",
+    "titre": "Sélection de Lego en promotion - Ex : Lego Star Wars 75381 Le Droïdeka (Via 11,5€ sur la Carte de Fidélité, dans 99 magasins le 23/11)",
+    "temperature": 196.42,
+    "publication": "22/11/2024",
+    "price": 34.49,
+    "reduction": 45.99,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/lego-star-wars-le-droideka-set-de-construction-spatial-pour-adultes-75381-5702017584393",
+    "datefin": false,
+    "commentaire": 9
+  },
+  {
+    "threadId": 2924767,
+    "image": "https://static-pepper.dealabs.com/threads/raw/Ld8zK/2924767_1/re/300x300/qt/60/2924767_1.jpg",
+    "id": "10369",
+    "titre": "Lego Icons 10369 Les Fleurs de Prunier (Via 6,22€ sur la Carte de Fidélité)",
+    "temperature": 504.05,
+    "publication": "22/11/2024",
+    "price": 18.68,
+    "reduction": 24.9,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/les-fleurs-de-prunier-5702017719696",
+    "datefin": false,
+    "commentaire": 6
+  },
+  {
+    "threadId": 2924763,
+    "image": "https://static-pepper.dealabs.com/threads/raw/27X2J/2924763_1/re/300x300/qt/60/2924763_1.jpg",
+    "id": "10318",
+    "titre": "LEGO Icons 10318 - Le Concorde - Fameck (57) (via 39,9€ sur la carte fidélité)",
+    "temperature": 402.06,
+    "publication": "22/11/2024",
+    "price": 119.93,
+    "reduction": 0,
+    "promotion": 0,
+    "link": "",
+    "datefin": false,
+    "commentaire": 17
+  },
+  {
+    "threadId": 2924668,
+    "image": "https://static-pepper.dealabs.com/threads/raw/gcL7p/2924668_1/re/300x300/qt/60/2924668_1.jpg",
+    "id": "75379",
+    "titre": "Jeu de construction Lego Star Wars R2-D2 - 75379 (Via 17,5€ de fidélité)",
+    "temperature": 257.59,
+    "publication": "22/11/2024",
+    "price": 52.49,
+    "reduction": 69.9,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/lego-star-wars-r2-d2-jouet-droide-a-construire-cadeau-pour-enfants-jeu-de-combat-75379-5702017584379",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2924461,
+    "image": "https://static-pepper.dealabs.com/threads/raw/4EGVA/2924461_1/re/300x300/qt/60/2924461_1.jpg",
+    "id": "75375",
+    "titre": "LEGO Star Wars 75375 - Millennium Falcon (via 14,56€ crédité sur la carte)",
+    "temperature": 255.56,
+    "publication": "22/11/2024",
+    "price": 43.7,
+    "reduction": 58.27,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/lego-star-wars-millennium-falcon-set-de-construction-vaisseau-spatial-adultes-75375-5702017584348",
+    "datefin": false,
+    "commentaire": 2
+  },
+  {
+    "threadId": 2924396,
+    "image": "https://static-pepper.dealabs.com/threads/raw/PXedY/2924396_1/re/300x300/qt/60/2924396_1.jpg",
+    "id": "71437",
+    "titre": "LEGO Super Mario Train Bowser Express 71437 (via 24€ sur la carte Leclerc)",
+    "temperature": 37.32,
+    "publication": "22/11/2024",
+    "price": 71.99,
+    "reduction": 95.99,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/train-bowser-express-5702017592466",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2924352,
+    "image": "https://static-pepper.dealabs.com/threads/raw/uQbmj/2924352_1/re/300x300/qt/60/2924352_1.jpg",
+    "id": "10281",
+    "titre": "LEGO Icons 10281 : Bonsaï (via 8,75€ de fidélité)",
+    "temperature": 384.29,
+    "publication": "22/11/2024",
+    "price": 26.24,
+    "reduction": 34.99,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/lego-icons-bonsai-projet-de-construction-immersif-superbe-piece-a-exposer-et-a-admire-10281-5702016914177",
+    "datefin": false,
+    "commentaire": 5
+  },
+  {
+    "threadId": 2924294,
+    "image": "https://static-pepper.dealabs.com/threads/raw/swuqe/2924294_1/re/300x300/qt/60/2924294_1.jpg",
+    "id": "76781",
+    "titre": "Lego La chambre de Mercredi et Enid 76781 (via 21.25€ cagnottés)",
+    "temperature": 33.04,
+    "publication": "22/11/2024",
+    "price": 63.74,
+    "reduction": 0,
+    "promotion": 0,
+    "link": "https://www.e.leclerc/fp/5702017590431",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2924242,
+    "image": "https://static-pepper.dealabs.com/threads/raw/Nwfur/2924242_1/re/300x300/qt/60/2924242_1.jpg",
+    "id": "75398",
+    "titre": "C-3PO FIGURINE DE DROÏDE À CONSTRUIRE LEGO Star Wars 75398 (Via 27,50€ de fidélité)",
+    "temperature": 184.79,
+    "publication": "22/11/2024",
+    "price": 82.49,
+    "reduction": 109.99,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/c-3po-5702017584508",
+    "datefin": false,
+    "commentaire": 2
+  },
+  {
+    "threadId": 2924248,
+    "image": "https://static-pepper.dealabs.com/threads/raw/AbCnJ/2924248_1/re/300x300/qt/60/2924248_1.jpg",
+    "id": "10327",
+    "titre": "[Fnac+] LEGO Icons 10327 Dune Atreides Royal Ornithopter (+10€ sur la cagnotte)",
+    "temperature": -25.82,
+    "publication": "22/11/2024",
+    "price": 115.49,
+    "reduction": 119.99,
+    "promotion": 4,
+    "link": "https://www.fnac.com/LEGO-Icons-10327-Dune-Atreides-Royal-Ornithopter/a18821623/w-4",
+    "datefin": false,
+    "commentaire": 5
+  },
+  {
+    "threadId": 2924247,
+    "image": "https://static-pepper.dealabs.com/threads/raw/FgByl/2924247_1/re/300x300/qt/60/2924247_1.jpg",
+    "id": "60205",
+    "titre": "Jeu de Construction Pack de Rails Lego City 60205 (via 3,33€ cagnottés)",
+    "temperature": 87.21,
+    "publication": "22/11/2024",
+    "price": 10,
+    "reduction": 13.33,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/lego-city-pack-de-rails-60205-5702016199055?srsltid=AfmBOory6nH3QrEZirJTIoGirSAqI97RFYBbvYb-p5zRi6OQCRwI-hu2",
+    "datefin": false,
+    "commentaire": 2
+  },
+  {
+    "threadId": 2924245,
+    "image": "https://static-pepper.dealabs.com/threads/raw/IFzue/2924245_1/re/300x300/qt/60/2924245_1.jpg",
+    "id": "75385",
+    "titre": "LEGO Star Wars 75385 Le duel d'Ahsoka Tano sur Peridea (via 12,73€ en cagnotte fidélité)",
+    "temperature": 48.76,
+    "publication": "22/11/2024",
+    "price": 38.17,
+    "reduction": 50.9,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/5702017584416",
+    "datefin": false,
+    "commentaire": 4
+  },
+  {
+    "threadId": 2924190,
+    "image": "https://static-pepper.dealabs.com/threads/raw/b66MA/2924190_1/re/300x300/qt/60/2924190_1.jpg",
+    "id": "76218",
+    "titre": "Lego Marvel 76218 Le Saint Des Saints (Via 46,5€ sur la Carte de Fidélité)",
+    "temperature": 273.7,
+    "publication": "22/11/2024",
+    "price": 139.49,
+    "reduction": 186.99,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/lego-marvel-super-heroes-le-saint-des-saints-76218-5702017154619",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2924144,
+    "image": "https://static-pepper.dealabs.com/threads/raw/aIvRg/2924144_1/re/300x300/qt/60/2924144_1.jpg",
+    "id": "75395",
+    "titre": "Lego Star Wars 75395 Calendrier De l’Avent Star Wars 2024 (Via 6,23€ sur la Carte de Fidélité)",
+    "temperature": 223.62,
+    "publication": "22/11/2024",
+    "price": 18.67,
+    "reduction": 24.9,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/lego-star-wars-le-calendrier-de-l-avent-2024-set-a-construire-idee-cadeau-de-noel-75395-5702017583426",
+    "datefin": false,
+    "commentaire": 5
+  },
+  {
+    "threadId": 2923259,
+    "image": "https://static-pepper.dealabs.com/threads/raw/IwIUK/2923259_1/re/300x300/qt/60/2923259_1.jpg",
+    "id": "75389",
+    "titre": "LEGO Star Wars 75389 - Le Faucon Noir 75389 (via 32,25€ sur la carte)",
+    "temperature": 219.87,
+    "publication": "22/11/2024",
+    "price": 97.4,
+    "reduction": 130,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/le-faucon-noir-5702017584454",
+    "datefin": false,
+    "commentaire": 8
+  },
+  {
+    "threadId": 2924006,
+    "image": "https://static-pepper.dealabs.com/threads/raw/gzfja/2924006_1/re/300x300/qt/60/2924006_1.jpg",
+    "id": "10316",
+    "titre": "Lego Icons Le Seigneur des Anneaux : Fondcombe 10316",
+    "temperature": 58.47,
+    "publication": "22/11/2024",
+    "price": 449.99,
+    "reduction": 499.99,
+    "promotion": 10,
+    "link": "https://www.amazon.fr/dp/B0BVMZ5NT5?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2923818,
+    "image": "https://static-pepper.dealabs.com/threads/raw/6PKy2/2923818_1/re/300x300/qt/60/2923818_1.jpg",
+    "id": "71803",
+    "titre": "Lego Ninjago 71803 L’Attaque du Dragon Rebelle d’Arin",
+    "temperature": 29.66,
+    "publication": "22/11/2024",
+    "price": 6.99,
+    "reduction": 9.89,
+    "promotion": 29,
+    "link": "https://www.amazon.fr/dp/B0CFW1WBCM?psc=1",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2923809,
+    "image": "https://static-pepper.dealabs.com/threads/raw/FeOwd/2923809_1/re/300x300/qt/60/2923809_1.jpg",
+    "id": "71801",
+    "titre": "Lego 71801 Ninjago L'Attaque du Dragon Rebelle de Kai",
+    "temperature": -5.33,
+    "publication": "22/11/2024",
+    "price": 6.99,
+    "reduction": 9.16,
+    "promotion": 24,
+    "link": "https://www.amazon.fr/dp/B0CFW25F69?psc=1",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2923805,
+    "image": "https://static-pepper.dealabs.com/threads/raw/5cWqk/2923805_1/re/300x300/qt/60/2923805_1.jpg",
+    "id": "60337",
+    "titre": "Train LEGO 60337 (via 28,50€ carte leclerc)",
+    "temperature": 72.23,
+    "publication": "22/11/2024",
+    "price": 85.49,
+    "reduction": 113.99,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/lego-city-le-train-de-voyageurs-express-jeu-de-construction-60337-5702017162126",
+    "datefin": false,
+    "commentaire": 6
+  },
+  {
+    "threadId": 2923795,
+    "image": "https://static-pepper.dealabs.com/threads/raw/gZIC9/2923795_1/re/300x300/qt/60/2923795_1.jpg",
+    "id": "76286",
+    "titre": "Lego 76286 Les Gardiens de la Galaxie : le vaisseau Milano (via 34,75€ de cagnotte fidélité)",
+    "temperature": 164.45,
+    "publication": "22/11/2024",
+    "price": 105.24,
+    "reduction": 179.9,
+    "promotion": 42,
+    "link": "https://www.e.leclerc/fp/les-gardiens-de-la-galaxie-le-vaisseau-milan-5702017590097",
+    "datefin": false,
+    "commentaire": 14
+  },
+  {
+    "threadId": 2923775,
+    "image": "https://static-pepper.dealabs.com/threads/raw/Iv64t/2923775_1/re/300x300/qt/60/2923775_1.jpg",
+    "id": "40460",
+    "titre": "LEGO : Roses 40460 - Tournesols 40524 - Cerisier 40725 - Lotus 40647 (Via 2,39€ sur la carte de fidélité)",
+    "temperature": 49.28,
+    "publication": "22/11/2024",
+    "price": 7.17,
+    "reduction": 0,
+    "promotion": 0,
+    "link": "https://www.e.leclerc/fp/lego-iconic-les-roses-set-de-fleurs-artificielles-pour-enfants-des-8-ans-40460-5702017228402",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2923638,
+    "image": "https://static-pepper.dealabs.com/threads/raw/RQxMv/2923638_1/re/300x300/qt/60/2923638_1.jpg",
+    "id": "42633",
+    "titre": "LEGO Friends 42633 - Le Food-Truck de Hot-Dogs kike",
+    "temperature": 36.25,
+    "publication": "22/11/2024",
+    "price": 11.99,
+    "reduction": 19.99,
+    "promotion": 40,
+    "link": "https://www.king-jouet.com/jeu-jouet/jeux-constructions/lego-planchettes/ref-951690-42633-lego-friends-le-food-truck-de-hot-dogs.htm",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2923634,
+    "image": "https://static-pepper.dealabs.com/threads/raw/Sv5pi/2923634_1/re/300x300/qt/60/2923634_1.jpg",
+    "id": "42177",
+    "titre": "LEGO 42177 - Mercedes-Benz G 500 PROFESSIONAL Line (via 45€ sur la carte)",
+    "temperature": 176.98,
+    "publication": "22/11/2024",
+    "price": 134.99,
+    "reduction": 179.99,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/mercedes-benz-g-500-professional-line-5702017584119",
+    "datefin": false,
+    "commentaire": 6
+  },
+  {
+    "threadId": 2923592,
+    "image": "https://static-pepper.dealabs.com/threads/raw/XHegL/2923592_1/re/300x300/qt/60/2923592_1.jpg",
+    "id": "42176",
+    "titre": "Lego 42176 - Porsche GT4 e-Performance (Via 31,24€ fidélité)",
+    "temperature": 34.85,
+    "publication": "22/11/2024",
+    "price": 93.75,
+    "reduction": 124.99,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/5702017584102",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2923581,
+    "image": "https://static-pepper.dealabs.com/threads/raw/6ibFq/2923581_1/re/300x300/qt/60/2923581_1.jpg",
+    "id": "31208",
+    "titre": "Lego Art 31208 - Hokusai, La Grande Vague (via 19,45€ sur la carte) - sélection de magasin",
+    "temperature": 435.33,
+    "publication": "22/11/2024",
+    "price": 58.39,
+    "reduction": 79,
+    "promotion": 26,
+    "link": "https://www.e.leclerc/fp/lego-art-hokusai-la-grande-vague-decoration-murale-japonaise-loisir-creatif-adultes-31208-5702017412160?offer_id=o-5702017412160",
+    "datefin": false,
+    "commentaire": 12
+  },
+  {
+    "threadId": 2923543,
+    "image": "https://static-pepper.dealabs.com/threads/raw/Yznra/2923543_1/re/300x300/qt/60/2923543_1.jpg",
+    "id": "71460",
+    "titre": "40% de remise sur une sélection de produits LEGO. ex: LEGO 71460 - Le bus de l’espace de M. Oz",
+    "temperature": 1196.29,
+    "publication": "22/11/2024",
+    "price": 56.99,
+    "reduction": 0,
+    "promotion": 0,
+    "link": "https://www.cultura.com/les-promotions/promotions-enfant/promotions-jeux-jouets/promotions-lego.html",
+    "datefin": false,
+    "commentaire": 81
+  },
+  {
+    "threadId": 2923540,
+    "image": "https://static-pepper.dealabs.com/threads/raw/KxBO8/2923540_1/re/300x300/qt/60/2923540_1.jpg",
+    "id": "76430",
+    "titre": "LEGO Harry Potter - La volière du château de Poudlard 76430 (Via 7.99€ sur la cagnotte fidélité)",
+    "temperature": 44.22,
+    "publication": "22/11/2024",
+    "price": 24,
+    "reduction": 38.99,
+    "promotion": 38,
+    "link": "https://www.e.leclerc/fp/lego-harry-potter-la-voliere-du-chateau-de-poudlard-jouet-76430-5702017583129",
+    "datefin": false,
+    "commentaire": 3
+  },
+  {
+    "threadId": 2923529,
+    "image": "https://static-pepper.dealabs.com/threads/raw/hAs8X/2923529_1/re/300x300/qt/60/2923529_1.jpg",
+    "id": "76424",
+    "titre": "LEGO Harry Potter - La Ford Anglia Volante 76424 (Via 3.59€ sur la cagnotte fidélité)",
+    "temperature": 30.56,
+    "publication": "22/11/2024",
+    "price": 10.79,
+    "reduction": 14.99,
+    "promotion": 28,
+    "link": "https://www.e.leclerc/fp/lego-harry-potter-la-ford-anglia-volante-jouet-pour-enfants-voiture-a-construire-76424-5702017583075",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2923528,
+    "image": "https://static-pepper.dealabs.com/threads/raw/kUiRf/2923528_1/re/300x300/qt/60/2923528_1.jpg",
+    "id": "42115",
+    "titre": "Jeu de construction Lego Technic 42115 - Lamborghini Sián FKP 37 (via 80,55€ sur la carte)",
+    "temperature": 206.9,
+    "publication": "22/11/2024",
+    "price": 241.64,
+    "reduction": 339,
+    "promotion": 29,
+    "link": "https://www.e.leclerc/fp/lego-technic-lamborghini-sian-fkp-37-maquette-de-voiture-modelisme-pour-adultes-42115-5702016617535",
+    "datefin": false,
+    "commentaire": 4
+  },
+  {
+    "threadId": 2923523,
+    "image": "https://static-pepper.dealabs.com/threads/raw/gUZhk/2923523_1/re/300x300/qt/60/2923523_1.jpg",
+    "id": "76426",
+    "titre": "LEGO Harry Potter - Le Hangar à Bateaux de Poudlard 76426 (Via 6.64€ de cagnotte fidélité)",
+    "temperature": 15.4,
+    "publication": "22/11/2024",
+    "price": 19.95,
+    "reduction": 26.59,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/lego-harry-potter-le-hangar-a-bateaux-de-poudlard-jouet-fantastique-pour-enfants-76426-5702017583099",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2923497,
+    "image": "https://static-pepper.dealabs.com/threads/raw/JDSrf/2923497_1/re/300x300/qt/60/2923497_1.jpg",
+    "id": "75376",
+    "titre": "Lego Star Wars 75376 Tantive IV (via 13,75€ cagotté)",
+    "temperature": 44.99,
+    "publication": "22/11/2024",
+    "price": 41.24,
+    "reduction": 54.99,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/lego-star-wars-tantive-iv-set-de-construction-vaisseau-spatial-vehicule-75376-5702017584355",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2923484,
+    "image": "https://static-pepper.dealabs.com/threads/raw/liubU/2923484_1/re/300x300/qt/60/2923484_1.jpg",
+    "id": "41730",
+    "titre": "LEGO 41730 - La maison d’Autumn - LEGO Friends",
+    "temperature": 39.29,
+    "publication": "22/11/2024",
+    "price": 29.99,
+    "reduction": 49.99,
+    "promotion": 40,
+    "link": "https://www.cultura.com/p-la-maison-d-autumn-5702017415062.html",
+    "datefin": false,
+    "commentaire": 2
+  },
+  {
+    "threadId": 2923446,
+    "image": "https://static-pepper.dealabs.com/threads/raw/DgQTp/2923446_1/re/300x300/qt/60/2923446_1.jpg",
+    "id": "75337",
+    "titre": "Lego Star Wars 75337 - Le Marcheur AT-TE (Via 25,06€ fidélité - Sélection de magasins)",
+    "temperature": 154.7,
+    "publication": "22/11/2024",
+    "price": 75.18,
+    "reduction": 100.24,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/lego-star-wars-le-marcheur-at-te-set-de-construction-75337-5702017155630",
+    "datefin": false,
+    "commentaire": 9
+  },
+  {
+    "threadId": 2923439,
+    "image": "https://static-pepper.dealabs.com/threads/raw/XFWom/2923439_1/re/300x300/qt/60/2923439_1.jpg",
+    "id": "76419",
+    "titre": "Jeu de construction Lego Harry Potter - Le Château et le Domaine de Poudlard 76419 (Via 34.98€ de cagnotte fidélité)",
+    "temperature": 369.87,
+    "publication": "22/11/2024",
+    "price": 104.92,
+    "reduction": 139.9,
+    "promotion": 25,
+    "link": "https://www.e.leclerc/fp/lego-harry-potter-le-chateau-et-le-domaine-de-poudlard-maquette-a-construire-pour-adultes-76419-5702017413228",
+    "datefin": false,
+    "commentaire": 11
+  },
+  {
+    "threadId": 2922767,
+    "image": "https://static-pepper.dealabs.com/threads/raw/MPSfE/2922767_1/re/300x300/qt/60/2922767_1.jpg",
+    "id": "42166",
+    "titre": "Jeu de construction Lego Technic (42166) - NEOM McLaren Extreme E Race Car",
+    "temperature": 51.74,
+    "publication": "21/11/2024",
+    "price": 17.49,
+    "reduction": 22.17,
+    "promotion": 21,
+    "link": "https://www.amazon.fr/dp/B0CFVYBW3L?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2922541,
+    "image": "https://static-pepper.dealabs.com/threads/raw/dQLI5/2922541_1/re/300x300/qt/60/2922541_1.jpg",
+    "id": "75382",
+    "titre": "LEGO Star Wars - Interceptor (75382)",
+    "temperature": -7.48,
+    "publication": "21/11/2024",
+    "price": 206.99,
+    "reduction": 229.99,
+    "promotion": 10,
+    "link": "https://www.amazon.fr/dp/B0CWH2DGNN?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 2
+  },
+  {
+    "threadId": 2922476,
+    "image": "https://static-pepper.dealabs.com/threads/raw/BBrX0/2922476_1/re/300x300/qt/60/2922476_1.jpg",
+    "id": "42159",
+    "titre": "Jouet Lego Technic Yamaha MT-10 SP 42159 (via coupon)",
+    "temperature": 20.8,
+    "publication": "21/11/2024",
+    "price": 145.99,
+    "reduction": 162.5,
+    "promotion": 10,
+    "link": "https://www.amazon.fr/dp/B0BV7F6767?m=A1X6FK5RDHNB96&th=1",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2922447,
+    "image": "https://static-pepper.dealabs.com/threads/raw/l85pP/2922447_1/re/300x300/qt/60/2922447_1.jpg",
+    "id": "76293",
+    "titre": "Lego Marvel 76293 Calendrier De l’Avent Spider-Man 2024",
+    "temperature": 21.78,
+    "publication": "21/11/2024",
+    "price": 17.99,
+    "reduction": 25.2,
+    "promotion": 29,
+    "link": "https://www.getgoods.com/fr-fr/products/4787137/76293-LEGO-MARVEL-SUPER-HEROES-Calendrier-de-lAvent-Spider-Man-2024.html",
+    "datefin": false,
+    "commentaire": 7
+  },
+  {
+    "threadId": 2922429,
+    "image": "https://static-pepper.dealabs.com/threads/raw/Zv7Sv/2922429_1/re/300x300/qt/60/2922429_1.jpg",
+    "id": "31208",
+    "titre": "Lego Art 31208 Hokusai La Grande Vague",
+    "temperature": 39.98,
+    "publication": "21/11/2024",
+    "price": 64.99,
+    "reduction": 77.91,
+    "promotion": 17,
+    "link": "https://www.getgoods.com/fr-fr/products/4645096/31208-LEGO-ART-Hokusai-grande-vague.html",
+    "datefin": false,
+    "commentaire": 3
+  },
+  {
+    "threadId": 2922192,
+    "image": "https://static-pepper.dealabs.com/threads/raw/njQ7Y/2922192_1/re/300x300/qt/60/2922192_1.jpg",
+    "id": "43249",
+    "titre": "Lego Disney Stitch - 43249",
+    "temperature": 30.22,
+    "publication": "21/11/2024",
+    "price": 44.49,
+    "reduction": 50.45,
+    "promotion": 12,
+    "link": "https://www.amazon.fr/dp/B0CFVZG5TR/ref=asc_df_B0CFVZG5TR/",
+    "datefin": false,
+    "commentaire": 3
+  },
+  {
+    "threadId": 2922078,
+    "image": "https://static-pepper.dealabs.com/threads/raw/ztPiF/2922078_1/re/300x300/qt/60/2922078_1.jpg",
+    "id": "75359",
+    "titre": "Lego Star Wars Pack de Combat des Clone Troopers de la 332e Compagnie d’Ahsoka 75359",
+    "temperature": 39.36,
+    "publication": "21/11/2024",
+    "price": 13.99,
+    "reduction": 17.9,
+    "promotion": 22,
+    "link": "https://www.amazon.fr/dp/B0BV7CGFPC?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2922009,
+    "image": "https://static-pepper.dealabs.com/threads/raw/vJJTj/2922009_1/re/300x300/qt/60/2922009_1.jpg",
+    "id": "10309",
+    "titre": "Sélection de Lego en promotion \"Black friday week\" sur Amazon.de - ex : Les succulentes LEGO Creator 10309",
+    "temperature": 43.36,
+    "publication": "21/11/2024",
+    "price": 40.33,
+    "reduction": 50.79,
+    "promotion": 21,
+    "link": "https://www.amazon.de/dp/B09BNV7VS1?smid=A3JWKAKR8XB7XF",
+    "datefin": false,
+    "commentaire": 2
+  },
+  {
+    "threadId": 2921773,
+    "image": "https://static-pepper.dealabs.com/threads/raw/ceFZ0/2921773_1/re/300x300/qt/60/2921773_1.jpg",
+    "id": "31125",
+    "titre": "LEGO 31125 Creator 3 en 1 Fabuleuses Créatures De La Forêt",
+    "temperature": 18.07,
+    "publication": "21/11/2024",
+    "price": 10.49,
+    "reduction": 12.95,
+    "promotion": 19,
+    "link": "https://amzn.eu/d/6Ju4Uf4",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2921550,
+    "image": "https://static-pepper.dealabs.com/threads/raw/SW9A4/2921550_1/re/300x300/qt/60/2921550_1.jpg",
+    "id": "75392",
+    "titre": "LEGO Star Wars 75392 La Fabrique de Droïdes Créative",
+    "temperature": -14.34,
+    "publication": "21/11/2024",
+    "price": 79.99,
+    "reduction": 99.99,
+    "promotion": 20,
+    "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-star-wars-75392-la-fabrique-de-droides-cre/f-12084-lego75392.html",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2921425,
+    "image": "https://static-pepper.dealabs.com/threads/raw/Y93Vf/2921425_1/re/300x300/qt/60/2921425_1.jpg",
+    "id": "76404",
+    "titre": "LEGO Harry Potter - Calendrier de l’Avent 76404",
+    "temperature": 16.63,
+    "publication": "21/11/2024",
+    "price": 25,
+    "reduction": 34.99,
+    "promotion": 29,
+    "link": "https://www.king-jouet.com/jeu-jouet/fetes-deco-mode-enfants/calendriers-de-l-avent/ref-905371-76404-lego-harry-potter-calendrier-de-l-avent.htm",
+    "datefin": false,
+    "commentaire": 2
+  },
+  {
+    "threadId": 2921216,
+    "image": "https://static-pepper.dealabs.com/threads/raw/mV9Dg/2921216_1/re/300x300/qt/60/2921216_1.jpg",
+    "id": "42152",
+    "titre": "LEGO 42152 Technic L’Avion de Lutte Contre l'Incendie",
+    "temperature": 38.77,
+    "publication": "21/11/2024",
+    "price": 74.99,
+    "reduction": 97.01,
+    "promotion": 23,
+    "link": "https://www.amazon.fr/dp/B0BBS251VJ?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 3
+  },
+  {
+    "threadId": 2921066,
+    "image": "https://static-pepper.dealabs.com/threads/raw/PK7H7/2921066_1/re/300x300/qt/60/2921066_1.jpg",
+    "id": "76428",
+    "titre": "LEGO Harry Potter 76428 - La Cabane de Hagrid : Une Visite Inattendue",
+    "temperature": 50.71,
+    "publication": "21/11/2024",
+    "price": 51.99,
+    "reduction": 62.88,
+    "promotion": 17,
+    "link": "https://www.amazon.fr/dp/B0CFVZ865V?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2920860,
+    "image": "https://static-pepper.dealabs.com/threads/raw/sOGyG/2920860_1/re/300x300/qt/60/2920860_1.jpg",
+    "id": "42172",
+    "titre": "LEGO Technic 42172 - McLaren P1",
+    "temperature": -60.07,
+    "publication": "21/11/2024",
+    "price": 359.99,
+    "reduction": 0,
+    "promotion": 0,
+    "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-technic-42172-mclaren-p1-kit-maquette-hyp/f-12084-lego42172.html",
+    "datefin": false,
+    "commentaire": 11
+  },
+  {
+    "threadId": 2920784,
+    "image": "https://static-pepper.dealabs.com/threads/raw/7TYWX/2920784_1/re/300x300/qt/60/2920784_1.jpg",
+    "id": "75375",
+    "titre": "LEGO Star Wars 75375 - Millennium Falcon",
+    "temperature": 61.93,
+    "publication": "21/11/2024",
+    "price": 56,
+    "reduction": 66.96,
+    "promotion": 16,
+    "link": "https://www.amazon.fr/dp/B0CFW29DZX?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2920607,
+    "image": "https://static-pepper.dealabs.com/threads/raw/54Sa6/2920607_1/re/300x300/qt/60/2920607_1.jpg",
+    "id": "31151",
+    "titre": "Jeu de construction Lego 31151 Creator 3 en 1 L'astronaute dans l'espace",
+    "temperature": 37.11,
+    "publication": "21/11/2024",
+    "price": 32.99,
+    "reduction": 0,
+    "promotion": 0,
+    "link": "https://www.amazon.fr/dp/B0CFW2SH2H?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2920596,
+    "image": "https://static-pepper.dealabs.com/threads/raw/8mFEy/2920596_1/re/300x300/qt/60/2920596_1.jpg",
+    "id": "10316",
+    "titre": "Jeu de construction Lego 10316 Icons Le Seigneur des Anneaux : Fondcombe",
+    "temperature": 205.29,
+    "publication": "21/11/2024",
+    "price": 410.99,
+    "reduction": 499.99,
+    "promotion": 18,
+    "link": "https://www.amazon.de/dp/B0BVMZ5NT5?smid=A3JWKAKR8XB7XF",
+    "datefin": false,
+    "commentaire": 18
+  },
+  {
+    "threadId": 2920452,
+    "image": "https://static-pepper.dealabs.com/threads/raw/y6QHd/2920452_1/re/300x300/qt/60/2920452_1.jpg",
+    "id": "75372",
+    "titre": "Jeu de construction Lego Star Wars (75372) - Pack de Combat des Clone Troopers et Droïdes de Combat",
+    "temperature": 47.08,
+    "publication": "21/11/2024",
+    "price": 19.49,
+    "reduction": 27.15,
+    "promotion": 28,
+    "link": "https://www.amazon.fr/dp/B0CFVY784R?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 9
+  },
+  {
+    "threadId": 2920386,
+    "image": "https://static-pepper.dealabs.com/threads/raw/B7JEo/2920386_1/re/300x300/qt/60/2920386_1.jpg",
+    "id": "75394",
+    "titre": "Jeu de construction Lego Star Wars Imperial Star Destroyer 75394",
+    "temperature": 15.68,
+    "publication": "21/11/2024",
+    "price": 149.99,
+    "reduction": 169.99,
+    "promotion": 12,
+    "link": "https://www.amazon.fr/dp/B0CWH2RPVS?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 7
+  },
+  {
+    "threadId": 2920231,
+    "image": "https://static-pepper.dealabs.com/threads/raw/LdyL1/2920231_1/re/300x300/qt/60/2920231_1.jpg",
+    "id": "10341",
+    "titre": "Jeu de construction Lego Icons (10341) - Le système de lancement spatial d'Artemis de la NASA",
+    "temperature": 32.87,
+    "publication": "21/11/2024",
+    "price": 229.99,
+    "reduction": 256,
+    "promotion": 10,
+    "link": "https://www.amazon.fr/dp/B00C1DIRXQ?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2920136,
+    "image": "https://static-pepper.dealabs.com/threads/raw/SCaFn/2920136_1/re/300x300/qt/60/2920136_1.jpg",
+    "id": "21331",
+    "titre": "Jeu de construction Lego Ideas (21331) - Sonic the Hedgehog",
+    "temperature": 24.06,
+    "publication": "21/11/2024",
+    "price": 44.99,
+    "reduction": 58.09,
+    "promotion": 23,
+    "link": "https://www.amazon.fr/dp/B09BNVFK4M?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2919883,
+    "image": "https://static-pepper.dealabs.com/threads/raw/htKGB/2919883_1/re/300x300/qt/60/2919883_1.jpg",
+    "id": "41756",
+    "titre": "Jeu de construction Lego Friends (41756) - Les Vacances au Ski",
+    "temperature": 6.41,
+    "publication": "20/11/2024",
+    "price": 50.99,
+    "reduction": 65.75,
+    "promotion": 22,
+    "link": "https://www.amazon.fr/dp/B0BV7DGJP9?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2919855,
+    "image": "https://static-pepper.dealabs.com/threads/raw/w5IxK/2919855_1/re/300x300/qt/60/2919855_1.jpg",
+    "id": "21341",
+    "titre": "Lego Ideas 21341 : Hocus Pocus Disney, Le Manoir des Sœurs Sanderson",
+    "temperature": 85.1,
+    "publication": "20/11/2024",
+    "price": 154.99,
+    "reduction": 229.83,
+    "promotion": 33,
+    "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-ideas-hocus-pocus-disney-le-manoir-des-s/f-12084-lego21341.html",
+    "datefin": false,
+    "commentaire": 5
+  },
+  {
+    "threadId": 2919765,
+    "image": "https://static-pepper.dealabs.com/threads/raw/sLABE/2919765_1/re/300x300/qt/60/2919765_1.jpg",
+    "id": "10332",
+    "titre": "Jouet Lego Icons 10332 - La place de la ville médiévale",
+    "temperature": 89.14,
+    "publication": "20/11/2024",
+    "price": 164.99,
+    "reduction": 0,
+    "promotion": 0,
+    "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-icons-10332-la-place-de-la-ville-medievale/f-12084-lego10332.html#mpos=0%7Ccd",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2919751,
+    "image": "https://static-pepper.dealabs.com/threads/raw/3BukV/2919751_1/re/300x300/qt/60/2919751_1.jpg",
+    "id": "42177",
+    "titre": "Lego Technic 42177 Mercedes-Benz G 500 Professional Line",
+    "temperature": 44.3,
+    "publication": "20/11/2024",
+    "price": 164.99,
+    "reduction": 181.9,
+    "promotion": 9,
+    "link": "https://www.cdiscount.com/juniors/maquette-modelisme/mercedes-benz-g-500-professional-line/f-12084-lego42177.html",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2919744,
+    "image": "https://static-pepper.dealabs.com/threads/raw/WZtgk/2919744_1/re/300x300/qt/60/2919744_1.jpg",
+    "id": "21335",
+    "titre": "Jouet Lego Ideas - Le Phare Motorisé 21335",
+    "temperature": 188.33,
+    "publication": "20/11/2024",
+    "price": 204.99,
+    "reduction": 260,
+    "promotion": 21,
+    "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-21335-ideas-le-phare-motorise-maquette-a-con/f-12084-lego21335.html",
+    "datefin": false,
+    "commentaire": 4
+  },
+  {
+    "threadId": 2919666,
+    "image": "https://static-pepper.dealabs.com/threads/raw/qgvHr/2919666_1/re/300x300/qt/60/2919666_1.jpg",
+    "id": "75388",
+    "titre": "LEGO Star Wars - Le chasseur stellaire de Jedi Bob (75388)",
+    "temperature": 45.5,
+    "publication": "20/11/2024",
+    "price": 29.99,
+    "reduction": 37.99,
+    "promotion": 21,
+    "link": "https://www.amazon.fr/dp/B0CWH1Z7LV?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
+    "threadId": 2919663,
+    "image": "https://static-pepper.dealabs.com/threads/raw/ZJy2e/2919663_1/re/300x300/qt/60/2919663_1.jpg",
+    "id": "31124",
+    "titre": "LEGO Creator 3 in 1 - Le Super Robot (31124)",
+    "temperature": 74.96,
+    "publication": "20/11/2024",
+    "price": 6.99,
+    "reduction": 8.99,
+    "promotion": 22,
+    "link": "https://www.e.leclerc/fp/le-super-robot-5702017117461",
+    "datefin": false,
+    "commentaire": 2
+  },
+  {
+    "threadId": 2919585,
+    "image": "https://static-pepper.dealabs.com/threads/raw/FNqdZ/2919585_1/re/300x300/qt/60/2919585_1.jpg",
+    "id": "75363",
+    "titre": "Jouet Lego Star Wars Microfighter Chasseur N-1 du Mandalorien 75363",
+    "temperature": 62.55,
+    "publication": "20/11/2024",
+    "price": 11.19,
+    "reduction": 14,
+    "promotion": 20,
+    "link": "https://www.amazon.fr/dp/B0BV7BVR1W?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2919582,
+    "image": "https://static-pepper.dealabs.com/threads/raw/TkP7l/2919582_1/re/300x300/qt/60/2919582_1.jpg",
+    "id": "75325",
+    "titre": "Lego Star Wars 75325 Le Chasseur N-1 Mandalorien",
+    "temperature": 70.07,
+    "publication": "20/11/2024",
+    "price": 45.49,
+    "reduction": 49,
+    "promotion": 7,
+    "link": "https://www.amazon.fr/dp/B09BNZXG6W?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 1
+  },
+  {
+    "threadId": 2919577,
+    "image": "https://static-pepper.dealabs.com/threads/raw/x6K6Y/2919577_1/re/300x300/qt/60/2919577_1.jpg",
+    "id": "75346",
+    "titre": "Lego Star Wars 75346 Pirate Snub Fighter, The Mandalorian Seizoen 3",
+    "temperature": 53.81,
+    "publication": "20/11/2024",
+    "price": 23.99,
+    "reduction": 35,
+    "promotion": 31,
+    "link": "https://www.amazon.fr/dp/B0BBVC5LJD?smid=A1X6FK5RDHNB96",
+    "datefin": false,
+    "commentaire": 0
+  },
+  {
     "threadId": 2919569,
     "image": "https://static-pepper.dealabs.com/threads/raw/QIaGg/2919569_1/re/300x300/qt/60/2919569_1.jpg",
     "id": "75347",
     "titre": "Jouet Lego Star Wars Le Bombardier TIE Vaisseau avec Figurine de Droïde Gonk et Minifigurine Dark Vador 75347",
-    "temperature": 6,
+    "temperature": 70.57,
     "publication": "20/11/2024",
     "price": 45.49,
     "reduction": 52,
-    "promotion": "13 %",
+    "promotion": 13,
     "link": "https://www.amazon.fr/LEGO-75347-Bombardier-Construire-Minifigurine/dp/B0BBRZMRDP/",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2919504,
-    "image": "https://static-pepper.dealabs.com/threads/raw/YmlMz/2919504_1/re/300x300/qt/60/2919504_1.jpg",
+    "image": "https://static-pepper.dealabs.com/threads/raw/lqAHm/2919504_1/re/300x300/qt/60/2919504_1.jpg",
     "id": "60439",
     "titre": "Jeu de construction Lego City - 60439, Le Laboratoire Scientifique de l’Espace",
-    "temperature": 46.03,
+    "temperature": 153.69,
     "publication": "20/11/2024",
     "price": 23.99,
     "reduction": 39.99,
-    "promotion": "40 %",
+    "promotion": 40,
     "link": "https://www.e.leclerc/fp/5702017599601",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 7
   },
   {
     "threadId": 2919418,
     "image": "https://static-pepper.dealabs.com/threads/raw/7etQN/2919418_1/re/300x300/qt/60/2919418_1.jpg",
     "id": "60379",
     "titre": "Jouet Lego Sous-marin 60379",
-    "temperature": 42.02,
+    "temperature": 160,
     "publication": "20/11/2024",
     "price": 60,
     "reduction": 104.99,
-    "promotion": "43 %",
+    "promotion": 43,
     "link": "https://www.smythstoys.com/fr/fr-fr/jouets/lego/lego-city/lego-city-60379-sous-marin-dexploration/p/222947",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2919375,
     "image": "https://static-pepper.dealabs.com/threads/raw/VRpf8/2919375_1/re/300x300/qt/60/2919375_1.jpg",
     "id": "21252",
     "titre": "Lego Minecraft 21252 L’Armurerie",
-    "temperature": 30.28,
+    "temperature": 33.28,
     "publication": "20/11/2024",
     "price": 13.99,
     "reduction": 18.68,
-    "promotion": "25 %",
+    "promotion": 25,
     "link": "https://www.amazon.fr/dp/B0CFW1M2WB?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2919180,
     "image": "https://static-pepper.dealabs.com/threads/raw/92Sal/2919180_1/re/300x300/qt/60/2919180_1.jpg",
     "id": "71440",
     "titre": "Lego 71440 : Super Mario - Les Aventures de Luigi Interactif",
-    "temperature": 6.53,
+    "temperature": 6.33,
     "publication": "20/11/2024",
     "price": 39.99,
     "reduction": 44.79,
-    "promotion": "11 %",
+    "promotion": 11,
     "link": "https://www.amazon.fr/dp/B0CWH3BRYZ?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2919153,
     "image": "https://static-pepper.dealabs.com/threads/raw/bFjjG/2919153_1/re/300x300/qt/60/2919153_1.jpg",
     "id": "21251",
     "titre": "Lego Minecraft 21251 L’Expédition de Steve dans Le Désert",
-    "temperature": 33.6,
+    "temperature": 36.8,
     "publication": "20/11/2024",
     "price": 6.99,
     "reduction": 9.95,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.amazon.fr/dp/B0CFVZSXP2?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2919147,
     "image": "https://static-pepper.dealabs.com/threads/raw/kTWYT/2919147_1/re/300x300/qt/60/2919147_1.jpg",
     "id": "21178",
     "titre": "LEGO Minecraft 21178 - Le Refuge du Renard",
-    "temperature": 35.1,
+    "temperature": 39.5,
     "publication": "20/11/2024",
     "price": 13.99,
     "reduction": 15.61,
-    "promotion": "10 %",
+    "promotion": 10,
     "link": "https://www.amazon.fr/dp/B09BNX79CM?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2919049,
     "image": "https://static-pepper.dealabs.com/threads/raw/Mnfkm/2919049_1/re/300x300/qt/60/2919049_1.jpg",
     "id": "76293",
     "titre": "LEGO Marvel 76293 - Spider-Man Calendrier de l'avent",
-    "temperature": 48.05,
+    "temperature": 45.05,
     "publication": "20/11/2024",
     "price": 19.15,
     "reduction": 25.2,
-    "promotion": "24 %",
+    "promotion": 24,
     "link": "https://www.amazon.de/dp/B0CWH3B4Z5?smid=A3JWKAKR8XB7XF",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2919031,
     "image": "https://static-pepper.dealabs.com/threads/raw/h4nzG/2919031_1/re/300x300/qt/60/2919031_1.jpg",
     "id": "75371",
     "titre": "Lego 75371 : Star Wars Chewbacca",
-    "temperature": 27.48,
+    "temperature": 31.28,
     "publication": "20/11/2024",
     "price": 119.99,
     "reduction": 142.3,
-    "promotion": "16 %",
+    "promotion": 16,
     "link": "https://www.amazon.fr/dp/B0BV7DR4B6?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 10
   },
   {
     "threadId": 2918932,
     "image": "https://static-pepper.dealabs.com/threads/raw/YCvw8/2918932_1/re/300x300/qt/60/2918932_1.jpg",
     "id": "75359",
     "titre": "Lego Star Wars 75359 - Pack de Combat des Clone Troopers de la 332e Compagnie d’Ahsoka",
-    "temperature": 46.62,
+    "temperature": 69.22,
     "publication": "20/11/2024",
     "price": 13.99,
     "reduction": 20.99,
-    "promotion": "33 %",
+    "promotion": 33,
     "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-star-wars-75359-pack-de-combat-des-clone-t/f-12084-lego75359.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2918865,
     "image": "https://static-pepper.dealabs.com/threads/raw/w6udE/2918865_1/re/300x300/qt/60/2918865_1.jpg",
     "id": "31150",
     "titre": "LEGO Creator 3-en-1 31150 - Les animaux sauvages du safari",
-    "temperature": 40.87,
+    "temperature": 44.07,
     "publication": "20/11/2024",
     "price": 45.49,
     "reduction": 64.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Creator-31150-Les-animaux-sauvages-du-safari/a18821736/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2918850,
     "image": "https://static-pepper.dealabs.com/threads/raw/jVBvH/2918850_1/re/300x300/qt/60/2918850_1.jpg",
     "id": "60400",
     "titre": "Lego City 60400 : Les Karts et Les Pilotes de Course",
-    "temperature": 60.76,
+    "temperature": 60.69,
     "publication": "20/11/2024",
     "price": 6.99,
     "reduction": 9.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.amazon.fr/dp/B0CFVYDP36?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2918828,
     "image": "https://static-pepper.dealabs.com/threads/raw/LHW0Z/2918828_1/re/300x300/qt/60/2918828_1.jpg",
     "id": "21318",
     "titre": "Lego Ideas 21318 La cabane dans l’arbre (via retrait magasin)",
-    "temperature": 175.38,
+    "temperature": 224.1,
     "publication": "20/11/2024",
     "price": 174.99,
     "reduction": 212.99,
-    "promotion": "18 %",
+    "promotion": 18,
     "link": "https://www.fnac.com/LEGO-Ideas-21318-La-cabane-dans-l-arbre/a13411448/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 12
   },
   {
     "threadId": 2918763,
     "image": "https://static-pepper.dealabs.com/threads/raw/VN9sE/2918763_1/re/300x300/qt/60/2918763_1.jpg",
     "id": "60401",
     "titre": "Lego City 60401 - Le Rouleau Compresseur de Chantier",
-    "temperature": 61.34,
+    "temperature": 75.47,
     "publication": "20/11/2024",
     "price": 6.99,
     "reduction": 9.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.amazon.fr/dp/B0CFW2G29P?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2918644,
     "image": "https://static-pepper.dealabs.com/threads/raw/9P8JS/2918644_1/re/300x300/qt/60/2918644_1.jpg",
     "id": "76275",
     "titre": "LEGO 76275 - Moto Spider-Man vs Docteur Octopus",
-    "temperature": 59.61,
+    "temperature": 65.61,
     "publication": "20/11/2024",
     "price": 6.99,
     "reduction": 9.92,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.amazon.fr/dp/B0CFW36SSM?smid=A1X6FK5RDHNB96",
-    "datefin": false
-  },
-  {
-    "threadId": 2918579,
-    "image": "https://static-pepper.dealabs.com/threads/raw/m0HOP/2918579_1/re/300x300/qt/60/2918579_1.jpg",
-    "id": "21044",
-    "titre": "LEGO Architecture 21044 - Paris",
-    "temperature": 38.21,
-    "publication": "20/11/2024",
-    "price": 34.99,
-    "reduction": 42.99,
-    "promotion": "19 %",
-    "link": "https://www.fnac.com/LEGO-Architecture-21044-Paris/a12974502/w-4#omnsearchpos=1",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2918518,
     "image": "https://static-pepper.dealabs.com/threads/raw/zF5in/2918518_1/re/300x300/qt/60/2918518_1.jpg",
     "id": "41727",
     "titre": "40% de remise immédiate sur une sélection de lego - Ex : Lego Friends Le Centre de Sauvetage Canin 41727",
-    "temperature": 194.22,
+    "temperature": 275.89,
     "publication": "20/11/2024",
     "price": 29.99,
     "reduction": 50,
-    "promotion": "40 %",
+    "promotion": 40,
     "link": "https://www.carrefour.fr/p/lego-friends-le-centre-de-sauvetage-canin-41727-lego-5702017415031",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 7
   },
   {
     "threadId": 2918387,
     "image": "https://static-pepper.dealabs.com/threads/raw/KfLnw/2918387_1/re/300x300/qt/60/2918387_1.jpg",
     "id": "41737",
     "titre": "40% de réduction sur une sélection de sets LEGO Friends - Ex: Jeu de construction Lego Friends 41737 Le Parc d’Attractions à la Plage",
-    "temperature": 278.72,
+    "temperature": 347.32,
     "publication": "19/11/2024",
     "price": 59.99,
     "reduction": 99.99,
-    "promotion": "40 %",
+    "promotion": 40,
     "link": "https://www.king-jouet.com/jeux-jouets/promotion-lego-friends/page1.htm",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 23
   },
   {
     "threadId": 2918372,
     "image": "https://static-pepper.dealabs.com/threads/raw/8H55V/2918372_1/re/300x300/qt/60/2918372_1.jpg",
     "id": "75352",
     "titre": "Jeu de construction Lego Star Wars (75352) - Diorama de la Salle du Trône de l'empereur",
-    "temperature": 35.81,
+    "temperature": 38.41,
     "publication": "19/11/2024",
     "price": 69.99,
     "reduction": 75.35,
-    "promotion": "7 %",
+    "promotion": 7,
     "link": "https://www.amazon.fr/dp/B0BBVFZTY4?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2918199,
     "image": "https://static-pepper.dealabs.com/threads/raw/0Vj4T/2918199_1/re/300x300/qt/60/2918199_1.jpg",
     "id": "21341",
     "titre": "Lego Ideas 21341 : Hocus Pocus Disney, le manoir des sœurs Sanderson",
-    "temperature": 89.85,
+    "temperature": 175.84,
     "publication": "19/11/2024",
     "price": 169.99,
     "reduction": 229.99,
-    "promotion": "26 %",
+    "promotion": 26,
     "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-ideas-hocus-pocus-disney-le-manoir-des-s/f-12084-lego21341.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2917983,
     "image": "https://static-pepper.dealabs.com/threads/raw/3S8yC/2917983_1/re/300x300/qt/60/2917983_1.jpg",
     "id": "10788",
     "titre": "Jeu de construction Lego - La maison magique de Gabby 10788",
-    "temperature": 42.1,
+    "temperature": 42.7,
     "publication": "19/11/2024",
     "price": 55.99,
     "reduction": 79.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Gabby-et-la-maison-magique-10788-La-maison-magique-de-Gabby/a18135759/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2917797,
     "image": "https://static-pepper.dealabs.com/threads/raw/1b18K/2917797_1/re/300x300/qt/60/2917797_1.jpg",
     "id": "42136",
     "titre": "Lego Technic 42136 : Tracteur John Deere 9620 R (via 7,50€ de cagnotte fidélité)",
-    "temperature": 33.47,
+    "temperature": 32.07,
     "publication": "19/11/2024",
     "price": 17.49,
     "reduction": 24.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.magasins-u.com/accueil",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 3
   },
   {
     "threadId": 2917796,
     "image": "https://static-pepper.dealabs.com/threads/raw/e4sj6/2917796_1/re/300x300/qt/60/2917796_1.jpg",
     "id": "21336",
     "titre": "LEGO Ideas 21336 - The Office",
-    "temperature": 1019.12,
+    "temperature": 1225.51,
     "publication": "19/11/2024",
     "price": 83.99,
     "reduction": 119.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/TBD-IDEAS-6-2022/a16757748/w-4#omnsearchpos=5",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 33
   },
   {
     "threadId": 2917734,
     "image": "https://static-pepper.dealabs.com/threads/raw/pOcNC/2917734_1/re/300x300/qt/60/2917734_1.jpg",
     "id": "75345",
     "titre": "Lego Star Wars 75345 - Pack de Combat des Clone Troopers de la 501ème Légion",
-    "temperature": 242.31,
+    "temperature": 308.59,
     "publication": "19/11/2024",
     "price": 11.77,
     "reduction": 16.89,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.amazon.fr/dp/B0BBS2K3YK?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2917623,
     "image": "https://static-pepper.dealabs.com/threads/raw/07IgN/2917623_1/re/300x300/qt/60/2917623_1.jpg",
     "id": "76964",
     "titre": "Jeu de construction Lego Jurassic World 76964 Les Fossiles de Dinosaures Le Crâne du T. Rex",
-    "temperature": 233.63,
+    "temperature": 275.63,
     "publication": "19/11/2024",
     "price": 27.99,
     "reduction": 35.33,
-    "promotion": "21 %",
+    "promotion": 21,
     "link": "https://www.amazon.fr/dp/B0CFW1LY54?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 6
   },
   {
     "threadId": 2917421,
     "image": "https://static-pepper.dealabs.com/threads/raw/hbX9U/2917421_1/re/300x300/qt/60/2917421_1.jpg",
     "id": "31146",
     "titre": "Jeu de construction Lego Creator 3-en-1 Le Camion Remorque avec Hélicoptère (31146)",
-    "temperature": 85.39,
+    "temperature": 87.39,
     "publication": "19/11/2024",
     "price": 13.99,
     "reduction": 18.13,
-    "promotion": "23 %",
+    "promotion": 23,
     "link": "https://www.amazon.fr/dp/B0CFVYPKGB?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2917384,
@@ -346,126 +1618,136 @@
     "publication": "19/11/2024",
     "price": 20.98,
     "reduction": 29.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Creator-31148-Les-patins-a-roulettes-retro/a18821598/w-4?oref=00000000-0000-0000-0000-000000000000",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2917360,
     "image": "https://static-pepper.dealabs.com/threads/raw/M5U2g/2917360_1/re/300x300/qt/60/2917360_1.jpg",
     "id": "71428",
     "titre": "Lego Super Mario Ensemble d'Extension Forêt de Yoshi 71428",
-    "temperature": 42.23,
+    "temperature": 44.23,
     "publication": "19/11/2024",
     "price": 6.99,
     "reduction": 9.98,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.amazon.fr/dp/B0CFVXJY8X?psc=1",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2900882,
     "image": "https://static-pepper.dealabs.com/threads/raw/zulWX/2900882_1/re/300x300/qt/60/2900882_1.jpg",
     "id": "31147",
     "titre": "Jeu de construction Lego Creator 3-en-1 : L’Appareil Photo Rétro, Transformable en Téléviseur ou Caméra Vidéo 31147",
-    "temperature": 519.56,
+    "temperature": 542.16,
     "publication": "19/11/2024",
     "price": 13.99,
     "reduction": 18.9,
-    "promotion": "26 %",
+    "promotion": 26,
     "link": "https://www.amazon.fr/dp/B0CFW1CWHW?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 22
   },
   {
     "threadId": 2917178,
     "image": "https://static-pepper.dealabs.com/threads/raw/XMOGs/2917178_1/re/300x300/qt/60/2917178_1.jpg",
     "id": "42163",
     "titre": "Lego Technic Le Bulldozer 42163",
-    "temperature": 65.77,
+    "temperature": 63.57,
     "publication": "19/11/2024",
     "price": 6.99,
     "reduction": 9.07,
-    "promotion": "23 %",
+    "promotion": 23,
     "link": "https://www.amazon.fr/dp/B0CFVN4XVL?psc=1",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2917174,
     "image": "https://static-pepper.dealabs.com/threads/raw/fZIyv/2917174_1/re/300x300/qt/60/2917174_1.jpg",
     "id": "31145",
     "titre": "Lego Creator 3-en-1 Le Dragon Rouge 31145",
-    "temperature": 91.57,
+    "temperature": 90.77,
     "publication": "19/11/2024",
     "price": 6.99,
     "reduction": 9.98,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.amazon.fr/dp/B0CFVYDZS6?psc=1",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2917161,
     "image": "https://static-pepper.dealabs.com/threads/raw/fiLgZ/2917161_1/re/300x300/qt/60/2917161_1.jpg",
     "id": "71437",
     "titre": "Lego Super Mario Le Train Bowser Express 71437 (store.nintendo.fr)",
-    "temperature": 37.94,
+    "temperature": 38.54,
     "publication": "19/11/2024",
     "price": 83.99,
     "reduction": 103,
-    "promotion": "18 %",
+    "promotion": 18,
     "link": "https://store.nintendo.fr/fr/le-train-bowser-express-lego-super-mario-71437-000000000010014812",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 5
   },
   {
     "threadId": 2917073,
     "image": "https://static-pepper.dealabs.com/threads/raw/vZpKb/2917073_1/re/300x300/qt/60/2917073_1.jpg",
     "id": "76210",
     "titre": "LEGO Marvel 76210 L'armure Hulkbuster (via retrait magasin)",
-    "temperature": 333.76,
+    "temperature": 376.18,
     "publication": "19/11/2024",
     "price": 384.85,
     "reduction": 549.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Marvel-76210-L-armure-Hulkbuster/a17484111/w-4#omnsearchpos=1",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 25
   },
   {
     "threadId": 2917059,
     "image": "https://static-pepper.dealabs.com/threads/raw/zXAkJ/2917059_1/re/300x300/qt/60/2917059_1.jpg",
     "id": "21327",
     "titre": "Jeu de construction Lego Ideas 21327 La Machine à Écrire Vintage",
-    "temperature": 475.08,
+    "temperature": 496.37,
     "publication": "19/11/2024",
     "price": 174.99,
     "reduction": 249.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Ideas-21327-La-Machine-a-Ecrire-Vintage/a15850759/w-4?Origin=SEA_GOOGLE_PLA_JOUET&esl-k=google-ads%7Cnx%7Cc%7Cm%7Ck%7Cp%7Ct%7Cdm%7Ca20461236398%7Cg20461236398&gad_source=1&gclid=Cj0KCQiA6Ou5BhCrARIsAPoTxrAC9_cx3V1KdiR13CX9yiJkd2zXKDPuOUWNqIhEkZj_MZ6y9vP8_-IaAqBbEALw_wcB&gclsrc=aw.ds",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 18
   },
   {
     "threadId": 2916998,
     "image": "https://static-pepper.dealabs.com/threads/raw/ep0BU/2916998_1/re/300x300/qt/60/2916998_1.jpg",
     "id": "10335",
     "titre": "LEGO Icons 10335 L'Endurance + LEGO Icons 40729 - Le canot de sauvetage de Shackleton Offert",
-    "temperature": -19.42,
+    "temperature": -20.22,
     "publication": "19/11/2024",
     "price": 269.99,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.lego.com/fr-fr/black-friday-deals",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2916811,
     "image": "https://static-pepper.dealabs.com/threads/raw/vJrSW/2916811_1/re/300x300/qt/60/2916811_1.jpg",
     "id": "75344",
     "titre": "LEGO Star Wars 75344 - Le vaisseau de Boba Fett Microfighter",
-    "temperature": 225.47,
+    "temperature": 235.47,
     "publication": "18/11/2024",
     "price": 6.99,
     "reduction": 9.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Star-Wars-75344-Boba-Fett-s-Starship-Microfighter-85-pieces/a17484077/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 3
   },
   {
     "threadId": 2916806,
@@ -476,126 +1758,122 @@
     "publication": "18/11/2024",
     "price": 95.99,
     "reduction": 103,
-    "promotion": "7 %",
+    "promotion": 7,
     "link": "https://www.amazon.fr/dp/B0CWH1QW3K?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2916653,
     "image": "https://static-pepper.dealabs.com/threads/raw/RaMJa/2916653_1/re/300x300/qt/60/2916653_1.jpg",
     "id": "10330",
     "titre": "Lego Icons 10330 : McLaren MP4/4 et Ayrton Senna",
-    "temperature": 63.68,
+    "temperature": 67.68,
     "publication": "18/11/2024",
     "price": 55.99,
     "reduction": 68.99,
-    "promotion": "19 %",
+    "promotion": 19,
     "link": "https://www.fnac.com/LEGO-Icons-10330-McLaren-MP4-4-et-Ayrton-Senna/a18821659/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2916602,
     "image": "https://static-pepper.dealabs.com/threads/raw/wXpxy/2916602_1/re/300x300/qt/60/2916602_1.jpg",
     "id": "75394",
     "titre": "Jeu de construction Destroyer stellaire de classe Impérial LEGO Star Wars 75394",
-    "temperature": 59.88,
+    "temperature": 65.88,
     "publication": "18/11/2024",
     "price": 132.34,
     "reduction": 169.99,
-    "promotion": "22 %",
+    "promotion": 22,
     "link": "https://www.kitstore.fr/p/lego-r-star-warstm-75394-destroyer-stellaire-de-classe-imperial",
-    "datefin": false
-  },
-  {
-    "threadId": 2916568,
-    "image": "https://static-pepper.dealabs.com/threads/raw/AUiEL/2916568_1/re/300x300/qt/60/2916568_1.jpg",
-    "id": "43217",
-    "titre": "Jouet Lego Disney et Pixar La Maison de Là-Haut 43217",
-    "temperature": 5.58,
-    "publication": "18/11/2024",
-    "price": 37.99,
-    "reduction": 46.92,
-    "promotion": "19 %",
-    "link": "https://www.getgoods.com/fr-fr/products/4651119/43217-LEGO-DISNEY-La-maison-de-Carl-depuis-le-haut.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2916517,
     "image": "https://static-pepper.dealabs.com/threads/raw/bzdrW/2916517_1/re/300x300/qt/60/2916517_1.jpg",
     "id": "75337",
     "titre": "Jouet Lego Star Wars Le marcheur AT-TE 75337",
-    "temperature": 18.87,
+    "temperature": 39.4,
     "publication": "18/11/2024",
     "price": 97.99,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.fnac.com/VEHICULE-TERRESTRE/a16757730/w-4#omnsearchpos=4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 7
   },
   {
     "threadId": 2916488,
     "image": "https://static-pepper.dealabs.com/threads/raw/DZzbs/2916488_1/re/300x300/qt/60/2916488_1.jpg",
     "id": "76240",
     "titre": "Lego Super Heroes 76240 La Batmobile Tumbler (via retrait magasins)",
-    "temperature": 35.43,
+    "temperature": 37.43,
     "publication": "18/11/2024",
     "price": 188.99,
     "reduction": 229.99,
-    "promotion": "18 %",
+    "promotion": 18,
     "link": "https://www.fnac.com/LEGO-Super-Heroes-76240-La-Batmobile-Tumbler/a15850765/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2916324,
     "image": "https://static-pepper.dealabs.com/threads/raw/KlaXr/2916324_1/re/300x300/qt/60/2916324_1.jpg",
     "id": "42130",
     "titre": "Jeu de construction Lego Technic 42130 - BMW M1000 RR",
-    "temperature": -21.95,
+    "temperature": -18.75,
     "publication": "18/11/2024",
     "price": 174.99,
     "reduction": 249.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Technic-42130-BMW-M-1000-RR/a16414127/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2916260,
     "image": "https://static-pepper.dealabs.com/threads/raw/Rf96w/2916260_1/re/300x300/qt/60/2916260_1.jpg",
     "id": "77049",
     "titre": "Lego Animal Crossing 77049 - Marie en Visite",
-    "temperature": 151.52,
+    "temperature": 155.1,
     "publication": "18/11/2024",
     "price": 27.99,
     "reduction": 39.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://store.nintendo.fr/fr/lego-animal-crossing-marie-en-visite-77049-000000000010013684",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 3
   },
   {
     "threadId": 2916224,
     "image": "https://static-pepper.dealabs.com/threads/raw/V5TdE/2916224_1/re/300x300/qt/60/2916224_1.jpg",
     "id": "10321",
     "titre": "Lego Icons 10321 - La Chevrolet Corvette",
-    "temperature": 211.75,
+    "temperature": 219.75,
     "publication": "18/11/2024",
     "price": 104.99,
     "reduction": 131.99,
-    "promotion": "20 %",
+    "promotion": 20,
     "link": "https://www.fnac.com/LEGO-Icons-10321-Corvette/a19033710/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2916193,
     "image": "https://static-pepper.dealabs.com/threads/raw/8NxUw/2916193_1/re/300x300/qt/60/2916193_1.jpg",
     "id": "21343",
     "titre": "LEGO Ideas 21343 - Le Village Viking",
-    "temperature": 558.53,
+    "temperature": 571.82,
     "publication": "18/11/2024",
     "price": 97.99,
     "reduction": 139.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Ideas-21343-Le-Village-Viking-Exclusivite-Fnac/a17922323/w-4?oref=00000000-0000-0000-0000-000000000000",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 17
   },
   {
     "threadId": 2916159,
@@ -606,22 +1884,24 @@
     "publication": "18/11/2024",
     "price": 31.49,
     "reduction": 38.99,
-    "promotion": "19 %",
+    "promotion": 19,
     "link": "https://www.fnac.com/LEGO-Harry-Potter-76430-La-voliere-du-chateau-de-Poudlard/a18821656/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2916080,
     "image": "https://static-pepper.dealabs.com/threads/raw/1LIBS/2916080_1/re/300x300/qt/60/2916080_1.jpg",
     "id": "10328",
     "titre": "Lego 10328 - Le bouquet de rose",
-    "temperature": -14.45,
+    "temperature": -8.45,
     "publication": "18/11/2024",
     "price": 41.99,
     "reduction": 51.99,
-    "promotion": "19 %",
+    "promotion": 19,
     "link": "https://www.fnac.com/LEGO-Icons-10328-Le-bouquet-de-roses/a18821697/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2916063,
@@ -632,126 +1912,108 @@
     "publication": "18/11/2024",
     "price": 17.49,
     "reduction": 21.99,
-    "promotion": "20 %",
+    "promotion": 20,
     "link": "https://www.fnac.com/LEGO-Speed-Champions-76914-Ferrari-812-Competizione/a17543287/w-4",
-    "datefin": false
-  },
-  {
-    "threadId": 2916047,
-    "image": "https://static-pepper.dealabs.com/threads/raw/MlS84/2916047_1/re/300x300/qt/60/2916047_1.jpg",
-    "id": "71438",
-    "titre": "Jusqu'à 30% de réduction sur les Lego Super Mario - Ex : LEGO Super Mario World Mario et Yoshi (71438)",
-    "temperature": 588.64,
-    "publication": "18/11/2024",
-    "price": 90.99,
-    "reduction": 129.99,
-    "promotion": "30 %",
-    "link": "https://store.nintendo.fr/fr/lego-super-mario-world-mario-et-yoshi-71438-000000000010014813",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2916046,
     "image": "https://static-pepper.dealabs.com/threads/raw/gpM9v/2916046_1/re/300x300/qt/60/2916046_1.jpg",
     "id": "21334",
     "titre": "LEGO Ideas 21334 - Le quartet de jazz",
-    "temperature": 190.94,
+    "temperature": 199.63,
     "publication": "18/11/2024",
     "price": 69.99,
     "reduction": 99.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/TBD-IDEAS-4-2022/a16757687/w-4#omnsearchpos=8",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 3
   },
   {
     "threadId": 2915968,
     "image": "https://static-pepper.dealabs.com/threads/raw/93xC4/2915968_1/re/300x300/qt/60/2915968_1.jpg",
     "id": "76218",
     "titre": "LEGO Marvel 76218 - Le Saint des Saints",
-    "temperature": 28.48,
+    "temperature": 29.08,
     "publication": "18/11/2024",
     "price": 175,
     "reduction": 250,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/76218-TBD-LSH-17-2022-V29/a16757674/w-4#omnsearchpos=9",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 5
   },
   {
     "threadId": 2915887,
     "image": "https://static-pepper.dealabs.com/threads/raw/KlaGr/2915887_1/re/300x300/qt/60/2915887_1.jpg",
     "id": "75378",
     "titre": "Lego Star Wars 75378 : L’évasion en Speeder Barc",
-    "temperature": 36.65,
+    "temperature": 40.65,
     "publication": "18/11/2024",
     "price": 20.99,
     "reduction": 26.99,
-    "promotion": "22 %",
+    "promotion": 22,
     "link": "https://www.fnac.com/LEGO-Star-Wars-75378-L-evasion-en-Speeder-BARC/a18821595/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2915825,
     "image": "https://static-pepper.dealabs.com/threads/raw/bGNUK/2915825_1/re/300x300/qt/60/2915825_1.jpg",
     "id": "21332",
     "titre": "Jeu de construction Lego Ideas - Le globe terrestre 21332 (sélection de magasins)",
-    "temperature": 75.89,
+    "temperature": 81.89,
     "publication": "18/11/2024",
     "price": 160.99,
     "reduction": 215.83,
-    "promotion": "25 %",
+    "promotion": 25,
     "link": "https://www.fnac.com/LEGO-Ideas-21332-Le-globe-terrestre/a16414109/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2915780,
     "image": "https://static-pepper.dealabs.com/threads/raw/dlU6U/2915780_1/re/300x300/qt/60/2915780_1.jpg",
     "id": "76275",
     "titre": "Sélection de lego en promotion. ex: Lego Marvel 76275 - La course-poursuite en moto Spider-Man contre Docteur Octopus",
-    "temperature": -21.92,
+    "temperature": -23.32,
     "publication": "18/11/2024",
     "price": 6.99,
     "reduction": 9.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Marvel-76275-La-course-poursuite-en-moto-Spider-Man-contre-Docteur-Octopus/a18821639/w-4",
-    "datefin": false
-  },
-  {
-    "threadId": 2915776,
-    "image": "https://static-pepper.dealabs.com/threads/raw/MmLyi/2915776_1/re/300x300/qt/60/2915776_1.jpg",
-    "id": "76419",
-    "titre": "LEGO Harry Potter 76419 - Le château et le domaine de Poudlard",
-    "temperature": 19.13,
-    "publication": "18/11/2024",
-    "price": 118.99,
-    "reduction": 123.9,
-    "promotion": "4 %",
-    "link": "https://www.fnac.com/LEGO-Harry-Potter-76419-Le-chateau-et-le-domaine-de-Poudlard/a17922342/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2915755,
     "image": "https://static-pepper.dealabs.com/threads/raw/tk9D4/2915755_1/re/300x300/qt/60/2915755_1.jpg",
     "id": "21340",
     "titre": "LEGO Ideas 21340 - Les récits de l’ère spatiale",
-    "temperature": 357.2,
+    "temperature": 362.45,
     "publication": "18/11/2024",
     "price": 34.99,
     "reduction": 49.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Ideas-21340-Les-recits-de-l-ere-spatiale/a17918382/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 9
   },
   {
     "threadId": 2915745,
     "image": "https://static-pepper.dealabs.com/threads/raw/l9ZK5/2915745_1/re/300x300/qt/60/2915745_1.jpg",
     "id": "21338",
     "titre": "Lego Ideas 21338 La maison en A (dispo en magasin)",
-    "temperature": 337.76,
+    "temperature": 364.46,
     "publication": "18/11/2024",
     "price": 125.99,
     "reduction": 179.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Ideas-21338-La-maison-en-A/a17711737/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 21
   },
   {
     "threadId": 2915733,
@@ -762,165 +2024,150 @@
     "publication": "18/11/2024",
     "price": 167.99,
     "reduction": 214.99,
-    "promotion": "22 %",
+    "promotion": 22,
     "link": "https://www.fnac.com/LEGO-10317-Icons-Land-Rover-Classic-Defender-90-Exclusivite-Fnac/a17922320/w-4",
-    "datefin": false
-  },
-  {
-    "threadId": 2915729,
-    "image": "https://static-pepper.dealabs.com/threads/raw/xjLvE/2915729_1/re/300x300/qt/60/2915729_1.jpg",
-    "id": "75367",
-    "titre": "Lego Star Wars 75367 Le croiseur d’assaut de classe Venator de la République",
-    "temperature": 473.78,
-    "publication": "18/11/2024",
-    "price": 454.99,
-    "reduction": 0,
-    "promotion": "0 %",
-    "link": "https://www.fnac.com/LEGO-Star-Wars-75367-Le-croiseur-d-assaut-de-classe-Venator-de-la-Republique/a19033711/w-4",
-    "datefin": false
-  },
-  {
-    "threadId": 2915728,
-    "image": "https://static-pepper.dealabs.com/threads/raw/1uF0c/2915728_1/re/300x300/qt/60/2915728_1.jpg",
-    "id": "10318",
-    "titre": "LEGO Icons 10318 - Le Concorde",
-    "temperature": 1352.44,
-    "publication": "18/11/2024",
-    "price": 139.99,
-    "reduction": 198.99,
-    "promotion": "30 %",
-    "link": "https://www.fnac.com/LEGO-Icons-10318-Le-Concorde/a18821609/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 7
   },
   {
     "threadId": 2915720,
     "image": "https://static-pepper.dealabs.com/threads/raw/zjN5F/2915720_1/re/300x300/qt/60/2915720_1.jpg",
     "id": "75356",
     "titre": "Lego Star Wars 75356 : Le Super Destroyer Stellaire de classe Executor",
-    "temperature": 582.66,
+    "temperature": 595.26,
     "publication": "18/11/2024",
     "price": 48.99,
     "reduction": 69.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Star-Wars-75356-Tdb-LSW-2023-13/a17555579/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 30
   },
   {
     "threadId": 2915697,
     "image": "https://static-pepper.dealabs.com/threads/raw/kJYIC/2915697_1/re/300x300/qt/60/2915697_1.jpg",
     "id": "75331",
     "titre": "LEGO Star Wars 75331 - Razor Crest",
-    "temperature": 350.91,
+    "temperature": 356.91,
     "publication": "18/11/2024",
     "price": 419.99,
     "reduction": 570,
-    "promotion": "26 %",
+    "promotion": 26,
     "link": "https://www.fnac.com/LEGO-Star-Wars-75331-Razor-Crest/a17484020/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 11
   },
   {
     "threadId": 2912203,
     "image": "https://static-pepper.dealabs.com/threads/raw/yKwHt/2912203_1/re/300x300/qt/60/2912203_1.jpg",
     "id": "10312",
     "titre": "Sélection de Lego en promotion - Ex : LEGO Icons 10312 - Le club de jazz",
-    "temperature": 612.06,
+    "temperature": 618.66,
     "publication": "18/11/2024",
     "price": 160.99,
     "reduction": 229.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Icons-10312-Le-club-de-jazz/a17711744/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 44
   },
   {
     "threadId": 2915509,
     "image": "https://static-pepper.dealabs.com/threads/raw/xstS0/2915509_1/re/300x300/qt/60/2915509_1.jpg",
     "id": "42171",
     "titre": "Jeu de construction Lego Technic (42171) - Mercedes-AMG F1 W14 E Performance (via 8€ sur Carte Fidélité)",
-    "temperature": -23.39,
+    "temperature": -22.19,
     "publication": "18/11/2024",
     "price": 155.9,
     "reduction": 219.99,
-    "promotion": "29 %",
+    "promotion": 29,
     "link": "https://www.auchan.fr/lego-lego-technic-42171-mercedes-amg-f1-w14-e-performance-replique-decoration-de-bureau/pr-C1784561#tabDelivery",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2915020,
     "image": "https://static-pepper.dealabs.com/threads/raw/8Yp7e/2915020_1/re/300x300/qt/60/2915020_1.jpg",
     "id": "42171",
     "titre": "30% de cagnottage sur une sélection de Lego. Ex: LEGO Technic 42171 - Mercedes-AMG F1 W14 E Performance (via 44,97€ cagnotté)",
-    "temperature": 84.94,
+    "temperature": 87.38,
     "publication": "17/11/2024",
     "price": 104.93,
     "reduction": 163.89,
-    "promotion": "36 %",
+    "promotion": 36,
     "link": "https://www.carrefour.fr/p/lego-technic-mercedes-amg-f1-w14-e-performance-42171-lego-5702017583563",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 26
   },
   {
     "threadId": 2914984,
     "image": "https://static-pepper.dealabs.com/threads/raw/jn2Mk/2914984_1/re/300x300/qt/60/2914984_1.jpg",
     "id": "71485",
     "titre": "Lego 71485 Mateo et Z-Blob Le Robot Chevalier",
-    "temperature": 13.61,
+    "temperature": 15.61,
     "publication": "17/11/2024",
     "price": 80.57,
     "reduction": 93.9,
-    "promotion": "14 %",
+    "promotion": 14,
     "link": "https://www.amazon.de/dp/B0CWH172FL?smid=A3JWKAKR8XB7XF",
-    "datefin": false
-  },
-  {
-    "threadId": 2914732,
-    "image": "https://static-pepper.dealabs.com/threads/raw/UUeRV/2914732_1/re/300x300/qt/60/2914732_1.jpg",
-    "id": "21349",
-    "titre": "15% de réduction sur tout le site dès 80€ d'achat - Ex : Lego 21349 Le chat bicolore ou Lego 10340 La couronne de l'Avent",
-    "temperature": 489.08,
-    "publication": "17/11/2024",
-    "price": 84.99,
-    "reduction": 99.99,
-    "promotion": "15 %",
-    "link": "https://www.king-jouet.com/les-tops-du-king-pour-noel.htm",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2914399,
     "image": "https://static-pepper.dealabs.com/threads/raw/hAkAT/2914399_1/re/300x300/qt/60/2914399_1.jpg",
     "id": "42171",
     "titre": "LEGO Technic 42171 - Mercedes-AMG F1 W14 E Performance",
-    "temperature": 94.25,
+    "temperature": 96.25,
     "publication": "16/11/2024",
     "price": 157.99,
     "reduction": 219.99,
-    "promotion": "28 %",
+    "promotion": 28,
     "link": "https://www.smythstoys.com/fr/fr-fr/jouets/lego/lego-technic/lego-technic-42171-mercedes-amg-f1-w14-e-performance/p/232410",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2914198,
     "image": "https://static-pepper.dealabs.com/threads/raw/5sHSb/2914198_1/re/300x300/qt/60/2914198_1.jpg",
     "id": "75347",
     "titre": "Jeu de construction Lego Star Wars (75347) - Le Bombardier TIE - Carrefour Lempdes (63)",
-    "temperature": 54.8,
+    "temperature": 53.4,
     "publication": "16/11/2024",
     "price": 44.1,
     "reduction": 62.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
+  },
+  {
+    "threadId": 2914189,
+    "image": "https://static-pepper.dealabs.com/threads/raw/qWlDZ/2914189_1/re/300x300/qt/60/2914189_1.jpg",
+    "id": "71043",
+    "titre": "Jeu de construction Lego Harry Potter (71043) - le Chateau de Poudlard (via 85,89€ en bons d'achats) - E.Leclerc de Bonneuil sur Marne (94)",
+    "temperature": 68.77,
+    "publication": "16/11/2024",
+    "price": 286.3,
+    "reduction": 409.95,
+    "promotion": 30,
+    "link": "",
+    "datefin": false,
+    "commentaire": 11
   },
   {
     "threadId": 2914137,
     "image": "https://static-pepper.dealabs.com/threads/raw/ZZCG5/2914137_1/re/300x300/qt/60/2914137_1.jpg",
     "id": "40499",
     "titre": "Jeu de construction Lego (40499) - Le traîneau du Père Noël",
-    "temperature": 157.33,
+    "temperature": 159.33,
     "publication": "16/11/2024",
     "price": 27.99,
     "reduction": 34.75,
-    "promotion": "19 %",
+    "promotion": 19,
     "link": "https://www.getgoods.com/fr-fr/products/4787066/Lego-Iconic-40499-Schlitten-Des-Weihna.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 10
   },
   {
     "threadId": 2914127,
@@ -931,9 +2178,10 @@
     "publication": "16/11/2024",
     "price": 141.17,
     "reduction": 149.99,
-    "promotion": "6 %",
+    "promotion": 6,
     "link": "https://www.amazon.de/dp/B0CWH1RMBZ?smid=A3JWKAKR8XB7XF",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2914083,
@@ -944,48 +2192,52 @@
     "publication": "16/11/2024",
     "price": 14.94,
     "reduction": 15.12,
-    "promotion": "1 %",
+    "promotion": 1,
     "link": "https://www.amazon.fr/dp/B0C8M5WK9G",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 3
   },
   {
     "threadId": 2913884,
     "image": "https://static-pepper.dealabs.com/threads/raw/FLNHX/2913884_1/re/300x300/qt/60/2913884_1.jpg",
     "id": "42637",
     "titre": "LEGO Friends 42637 - Le calendrier de l’Avent 2024 (via remise panier)",
-    "temperature": 268.62,
+    "temperature": 274.62,
     "publication": "16/11/2024",
     "price": 12.59,
     "reduction": 17.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.cultura.com/p-legor-42637-le-calendrier-de-l-avent-2024-legor-friends-10555947.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 6
   },
   {
     "threadId": 2913139,
     "image": "https://static-pepper.dealabs.com/threads/raw/Cstz1/2913139_1/re/300x300/qt/60/2913139_1.jpg",
     "id": "75379",
     "titre": "Lego Star Wars 75379 - R2-D2",
-    "temperature": 284.2,
+    "temperature": 286.2,
     "publication": "15/11/2024",
     "price": 69.99,
     "reduction": 99.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-star-wars-75379-r2-d2-jouet-droide-a-constru/f-12084-lego75379.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 11
   },
   {
     "threadId": 2913133,
     "image": "https://static-pepper.dealabs.com/threads/raw/9p0DC/2913133_1/re/300x300/qt/60/2913133_1.jpg",
     "id": "75341",
     "titre": "Lego Star Wars 75341 Le Landspeeder de Luke Skywalker",
-    "temperature": 279.13,
+    "temperature": 281.13,
     "publication": "15/11/2024",
     "price": 169.99,
     "reduction": 239.99,
-    "promotion": "29 %",
+    "promotion": 29,
     "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-star-wars-75341-le-landspeeder-de-luke-sky/f-12084-lego75341.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 6
   },
   {
     "threadId": 2913024,
@@ -996,35 +2248,24 @@
     "publication": "15/11/2024",
     "price": 63.74,
     "reduction": 84.99,
-    "promotion": "25 %",
+    "promotion": 25,
     "link": "https://www.auchan.fr/lego-creator-51153-maison-moderne-3-en-1-a-transformer-en-immeuble-urbain-de-3-etages-ou-en-chalet-dans-la-foret-jeu-de-construction/pr-C1793276",
-    "datefin": false
-  },
-  {
-    "threadId": 2912764,
-    "image": "https://static-pepper.dealabs.com/threads/raw/E6LFx/2912764_1/re/300x300/qt/60/2912764_1.jpg",
-    "id": "42115",
-    "titre": "Lego Technic 42115 - Lamborghini Sián FKP 37 (via 85€ sur la carte fidélié)",
-    "temperature": 337.54,
-    "publication": "15/11/2024",
-    "price": 254.99,
-    "reduction": 339.99,
-    "promotion": "25 %",
-    "link": "https://www.auchan.fr/lego-technic-42115-lamborghini-sian-fkp-37-modele-reduit-a-construire-de-voiture-de-sport-maquette-a-construire-pour-adultes/pr-C1313546",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2912602,
     "image": "https://static-pepper.dealabs.com/threads/raw/AXDaA/2912602_1/re/300x300/qt/60/2912602_1.jpg",
     "id": "10341",
     "titre": "Jeu de construction Lego Icons (10341) - Le système de lancement spatial d'Artemis de la NASA",
-    "temperature": 363.7,
+    "temperature": 365.73,
     "publication": "14/11/2024",
     "price": 204.76,
     "reduction": 259.99,
-    "promotion": "21 %",
+    "promotion": 21,
     "link": "https://www.kitstore.fr/p/lego-r-icons-10341-le-systeme-de-lancement-spatial-d-artemis-de-la-nasa",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 27
   },
   {
     "threadId": 2912504,
@@ -1035,9 +2276,10 @@
     "publication": "14/11/2024",
     "price": 36.79,
     "reduction": 46.99,
-    "promotion": "22 %",
+    "promotion": 22,
     "link": "https://www.carrefour.fr/s?filters%5BFacet_livraison%5D%5B0%5D=Livraison+%C3%A0+domicile&filters%5Bfacet_promotions%5D%5B0%5D=Remises+imm%C3%A9diates&q=lego&noRedirect=1&userIsPro=0&page=3",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2912426,
@@ -1048,9 +2290,10 @@
     "publication": "14/11/2024",
     "price": 9.56,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.e.leclerc/fp/5702017596976",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 9
   },
   {
     "threadId": 2912378,
@@ -1061,9 +2304,10 @@
     "publication": "14/11/2024",
     "price": 199.99,
     "reduction": 269.99,
-    "promotion": "26 %",
+    "promotion": 26,
     "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-10323-icons-jeu-d-arcade-pac-man-maquette/f-12084-lego10323.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 7
   },
   {
     "threadId": 2912245,
@@ -1074,139 +2318,150 @@
     "publication": "14/11/2024",
     "price": 51.99,
     "reduction": 64.99,
-    "promotion": "20 %",
+    "promotion": 20,
     "link": "https://www.carrefour.fr/p/lego-marvel-le-x-jet-des-x-men-76281-lego-5702017590318",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 9
   },
   {
     "threadId": 2912064,
     "image": "https://static-pepper.dealabs.com/threads/raw/LZ8KG/2912064_1/re/300x300/qt/60/2912064_1.jpg",
     "id": "75354",
     "titre": "LEGO Star Wars 75354 - La canonnière de Coruscant",
-    "temperature": 47.01,
+    "temperature": 45.61,
     "publication": "14/11/2024",
     "price": 116.93,
     "reduction": 149.99,
-    "promotion": "22 %",
+    "promotion": 22,
     "link": "https://www.kitstore.fr/p/lego-star-wars-75354-la-canonni-re-de-coruscant",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2912062,
     "image": "https://static-pepper.dealabs.com/threads/raw/yjamO/2912062_1/re/300x300/qt/60/2912062_1.jpg",
     "id": "75383",
     "titre": "Lego Star Wars 75383 L’Infiltrateur Sith de Dark Maul",
-    "temperature": -6.73,
+    "temperature": -8.13,
     "publication": "14/11/2024",
     "price": 59.04,
     "reduction": 66.91,
-    "promotion": "12 %",
+    "promotion": 12,
     "link": "https://www.kitstore.fr/p/lego-r-star-warstm-75383-l-infiltrateur-sith-de-dark-maul",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2912003,
     "image": "https://static-pepper.dealabs.com/threads/raw/qfxCN/2912003_1/re/300x300/qt/60/2912003_1.jpg",
     "id": "43243",
     "titre": "Sélection de Lego en promotion. Ex: Lego Disney Classic 43243 - Simba, le bébé du Roi lion",
-    "temperature": 209.61,
+    "temperature": 211.61,
     "publication": "14/11/2024",
     "price": 15.99,
     "reduction": 19.99,
-    "promotion": "20 %",
+    "promotion": 20,
     "link": "https://www.carrefour.fr/p/lego-disney-classic-simba-le-bebe-du-roi-lion-43243-lego-5702017602080",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2911835,
     "image": "https://static-pepper.dealabs.com/threads/raw/36jiB/2911835_1/re/300x300/qt/60/2911835_1.jpg",
     "id": "60423",
     "titre": "Lego 60423 - Le tramway et la station du centre-ville (Frontaliers Belgique)",
-    "temperature": 72.34,
+    "temperature": 74.34,
     "publication": "14/11/2024",
     "price": 52.47,
     "reduction": 72.99,
-    "promotion": "28 %",
+    "promotion": 28,
     "link": "https://www.dreamland.be/e/fr/dl/lego-set-de-jeu-city-le-tramway-et-la-station-du-centre-ville-60423-188071",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2911829,
     "image": "https://static-pepper.dealabs.com/threads/raw/xoMHw/2911829_1/re/300x300/qt/60/2911829_1.jpg",
     "id": "60440",
     "titre": "Lego 60440 - Le camion jaune Lego (Frontaliers Belgique)",
-    "temperature": 69.52,
+    "temperature": 71.52,
     "publication": "14/11/2024",
     "price": 67.47,
     "reduction": 99.95,
-    "promotion": "32 %",
+    "promotion": 32,
     "link": "https://www.dreamland.be/e/fr/dl/lego-city-le-camion-de-livraison-jaune-60440-146457",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 9
   },
   {
     "threadId": 2911733,
     "image": "https://static-pepper.dealabs.com/threads/raw/lSgss/2911733_1/re/300x300/qt/60/2911733_1.jpg",
     "id": "11032",
     "titre": "Lego Classic 11032 - Jeux Créatifs en Couleurs (Via 29,95€ sur la carte fidélité)",
-    "temperature": 70.23,
+    "temperature": 76.79,
     "publication": "14/11/2024",
     "price": 29.95,
     "reduction": 59.9,
-    "promotion": "50 %",
+    "promotion": 50,
     "link": "https://www.carrefour.fr/catalogue/carrefour/hypermarche-5665-W1Q4wdTE?page=12",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 13
   },
   {
     "threadId": 2911725,
     "image": "https://static-pepper.dealabs.com/threads/raw/yGg0G/2911725_1/re/300x300/qt/60/2911725_1.jpg",
     "id": "75391",
     "titre": "Jeu de construction Lego Star Wars 75391 Microfighter Y-Wing du Capitaine Rex",
-    "temperature": 80.82,
+    "temperature": 82.82,
     "publication": "14/11/2024",
     "price": 9.99,
     "reduction": 12.99,
-    "promotion": "23 %",
+    "promotion": 23,
     "link": "https://www.amazon.fr/dp/B0CWH2RPXN?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2911490,
     "image": "https://static-pepper.dealabs.com/threads/raw/Jflbv/2911490_1/re/300x300/qt/60/2911490_1.jpg",
     "id": "76328",
     "titre": "Lego 76328 DC Batman la Batmobile",
-    "temperature": 308.55,
+    "temperature": 310.55,
     "publication": "13/11/2024",
     "price": 119.99,
     "reduction": 149.99,
-    "promotion": "20 %",
+    "promotion": 20,
     "link": "https://www.king-jouet.com/jeu-jouet/jeux-constructions/lego-planchettes/ref-967962-76328-lego-dc-batman-batmobile-serie-tv-classique.htm",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 14
   },
   {
     "threadId": 2911398,
     "image": "https://static-pepper.dealabs.com/threads/raw/Xjmz6/2911398_1/re/300x300/qt/60/2911398_1.jpg",
     "id": "41758",
     "titre": "Lego Friends 41758 - Calendrier de l'Avent",
-    "temperature": 300.15,
+    "temperature": 302.15,
     "publication": "13/11/2024",
     "price": 11.99,
     "reduction": 19.99,
-    "promotion": "40 %",
+    "promotion": 40,
     "link": "https://www.lagranderecre.fr/vehicules-et-figurines/figurines/calendrier-de-l-avent-lego-friends-41758.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 6
   },
   {
     "threadId": 2911390,
     "image": "https://static-pepper.dealabs.com/threads/raw/5UjS6/2911390_1/re/300x300/qt/60/2911390_1.jpg",
     "id": "41731",
     "titre": "Jeu de construction Lego Friends Ecole Internationale De Heartlake City 41731",
-    "temperature": 45.06,
+    "temperature": 47.06,
     "publication": "13/11/2024",
     "price": 59.99,
     "reduction": 99.99,
-    "promotion": "40 %",
+    "promotion": 40,
     "link": "https://www.lagranderecre.fr/jeux-de-construction/jeux-de-construction-en-briques/ville-et-univers-urbains/ecole-internationale-de-heartlake-city-lego-friends-41731.html?utm_source=adtraction&utm_medium=Avenue%20de%20la%20brique&utm_campaign=1776142667&at_gd=D031B213B76E89F3B7493C3E755BDBDFCD85FE05",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2911344,
@@ -1217,9 +2472,10 @@
     "publication": "13/11/2024",
     "price": 48.99,
     "reduction": 69.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.king-jouet.com/jeu-jouet/jeux-constructions/lego-planchettes/ref-918810-75350-lego-star-wars-le-casque-du-commandant-clone-cody.htm",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2911319,
@@ -1230,22 +2486,24 @@
     "publication": "13/11/2024",
     "price": 5.73,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.amazon.fr/LEGO-11023-Construction-Assemblage-Exposition/dp/B09BNVXRCY",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2911181,
     "image": "https://static-pepper.dealabs.com/threads/raw/ufUsD/2911181_1/re/300x300/qt/60/2911181_1.jpg",
     "id": "42167",
     "titre": "Jouet Lego Lego Technic Mack LR Electric Camion Poubelle 42167",
-    "temperature": 44.67,
+    "temperature": 46.67,
     "publication": "13/11/2024",
     "price": 22.78,
     "reduction": 25,
-    "promotion": "9 %",
+    "promotion": 9,
     "link": "https://www.amazon.fr/dp/B0CFVY143H?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2911170,
@@ -1256,126 +2514,52 @@
     "publication": "13/11/2024",
     "price": 77.86,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.amazon.fr/dp/B0BBRY1XKD?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2911164,
     "image": "https://static-pepper.dealabs.com/threads/raw/L4PaL/2911164_1/re/300x300/qt/60/2911164_1.jpg",
     "id": "31213",
     "titre": "Lego 31213 - Mona Lisa",
-    "temperature": 29.56,
+    "temperature": 27.86,
     "publication": "13/11/2024",
     "price": 79.88,
     "reduction": 93.47,
-    "promotion": "15 %",
+    "promotion": 15,
     "link": "https://www.amazon.fr/dp/B0CWH1RHN1?smid=A1X6FK5RDHNB96",
-    "datefin": false
-  },
-  {
-    "threadId": 2911152,
-    "image": "https://static-pepper.dealabs.com/threads/raw/KaDVz/2911152_1/re/300x300/qt/60/2911152_1.jpg",
-    "id": "75192",
-    "titre": "Lego Star Wars 75192 Millennium Falcon",
-    "temperature": 392.73,
-    "publication": "13/11/2024",
-    "price": 663.99,
-    "reduction": 829.99,
-    "promotion": "20 %",
-    "link": "https://www.king-jouet.com/jeu-jouet/jeux-constructions/lego-planchettes/ref-723050-75192-lego-star-wars-faucon-millenium.htm",
-    "datefin": false
-  },
-  {
-    "threadId": 2911142,
-    "image": "https://static-pepper.dealabs.com/threads/raw/S0jpP/2911142_1/re/300x300/qt/60/2911142_1.jpg",
-    "id": "71043",
-    "titre": "Lego Harry Potter 71043 - Le château de Poudlard (324€ via TheCorner BoursoBank)",
-    "temperature": 274.84,
-    "publication": "13/11/2024",
-    "price": 359.99,
-    "reduction": 449.9,
-    "promotion": "20 %",
-    "link": "https://www.king-jouet.com/jeu-jouet/jeux-constructions/lego-planchettes/ref-740756-71043-lego-harry-potter-le-chateau-de-poudlard.htm",
-    "datefin": false
-  },
-  {
-    "threadId": 2911138,
-    "image": "https://static-pepper.dealabs.com/threads/raw/KCMBo/2911138_1/re/300x300/qt/60/2911138_1.jpg",
-    "id": "71438",
-    "titre": "Lego 71438 Super Mario Super Mario World Mario et Yoshi",
-    "temperature": 92.3,
-    "publication": "13/11/2024",
-    "price": 95.99,
-    "reduction": 0,
-    "promotion": "0 %",
-    "link": "https://www.king-jouet.com/jeu-jouet/jeux-constructions/lego-planchettes/ref-967935-71438-lego-super-mario-world-mario-yoshi.htm",
-    "datefin": false
-  },
-  {
-    "threadId": 2911129,
-    "image": "https://static-pepper.dealabs.com/threads/raw/JAmey/2911129_1/re/300x300/qt/60/2911129_1.jpg",
-    "id": "10283",
-    "titre": "Lego Creator Expert 10283 - La navette spatiale Discovery de la NASA",
-    "temperature": 204.83,
-    "publication": "13/11/2024",
-    "price": 159.99,
-    "reduction": 199.99,
-    "promotion": "20 %",
-    "link": "https://www.king-jouet.com/jeu-jouet/jeux-constructions/lego-planchettes/ref-861059-10283-lego-adultes-la-navette-spatiale-discovery-de-la-nasa.htm",
-    "datefin": false
-  },
-  {
-    "threadId": 2911071,
-    "image": "https://static-pepper.dealabs.com/threads/raw/WxdUf/2911071_1/re/300x300/qt/60/2911071_1.jpg",
-    "id": "21061",
-    "titre": "Lego Architecture 21061 Notre-Dame de Paris",
-    "temperature": 896.24,
-    "publication": "13/11/2024",
-    "price": 159.99,
-    "reduction": 214.99,
-    "promotion": "26 %",
-    "link": "https://www.king-jouet.com/jeu-jouet/jeux-constructions/lego-planchettes/ref-965244-21061-lego-architecture-notre-dame-de-paris.htm",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2911041,
     "image": "https://static-pepper.dealabs.com/threads/raw/2yPZn/2911041_1/re/300x300/qt/60/2911041_1.jpg",
     "id": "60389",
     "titre": "Lego City 60389 Le Garage de Customisation",
-    "temperature": 49.33,
+    "temperature": 51.46,
     "publication": "13/11/2024",
     "price": 35.99,
     "reduction": 38.21,
-    "promotion": "6 %",
+    "promotion": 6,
     "link": "https://www.amazon.fr/dp/B0BBRZ7X66?smid=A1X6FK5RDHNB96",
-    "datefin": false
-  },
-  {
-    "threadId": 2911017,
-    "image": "https://static-pepper.dealabs.com/threads/raw/mbuNL/2911017_1/re/300x300/qt/60/2911017_1.jpg",
-    "id": "10318",
-    "titre": "Lego Icons 10318 - Le Concorde",
-    "temperature": 661.03,
-    "publication": "13/11/2024",
-    "price": 143.99,
-    "reduction": 199.99,
-    "promotion": "28 %",
-    "link": "https://www.king-jouet.com/jeu-jouet/jeux-constructions/lego-planchettes/ref-951598-10318-lego-icons-le-concorde.htm",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2910910,
     "image": "https://static-pepper.dealabs.com/threads/raw/sXE5I/2910910_1/re/300x300/qt/60/2910910_1.jpg",
     "id": "10331",
     "titre": "Lego Icons 10331 - Le Martin-Pêcheur",
-    "temperature": 446.66,
+    "temperature": 445.26,
     "publication": "13/11/2024",
     "price": 35,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.e.leclerc/fp/lego-icons-le-martin-pecheur-10331-5702017599564",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2910546,
@@ -1386,9 +2570,10 @@
     "publication": "13/11/2024",
     "price": 96.75,
     "reduction": 159,
-    "promotion": "39 %",
+    "promotion": 39,
     "link": "https://www.dreamland.be/e/fr/dl/lego-disney-fr",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2910501,
@@ -1399,22 +2584,24 @@
     "publication": "12/11/2024",
     "price": 38.82,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.e.leclerc/fp/5702017584430?sv1=affiliate&sv_campaign_id=297559&awc=15135_1731448596_90e82a68f1340a15355df8abcec99dde&utm_source=Awin&utm_medium=Editorial%20Content&utm_campaign=297559",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2910447,
     "image": "https://static-pepper.dealabs.com/threads/raw/BXS8a/2910447_1/re/300x300/qt/60/2910447_1.jpg",
     "id": "71806",
     "titre": "Jeu de construction Lego Ninjago Le Robot Élémentaire de la Terre de Cole 71806",
-    "temperature": 189.21,
+    "temperature": 189.86,
     "publication": "12/11/2024",
     "price": 12.75,
     "reduction": 17.94,
-    "promotion": "29 %",
+    "promotion": 29,
     "link": "https://www.amazon.fr/dp/B0CFVZWT5F?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2910424,
@@ -1425,9 +2612,10 @@
     "publication": "12/11/2024",
     "price": 449.25,
     "reduction": 599,
-    "promotion": "25 %",
+    "promotion": 25,
     "link": "https://www.dreamland.be/e/fr/dl/lego-star-wars-75331-razor-crest-111284-2",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2910388,
@@ -1438,9 +2626,10 @@
     "publication": "12/11/2024",
     "price": 449.25,
     "reduction": 649,
-    "promotion": "31 %",
+    "promotion": 31,
     "link": "https://www.dreamland.be/e/fr/dl/lego-star-wars-le-croiseur-dassaut-de-classe-venator-de-la-republique-75367-146350",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 18
   },
   {
     "threadId": 2910379,
@@ -1451,9 +2640,10 @@
     "publication": "12/11/2024",
     "price": 491,
     "reduction": 649.99,
-    "promotion": "24 %",
+    "promotion": 24,
     "link": "https://www.alternate.fr/Lego/Star-Wars-Le-croiseur-dassaut-de-classe-Venator-de-la-R%C3%A9publique-Jouets-de-construction/html/product/100015498",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 11
   },
   {
     "threadId": 2910337,
@@ -1464,22 +2654,24 @@
     "publication": "12/11/2024",
     "price": 22.97,
     "reduction": 30,
-    "promotion": "23 %",
+    "promotion": 23,
     "link": "https://www.e.leclerc/fp/lego-star-wars-le-chasseur-jedi-d-obi-wan-kenobi-75333-5702017155593",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 6
   },
   {
     "threadId": 2910302,
     "image": "https://static-pepper.dealabs.com/threads/raw/dWkmc/2910302_1/re/300x300/qt/60/2910302_1.jpg",
     "id": "42150",
     "titre": "Jeu de construction Lego Technic Monster Jam Monster Mutt Dalmatien - 42150",
-    "temperature": 242.73,
+    "temperature": 244.73,
     "publication": "12/11/2024",
     "price": 13.65,
     "reduction": 17.99,
-    "promotion": "24 %",
+    "promotion": 24,
     "link": "https://www.amazon.fr/dp/B0BBRXFL11?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 8
   },
   {
     "threadId": 2910211,
@@ -1490,22 +2682,24 @@
     "publication": "12/11/2024",
     "price": 94.05,
     "reduction": 209.99,
-    "promotion": "55 %",
+    "promotion": 55,
     "link": "https://www.dreamland.be/e/fr/dl/lego-marvel-infinity-saga-76262-le-bouclier-de-captain-america-146433",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 24
   },
   {
     "threadId": 2910003,
     "image": "https://static-pepper.dealabs.com/threads/raw/0Znv9/2910003_1/re/300x300/qt/60/2910003_1.jpg",
     "id": "76429",
     "titre": "Jeu de construction Lego Harry Potter - Le Choixpeau Magique qui Parle 76429",
-    "temperature": 26.02,
+    "temperature": 24.52,
     "publication": "12/11/2024",
     "price": 69.99,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.e.leclerc/fp/lego-harry-potter-le-choixpeau-magique-qui-parle-76429-5702017583112",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 11
   },
   {
     "threadId": 2909999,
@@ -1516,9 +2710,10 @@
     "publication": "12/11/2024",
     "price": 261.75,
     "reduction": 349.9,
-    "promotion": "25 %",
+    "promotion": 25,
     "link": "https://www.dreamland.be/e/fr/dl/lego-spider-man-76178-le-daily-bugle-111593",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 10
   },
   {
     "threadId": 2909978,
@@ -1529,9 +2724,10 @@
     "publication": "12/11/2024",
     "price": 336.75,
     "reduction": 499.99,
-    "promotion": "33 %",
+    "promotion": 33,
     "link": "https://www.dreamland.be/e/fr/dl/lego-marvel-la-tour-des-avengers-76269-146985",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 37
   },
   {
     "threadId": 2909951,
@@ -1542,9 +2738,10 @@
     "publication": "12/11/2024",
     "price": 32.99,
     "reduction": 54.99,
-    "promotion": "40 %",
+    "promotion": 40,
     "link": "https://www.lagranderecre.fr/jeux-de-construction/jeux-de-construction-en-briques/robots-et-sciences-fictions/rover-de-recherche-spatiale-lego-friends-42602.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2909863,
@@ -1555,9 +2752,10 @@
     "publication": "12/11/2024",
     "price": 14.4,
     "reduction": 23.99,
-    "promotion": "40 %",
+    "promotion": 40,
     "link": "https://www.joueclub.fr/jeux-de-constructions-maquettes/lego-friends-41758-le-calendrier-de-l-avent-5702017415406.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2909859,
@@ -1568,9 +2766,10 @@
     "publication": "12/11/2024",
     "price": 59.99,
     "reduction": 106.98,
-    "promotion": "44 %",
+    "promotion": 44,
     "link": "https://www.joueclub.fr/jeux-de-constructions-maquettes/lego-friends-41731-l-ecole-internationale-de-heartlake-city-5702017415178.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2909854,
@@ -1581,9 +2780,10 @@
     "publication": "12/11/2024",
     "price": 64.99,
     "reduction": 89.99,
-    "promotion": "28 %",
+    "promotion": 28,
     "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-76191-marvel-le-gant-de-l-infini-thanos-a/f-12084-lego76191.html#mpos=2%7Ccd",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 6
   },
   {
     "threadId": 2909356,
@@ -1594,35 +2794,38 @@
     "publication": "11/11/2024",
     "price": 6.37,
     "reduction": 7.9,
-    "promotion": "19 %",
+    "promotion": 19,
     "link": "https://www.amazon.fr/dp/B0BBS2LB7V?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2908633,
     "image": "https://static-pepper.dealabs.com/threads/raw/hoVV3/2908633_1/re/300x300/qt/60/2908633_1.jpg",
     "id": "76919",
     "titre": "Lego Speed Champions 76919 La Voiture de Course de Formule 1 Mclaren 2023 (via 3€ de fidélité)",
-    "temperature": 172.72,
+    "temperature": 174.72,
     "publication": "11/11/2024",
     "price": 14.9,
     "reduction": 17.9,
-    "promotion": "17 %",
+    "promotion": 17,
     "link": "https://www.carrefour.fr/p/lego-speed-champions-la-voiture-de-course-de-formule-1-mclaren-2023-76919-lego-5702017583723",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 11
   },
   {
     "threadId": 2909185,
     "image": "https://static-pepper.dealabs.com/threads/raw/fhfCS/2909185_1/re/300x300/qt/60/2909185_1.jpg",
     "id": "21061",
     "titre": "Jeu de construction Lego Architecture - Notre-Dame de Paris - 21061",
-    "temperature": -102.64,
+    "temperature": -104.04,
     "publication": "11/11/2024",
     "price": 180.53,
     "reduction": 186.9,
-    "promotion": "3 %",
+    "promotion": 3,
     "link": "https://www.amazon.fr/dp/B0CWH1M12W?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2908466,
@@ -1633,48 +2836,38 @@
     "publication": "11/11/2024",
     "price": 25.99,
     "reduction": 44.99,
-    "promotion": "42 %",
+    "promotion": 42,
     "link": "https://www.amazon.com.be/LEGO-Poudlard-Fantastique-Personnages-76430/dp/B0CFVZGPM4/ref=mp_s_a_1_1",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 3
   },
   {
     "threadId": 2908292,
     "image": "https://static-pepper.dealabs.com/threads/raw/n74B4/2908292_1/re/300x300/qt/60/2908292_1.jpg",
     "id": "76921",
     "titre": "LEGO Speed Champions 76921 - Voiture de Course Audi S1 e-Tron Quattro (3€ sur la carte)",
-    "temperature": 336.76,
+    "temperature": 338.76,
     "publication": "11/11/2024",
     "price": 14.9,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.carrefour.fr/p/lego-speed-champions-voiture-de-course-audi-s1-e-tron-quattro-76921-lego-5702017583747",
-    "datefin": false
-  },
-  {
-    "threadId": 2908140,
-    "image": "https://static-pepper.dealabs.com/threads/raw/I3hIg/2908140_1/re/300x300/qt/60/2908140_1.jpg",
-    "id": "10300",
-    "titre": "Jouet Lego Icons La Machine à Remonter le Temps de Retour vers le Futur, Voiture Delorean 10300",
-    "temperature": 433.86,
-    "publication": "11/11/2024",
-    "price": 148.99,
-    "reduction": 199.99,
-    "promotion": "26 %",
-    "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-10300-la-machine-a-remonter-le-temps-de-re/f-12084-lego10300.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 5
   },
   {
     "threadId": 2907965,
     "image": "https://static-pepper.dealabs.com/threads/raw/Q6ONn/2907965_1/re/300x300/qt/60/2907965_1.jpg",
     "id": "75365",
     "titre": "Jeu de construction Lego Star Wars (75365) - La base rebelle de Yavin 4",
-    "temperature": 57.06,
+    "temperature": 59.72,
     "publication": "10/11/2024",
     "price": 101.99,
     "reduction": 144.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Star-Wars-75365-La-Base-Rebelle-de-Yavin-4/a17922349/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2907684,
@@ -1685,9 +2878,10 @@
     "publication": "10/11/2024",
     "price": 6.84,
     "reduction": 7.62,
-    "promotion": "10 %",
+    "promotion": 10,
     "link": "https://www.amazon.fr/dp/B0BBRYZ24S?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2907129,
@@ -1698,9 +2892,10 @@
     "publication": "09/11/2024",
     "price": 9.99,
     "reduction": 19.99,
-    "promotion": "50 %",
+    "promotion": 50,
     "link": "https://www.king-jouet.com/jeu-jouet/jeux-constructions/lego-planchettes/ref-857745-43105-lego-vidiyo-party-llama-beatbox.htm",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 11
   },
   {
     "threadId": 2907127,
@@ -1711,9 +2906,10 @@
     "publication": "09/11/2024",
     "price": 19.49,
     "reduction": 37.99,
-    "promotion": "49 %",
+    "promotion": 49,
     "link": "https://www.king-jouet.com/jeu-jouet/jeux-constructions/lego-planchettes/ref-934568-76257-lego-marvel-la-figurine-de-wolverine.htm",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2907089,
@@ -1724,9 +2920,10 @@
     "publication": "09/11/2024",
     "price": 327,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.alternate.fr/Lego/Technic-McLaren-P1-Jouets-de-construction/html/product/100044195",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2907020,
@@ -1737,9 +2934,10 @@
     "publication": "09/11/2024",
     "price": 16.99,
     "reduction": 26.99,
-    "promotion": "37 %",
+    "promotion": 37,
     "link": "https://www.smythstoys.com/fr/fr-fr/jouets/lego/lego-speed-champions/lego-speed-champions-76919-formule-1-mclaren/p/232269",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 13
   },
   {
     "threadId": 2906936,
@@ -1750,22 +2948,24 @@
     "publication": "09/11/2024",
     "price": 12.75,
     "reduction": 15.09,
-    "promotion": "16 %",
+    "promotion": 16,
     "link": "https://www.amazon.fr/dp/B0CFW17QG2?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 9
   },
   {
     "threadId": 2906892,
     "image": "https://static-pepper.dealabs.com/threads/raw/svRDG/2906892_1/re/300x300/qt/60/2906892_1.jpg",
     "id": "76419",
     "titre": "Jeu de construction Lego Harry Potter (76419) - Le Château et le Domaine de Poudlard",
-    "temperature": -76.71,
+    "temperature": -82.31,
     "publication": "09/11/2024",
     "price": 139.9,
     "reduction": 169.99,
-    "promotion": "18 %",
+    "promotion": 18,
     "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-harry-potter-76419-le-chateau-et-le-domain/f-12084-leg5702017413228.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2906496,
@@ -1776,22 +2976,24 @@
     "publication": "08/11/2024",
     "price": 13.99,
     "reduction": 17,
-    "promotion": "18 %",
+    "promotion": 18,
     "link": "https://www.smythstoys.com/fr/fr-fr/jouets/lego/lego-city/lego-city-60369-le-dressage-des-chiens-policiers/p/215637",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2906438,
     "image": "https://static-pepper.dealabs.com/threads/raw/7R59T/2906438_1/re/300x300/qt/60/2906438_1.jpg",
     "id": "75395",
     "titre": "Jeu de construction Lego Star Wars (75395) - Calendrier de l’Avent 2024 (via 6,99€ sur Carte Fidélité)",
-    "temperature": 193.55,
+    "temperature": 195.55,
     "publication": "08/11/2024",
     "price": 20.99,
     "reduction": 27.99,
-    "promotion": "25 %",
+    "promotion": 25,
     "link": "https://www.auchan.fr/lego-star-wars-75395-calendrier-de-l-avent/pr-C1810138",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 5
   },
   {
     "threadId": 2906227,
@@ -1802,9 +3004,10 @@
     "publication": "08/11/2024",
     "price": 6.37,
     "reduction": 8,
-    "promotion": "20 %",
+    "promotion": 20,
     "link": "https://www.amazon.fr/dp/B0BBRZGFKS?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2906165,
@@ -1815,9 +3018,10 @@
     "publication": "08/11/2024",
     "price": 41,
     "reduction": 48.4,
-    "promotion": "15 %",
+    "promotion": 15,
     "link": "https://www.carrefour.fr/p/lego-icons-le-bouquet-de-roses-10328-lego-5702017583488",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2905987,
@@ -1828,9 +3032,10 @@
     "publication": "08/11/2024",
     "price": 52.9,
     "reduction": 72,
-    "promotion": "27 %",
+    "promotion": 27,
     "link": "https://www.alternate.fr/listing.xhtml?articleId=1905341,1905329,1870659,1870663,1870662,100043964,100012540,1870664&showTree=13574",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 3
   },
   {
     "threadId": 2905940,
@@ -1841,9 +3046,10 @@
     "publication": "08/11/2024",
     "price": 48.99,
     "reduction": 69.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.king-jouet.com/jeu-jouet/jeux-constructions/lego-planchettes/ref-918810-75350-lego-star-wars-le-casque-du-commandant-clone-cody.htm",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2905758,
@@ -1854,22 +3060,24 @@
     "publication": "08/11/2024",
     "price": 24.74,
     "reduction": 30.27,
-    "promotion": "18 %",
+    "promotion": 18,
     "link": "https://www.amazon.fr/LEGO-60388-Tournois-V%C3%A9hicules-Minifigurines/dp/B0BBRTW1T1/ref=sr_1_46",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2905755,
     "image": "https://static-pepper.dealabs.com/threads/raw/EKKkY/2905755_1/re/300x300/qt/60/2905755_1.jpg",
     "id": "60316",
     "titre": "LEGO City 60316 - Le Commissariat de Police avec Voiture, Camion de Poubelle et Hélicoptère",
-    "temperature": 17.15,
+    "temperature": 15.75,
     "publication": "08/11/2024",
     "price": 46,
     "reduction": 48.56,
-    "promotion": "5 %",
+    "promotion": 5,
     "link": "https://www.amazon.fr/dp/B09BNWHBTY?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 3
   },
   {
     "threadId": 2905619,
@@ -1880,22 +3088,24 @@
     "publication": "08/11/2024",
     "price": 32.99,
     "reduction": 39.99,
-    "promotion": "18 %",
+    "promotion": 18,
     "link": "https://www.carrefour.fr/p/lego-icons-l-orchidee-10311-lego-5702017224336",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 7
   },
   {
     "threadId": 2904937,
     "image": "https://static-pepper.dealabs.com/threads/raw/Y5H87/2904937_1/re/300x300/qt/60/2904937_1.jpg",
     "id": "21056",
     "titre": "LEGO Architecture 21056 - Le Taj Mahal (Sélection de magasins)",
-    "temperature": 198.79,
+    "temperature": 200.79,
     "publication": "07/11/2024",
     "price": 83.99,
     "reduction": 119.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Architecture-21056-Le-Taj-Mahal/a15838250/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 6
   },
   {
     "threadId": 2904604,
@@ -1906,22 +3116,24 @@
     "publication": "06/11/2024",
     "price": 26.99,
     "reduction": 44.99,
-    "promotion": "40 %",
+    "promotion": 40,
     "link": "https://www.fnac.com/La-journee-d-adoption-des-animaux/a19790590/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2904064,
     "image": "https://static-pepper.dealabs.com/threads/raw/zSFbm/2904064_1/re/300x300/qt/60/2904064_1.jpg",
     "id": "75364",
     "titre": "LEGO Star Wars 75364 - L’E-wing de la Nouvelle République contre le chasseur de Shin Hati",
-    "temperature": 239.93,
+    "temperature": 252.91,
     "publication": "06/11/2024",
     "price": 62.99,
     "reduction": 89.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.fnac.com/LEGO-Star-Wars-75364-L-E-wing-de-la-Nouvelle-Republique-contre-le-chasseur-de-Shin-Hati/a17918379/w-4",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 7
   },
   {
     "threadId": 2903891,
@@ -1932,9 +3144,10 @@
     "publication": "06/11/2024",
     "price": 33.27,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.amazon.de/dp/B0BCP2HHBC?smid=A3JWKAKR8XB7XF",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 6
   },
   {
     "threadId": 2903794,
@@ -1945,22 +3158,10 @@
     "publication": "06/11/2024",
     "price": 45.37,
     "reduction": 52.23,
-    "promotion": "13 %",
+    "promotion": 13,
     "link": "https://www.amazon.de/dp/B0CWH34C8R?smid=A3JWKAKR8XB7XF",
-    "datefin": false
-  },
-  {
-    "threadId": 2903789,
-    "image": "https://static-pepper.dealabs.com/threads/raw/0OG4Z/2903789_1/re/300x300/qt/60/2903789_1.jpg",
-    "id": "43240",
-    "titre": "Lego Disney Princess 43240 : La Belle au bois dormant, Maléfique en Dragon (via coupon)",
-    "temperature": 59.7,
-    "publication": "06/11/2024",
-    "price": 44.99,
-    "reduction": 59.99,
-    "promotion": "25 %",
-    "link": "https://www.amazon.fr/dp/B0CWH21PDJ?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2903773,
@@ -1971,9 +3172,10 @@
     "publication": "06/11/2024",
     "price": 16.9,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.carrefour.fr/p/lego-city-le-calendrier-de-l-avent-2024-60436-lego-5702017591551",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2903529,
@@ -1984,22 +3186,24 @@
     "publication": "05/11/2024",
     "price": 12.9,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.amazon.fr/dp/B0CFW1BPKM?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2903373,
     "image": "https://static-pepper.dealabs.com/threads/raw/LjiTk/2903373_1/re/300x300/qt/60/2903373_1.jpg",
     "id": "21333",
     "titre": "LEGO Ideas 21333 - Vincent Van Gogh - La Nuit Étoilée, Reproduction de Tableau sur Toile",
-    "temperature": 50.86,
+    "temperature": 45.26,
     "publication": "05/11/2024",
     "price": 139.99,
     "reduction": 169.99,
-    "promotion": "18 %",
+    "promotion": 18,
     "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-ideas-21333-vincent-van-gogh-la-nuit-etoile/f-12084-lego21333.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2903166,
@@ -2010,35 +3214,38 @@
     "publication": "05/11/2024",
     "price": 13.99,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.amazon.fr/dp/B09BNS6J42?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2903019,
     "image": "https://static-pepper.dealabs.com/threads/raw/FUmdF/2903019_1/re/300x300/qt/60/2903019_1.jpg",
     "id": "43247",
     "titre": "Jeu de construction Lego Le Roi Lion Simba 43247",
-    "temperature": 33.59,
+    "temperature": 32.19,
     "publication": "05/11/2024",
     "price": 99.99,
     "reduction": 110.99,
-    "promotion": "10 %",
+    "promotion": 10,
     "link": "https://www.e.leclerc/fp/lego-disney-classic-43247-simba-le-jeune-roi-lion-5702017591940",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2902918,
     "image": "https://static-pepper.dealabs.com/threads/raw/yIwir/2902918_1/re/300x300/qt/60/2902918_1.jpg",
     "id": "60437",
     "titre": "Lego City L’hélicoptère de l’explorateur de la jungle au camp de base 60437",
-    "temperature": 60.86,
+    "temperature": 59.16,
     "publication": "05/11/2024",
     "price": 67.9,
     "reduction": 79.37,
-    "promotion": "14 %",
+    "promotion": 14,
     "link": "https://www.carrefour.fr/p/lego-city-l-helicoptere-de-l-explorateur-de-la-jungle-au-camp-de-base-60437-lego-5702017590820",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2902864,
@@ -2049,9 +3256,10 @@
     "publication": "05/11/2024",
     "price": 141.99,
     "reduction": 152.53,
-    "promotion": "7 %",
+    "promotion": 7,
     "link": "https://amzn.eu/d/bsJCrs1",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2902814,
@@ -2062,9 +3270,10 @@
     "publication": "05/11/2024",
     "price": 19.12,
     "reduction": 23.9,
-    "promotion": "20 %",
+    "promotion": 20,
     "link": "https://www.amazon.fr/dp/B0CT9676FF?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 3
   },
   {
     "threadId": 2901504,
@@ -2075,9 +3284,10 @@
     "publication": "03/11/2024",
     "price": 94.39,
     "reduction": 99.99,
-    "promotion": "6 %",
+    "promotion": 6,
     "link": "https://www.kitstore.fr/p/lego-r-ideas-21352-la-magie-disney",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2901305,
@@ -2088,9 +3298,10 @@
     "publication": "03/11/2024",
     "price": 24.9,
     "reduction": 26.87,
-    "promotion": "7 %",
+    "promotion": 7,
     "link": "https://www.amazon.fr/dp/B00CALQB1E?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2901278,
@@ -2101,9 +3312,10 @@
     "publication": "03/11/2024",
     "price": 11.69,
     "reduction": 14.99,
-    "promotion": "22 %",
+    "promotion": 22,
     "link": "https://www.lidl.fr/p/lego-marvel-super-heroes-76287-iron-man-avec-velo-et-hulk/p100379670",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2901262,
@@ -2114,9 +3326,10 @@
     "publication": "03/11/2024",
     "price": 178.99,
     "reduction": 239,
-    "promotion": "25 %",
+    "promotion": 25,
     "link": "https://www.e.leclerc/fp/5702016668018",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 9
   },
   {
     "threadId": 2901184,
@@ -2127,9 +3340,10 @@
     "publication": "03/11/2024",
     "price": 13.02,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.e.leclerc/fp/lego-star-wars-pack-de-combat-des-clone-troopers-de-la-501eme-legion-75345-5702017421292",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2900951,
@@ -2140,9 +3354,10 @@
     "publication": "03/11/2024",
     "price": 71.97,
     "reduction": 79,
-    "promotion": "9 %",
+    "promotion": 9,
     "link": "",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 5
   },
   {
     "threadId": 2900775,
@@ -2153,9 +3368,10 @@
     "publication": "02/11/2024",
     "price": 51.55,
     "reduction": 57.28,
-    "promotion": "10 %",
+    "promotion": 10,
     "link": "https://www.amazon.fr/dp/B0BV7DPF3C?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2900772,
@@ -2166,22 +3382,24 @@
     "publication": "02/11/2024",
     "price": 22.49,
     "reduction": 28.05,
-    "promotion": "20 %",
+    "promotion": 20,
     "link": "https://www.amazon.fr/dp/B01N2TP73A?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2900721,
     "image": "https://static-pepper.dealabs.com/threads/raw/MXAS2/2900721_1/re/300x300/qt/60/2900721_1.jpg",
     "id": "75344",
     "titre": "LEGO Star Wars (75344) - Le vaisseau de Boba Fett Microfighter - Action Pornic (44)",
-    "temperature": 52.36,
+    "temperature": 56.36,
     "publication": "02/11/2024",
     "price": 7.95,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 5
   },
   {
     "threadId": 2900693,
@@ -2192,9 +3410,10 @@
     "publication": "02/11/2024",
     "price": 142.8,
     "reduction": 185.88,
-    "promotion": "23 %",
+    "promotion": 23,
     "link": "https://www.amazon.es/dp/B0CWGPB8ZD?smid=A1AT7YVPFBWXBL",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 6
   },
   {
     "threadId": 2900465,
@@ -2205,9 +3424,10 @@
     "publication": "02/11/2024",
     "price": 11.71,
     "reduction": 12.99,
-    "promotion": "10 %",
+    "promotion": 10,
     "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-40639-le-nid-d-oiseau-jouet-de-constructio/f-12084-leg1706895917587.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 6
   },
   {
     "threadId": 2900328,
@@ -2218,9 +3438,10 @@
     "publication": "02/11/2024",
     "price": 206.52,
     "reduction": 239.96,
-    "promotion": "14 %",
+    "promotion": 14,
     "link": "https://www.kitstore.fr/p/lego-icons-10306-atari-2600",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2900319,
@@ -2231,9 +3452,10 @@
     "publication": "02/11/2024",
     "price": 41.27,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.kitstore.fr/search?phrase=Succulentes",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2899230,
@@ -2244,9 +3466,10 @@
     "publication": "31/10/2024",
     "price": 11.41,
     "reduction": 15.99,
-    "promotion": "29 %",
+    "promotion": 29,
     "link": "https://www.e.leclerc/fp/lego-star-wars-microfighter-chasseur-n-1-du-mandalorien-75363-5702017421445",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2899094,
@@ -2257,22 +3480,10 @@
     "publication": "31/10/2024",
     "price": 34.79,
     "reduction": 49.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.alternate.fr/LEGO/Super-Mario-Les-Aventures-de-LEGO-Mario-interactif-Jouets-de-construction/html/product/100043845",
-    "datefin": false
-  },
-  {
-    "threadId": 2898973,
-    "image": "https://static-pepper.dealabs.com/threads/raw/Zcghp/2898973_1/re/300x300/qt/60/2898973_1.jpg",
-    "id": "10300",
-    "titre": "Jouet Lego La machine à remonter le temps de Retour vers le futur 10300",
-    "temperature": 382.77,
-    "publication": "31/10/2024",
-    "price": 159.99,
-    "reduction": 199.99,
-    "promotion": "20 %",
-    "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-10300-la-machine-a-remonter-le-temps-de-re/f-12084-lego10300.html?sv1=affiliate&sv_campaign_id=297733",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2898946,
@@ -2283,35 +3494,24 @@
     "publication": "31/10/2024",
     "price": 14.93,
     "reduction": 19.9,
-    "promotion": "25 %",
+    "promotion": 25,
     "link": "https://www.intermarche.com/produit/animal-crossing-excursion-maritime-d'amiral/5702017592343",
-    "datefin": false
-  },
-  {
-    "threadId": 2898808,
-    "image": "https://static-pepper.dealabs.com/threads/raw/4JEoY/2898808_1/re/300x300/qt/60/2898808_1.jpg",
-    "id": "21347",
-    "titre": "Jeu de construction LEGO Ideas - Cabine Téléphonique Londonienne (21347)",
-    "temperature": 341.08,
-    "publication": "31/10/2024",
-    "price": 74.99,
-    "reduction": 114.99,
-    "promotion": "35 %",
-    "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-ideas-21347-cabine-telephonique-londonienn/f-12084-lego21347.html?idOffre=3302122129",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2898681,
     "image": "https://static-pepper.dealabs.com/threads/raw/s5LgX/2898681_1/re/300x300/qt/60/2898681_1.jpg",
     "id": "42164",
     "titre": "Lego Technic Le Buggy Tout-Terrain 42164",
-    "temperature": 276.1,
+    "temperature": 278.1,
     "publication": "31/10/2024",
     "price": 10.41,
     "reduction": 15.39,
-    "promotion": "32 %",
+    "promotion": 32,
     "link": "https://www.e.leclerc/fp/5702017567167",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2898347,
@@ -2322,9 +3522,10 @@
     "publication": "31/10/2024",
     "price": 44.99,
     "reduction": 56.51,
-    "promotion": "20 %",
+    "promotion": 20,
     "link": "https://www.amazon.fr/dp/B0CFVZZ536?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2898361,
@@ -2335,9 +3536,10 @@
     "publication": "31/10/2024",
     "price": 18.39,
     "reduction": 22.99,
-    "promotion": "20 %",
+    "promotion": 20,
     "link": "https://www.carrefour.fr/p/lego-speed-champions-ferrari-812-competizione-76914-lego-5702017424187",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 5
   },
   {
     "threadId": 2898288,
@@ -2348,9 +3550,10 @@
     "publication": "31/10/2024",
     "price": 70.49,
     "reduction": 85.66,
-    "promotion": "18 %",
+    "promotion": 18,
     "link": "https://www.amazon.fr/dp/B0CWH3CQYW?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2898241,
@@ -2361,22 +3564,24 @@
     "publication": "31/10/2024",
     "price": 73.99,
     "reduction": 99.99,
-    "promotion": "26 %",
+    "promotion": 26,
     "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-friends-41737-le-parc-d-attractions-a-la-p/f-12084-lego41737.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 3
   },
   {
     "threadId": 2898238,
     "image": "https://static-pepper.dealabs.com/threads/raw/jS5rK/2898238_1/re/300x300/qt/60/2898238_1.jpg",
     "id": "42151",
     "titre": "Jeu de construction Lego Technic 42151 Le Bolide Bugatti",
-    "temperature": 92,
+    "temperature": 94.68,
     "publication": "31/10/2024",
     "price": 34,
     "reduction": 49.99,
-    "promotion": "32 %",
+    "promotion": 32,
     "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-technic-42151-le-bolide-bugatti-jouet-de/f-12084-lego42151.html?idOffre=-1&sv1=affiliate&sv_campaign_id=284749",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2897636,
@@ -2387,9 +3592,10 @@
     "publication": "30/10/2024",
     "price": 29.99,
     "reduction": 39.9,
-    "promotion": "25 %",
+    "promotion": 25,
     "link": "",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2897549,
@@ -2400,22 +3606,24 @@
     "publication": "30/10/2024",
     "price": 9.56,
     "reduction": 12.68,
-    "promotion": "25 %",
+    "promotion": 25,
     "link": "https://www.amazon.fr/dp/B0C7HBX24Y?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2897389,
     "image": "https://static-pepper.dealabs.com/threads/raw/RDobS/2897389_1/re/300x300/qt/60/2897389_1.jpg",
     "id": "75389",
     "titre": "LEGO Star Wars 75389 - Le Faucon Noir",
-    "temperature": 87.51,
+    "temperature": 89.51,
     "publication": "30/10/2024",
     "price": 129.99,
     "reduction": 179.99,
-    "promotion": "28 %",
+    "promotion": 28,
     "link": "https://www.smythstoys.com/fr/fr-fr/jouets/lego/lego-star-wars/lego-star-wars-75389-le-faucon-noir/p/236743",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 13
   },
   {
     "threadId": 2897246,
@@ -2426,9 +3634,10 @@
     "publication": "30/10/2024",
     "price": 6.37,
     "reduction": 6.86,
-    "promotion": "7 %",
+    "promotion": 7,
     "link": "https://www.amazon.fr/dp/B09BNVCL8N?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2896828,
@@ -2439,22 +3648,24 @@
     "publication": "29/10/2024",
     "price": 19.13,
     "reduction": 21.49,
-    "promotion": "11 %",
+    "promotion": 11,
     "link": "https://www.amazon.fr/dp/B0CFW2CPTP?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2896464,
     "image": "https://static-pepper.dealabs.com/threads/raw/GwZPl/2896464_1/re/300x300/qt/60/2896464_1.jpg",
     "id": "10311",
     "titre": "LEGO Icons 10311 - L'Orchidée",
-    "temperature": 566.95,
+    "temperature": 570.95,
     "publication": "29/10/2024",
     "price": 34.99,
     "reduction": 49.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.smythstoys.com/fr/fr-fr/jouets/lego/lego-adults/lego-icons-10311-lorchidee/p/204044",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 19
   },
   {
     "threadId": 2896314,
@@ -2465,35 +3676,10 @@
     "publication": "29/10/2024",
     "price": 9.56,
     "reduction": 12.37,
-    "promotion": "23 %",
+    "promotion": 23,
     "link": "https://www.amazon.fr/dp/B09PJ8ZZ1G?smid=A1X6FK5RDHNB96",
-    "datefin": false
-  },
-  {
-    "threadId": 2896156,
-    "image": "https://static-pepper.dealabs.com/threads/raw/GAomU/2896156_1/re/300x300/qt/60/2896156_1.jpg",
-    "id": "42161",
-    "titre": "Lego Technic 42161 - Lamborghini Huracán Tecnica (10€ sur la carte fidelite)",
-    "temperature": 363.64,
-    "publication": "29/10/2024",
-    "price": 24.9,
-    "reduction": 34.9,
-    "promotion": "29 %",
-    "link": "https://www.carrefour.fr/p/lego-technic-lamborghini-huracan-tecnica-42161-lego-5702017425214",
-    "datefin": false
-  },
-  {
-    "threadId": 2895724,
-    "image": "https://static-pepper.dealabs.com/threads/raw/1ll4s/2895724_1/re/300x300/qt/60/2895724_1.jpg",
-    "id": "2024",
-    "titre": "Lego Friends 2024 - Le Calendrier de l'Avent",
-    "temperature": 224.57,
-    "publication": "29/10/2024",
-    "price": 16,
-    "reduction": 23.01,
-    "promotion": "30 %",
-    "link": "https://www.amazon.fr/dp/B0CWH1V2XX?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 11
   },
   {
     "threadId": 2895732,
@@ -2504,9 +3690,10 @@
     "publication": "29/10/2024",
     "price": 35.42,
     "reduction": 43.33,
-    "promotion": "18 %",
+    "promotion": 18,
     "link": "https://www.amazon.fr/dp/B0CRF2C7Y4?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2895629,
@@ -2517,9 +3704,10 @@
     "publication": "29/10/2024",
     "price": 188.3,
     "reduction": 269,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.dreamland.be/e/fr/dl/lego-super-mario-71374-nintendo-entertainment-system-116046-2",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 21
   },
   {
     "threadId": 2894658,
@@ -2530,9 +3718,10 @@
     "publication": "28/10/2024",
     "price": 26.98,
     "reduction": 38.2,
-    "promotion": "29 %",
+    "promotion": 29,
     "link": "https://www.amazon.fr/dp/B0CWH36MZK?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 6
   },
   {
     "threadId": 2894199,
@@ -2543,9 +3732,10 @@
     "publication": "27/10/2024",
     "price": 15.99,
     "reduction": 20.99,
-    "promotion": "24 %",
+    "promotion": 24,
     "link": "https://www.e.leclerc/fp/l-evasion-de-shadow-5702017592510",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2893934,
@@ -2556,9 +3746,10 @@
     "publication": "27/10/2024",
     "price": 13.99,
     "reduction": 19.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.smythstoys.com/fr/fr-fr/jouets/lego/lego-marvel-super-heroes/lego-marvel-spidey-10793-spidey-contre-le-bouffon-vert/p/232207",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2893932,
@@ -2569,9 +3760,10 @@
     "publication": "27/10/2024",
     "price": 23.99,
     "reduction": 26.46,
-    "promotion": "9 %",
+    "promotion": 9,
     "link": "https://www.amazon.fr/dp/B00CALHYF6?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2893692,
@@ -2582,9 +3774,10 @@
     "publication": "27/10/2024",
     "price": 16.45,
     "reduction": 17.44,
-    "promotion": "6 %",
+    "promotion": 6,
     "link": "https://www.amazon.fr/dp/B0BV7BSWJQ?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2893559,
@@ -2595,9 +3788,10 @@
     "publication": "27/10/2024",
     "price": 73.99,
     "reduction": 99.99,
-    "promotion": "26 %",
+    "promotion": 26,
     "link": "https://www.smythstoys.com/fr/fr-fr/jouets/lego/lego-star-wars/lego-star-wars-75379-r2-d2/p/232327",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2892657,
@@ -2608,22 +3802,10 @@
     "publication": "26/10/2024",
     "price": 9.09,
     "reduction": 11.91,
-    "promotion": "24 %",
+    "promotion": 24,
     "link": "https://www.amazon.fr/dp/B0CFVYRCBL?smid=A1X6FK5RDHNB96",
-    "datefin": false
-  },
-  {
-    "threadId": 2892573,
-    "image": "https://static-pepper.dealabs.com/threads/raw/7HXdY/2892573_1/re/300x300/qt/60/2892573_1.jpg",
-    "id": "42174",
-    "titre": "Lego Technic 42174 : Emirates Team New Zealand AC75 (Via coupon)",
-    "temperature": 78.81,
-    "publication": "26/10/2024",
-    "price": 87.88,
-    "reduction": 97.88,
-    "promotion": "10 %",
-    "link": "https://www.amazon.fr/dp/B0CWH2ZY73?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2891587,
@@ -2634,35 +3816,24 @@
     "publication": "25/10/2024",
     "price": 57.61,
     "reduction": 74.22,
-    "promotion": "22 %",
+    "promotion": 22,
     "link": "https://www.amazon.de/dp/B01N1O0FES?smid=A3JWKAKR8XB7XF",
-    "datefin": false
-  },
-  {
-    "threadId": 2891377,
-    "image": "https://static-pepper.dealabs.com/threads/raw/YURNC/2891377_1/re/300x300/qt/60/2891377_1.jpg",
-    "id": "75381",
-    "titre": "Lego Star Wars 75381 - Le Droïdeka",
-    "temperature": 85.75,
-    "publication": "25/10/2024",
-    "price": 38.97,
-    "reduction": 45.03,
-    "promotion": "13 %",
-    "link": "https://www.amazon.de/dp/B0CFW2QDPP?smid=A3JWKAKR8XB7XF",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2891276,
     "image": "https://static-pepper.dealabs.com/threads/raw/I6y8e/2891276_1/re/300x300/qt/60/2891276_1.jpg",
     "id": "75328",
     "titre": "Lego Star Wars 75328 Le Casque du Mandalorien (via 12,97€ sur la carte fidelité)",
-    "temperature": 425.69,
+    "temperature": 429.78,
     "publication": "25/10/2024",
     "price": 38.92,
     "reduction": 51.9,
-    "promotion": "25 %",
+    "promotion": 25,
     "link": "https://www.auchan.fr/lego-star-wars-75328-le-casque-du-mandalorien-maquette-de-collection-a-construire-decoration-et-cadeau-pour-adultes/pr-C1485887",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 7
   },
   {
     "threadId": 2891261,
@@ -2673,9 +3844,10 @@
     "publication": "25/10/2024",
     "price": 6.18,
     "reduction": 8.99,
-    "promotion": "31 %",
+    "promotion": 31,
     "link": "https://www.e.leclerc/fp/5702017566733",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2891218,
@@ -2686,9 +3858,10 @@
     "publication": "25/10/2024",
     "price": 7.49,
     "reduction": 7.93,
-    "promotion": "6 %",
+    "promotion": 6,
     "link": "https://www.amazon.fr/dp/B0CFVWTFLS?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2890928,
@@ -2699,9 +3872,10 @@
     "publication": "25/10/2024",
     "price": 75.18,
     "reduction": 79.99,
-    "promotion": "6 %",
+    "promotion": 6,
     "link": "https://www.amazon.fr/dp/B09BNX43N7?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 3
   },
   {
     "threadId": 2890874,
@@ -2712,9 +3886,10 @@
     "publication": "25/10/2024",
     "price": 47.99,
     "reduction": 64.99,
-    "promotion": "26 %",
+    "promotion": 26,
     "link": "https://www.smythstoys.com/fr/fr-fr/jouets/lego/lego-star-wars/lego-star-wars-75325-le-chasseur-n-1-du-mandalorien/p/208018",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 3
   },
   {
     "threadId": 2890491,
@@ -2725,61 +3900,38 @@
     "publication": "24/10/2024",
     "price": 26,
     "reduction": 26.9,
-    "promotion": "3 %",
+    "promotion": 3,
     "link": "https://www.amazon.fr/dp/B09QFXRYYH?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2890059,
     "image": "https://static-pepper.dealabs.com/threads/raw/CBL35/2890059_1/re/300x300/qt/60/2890059_1.jpg",
     "id": "76438",
     "titre": "Sélection de Lego en promotion. Ex : LEGO Harry Potter 76438 ou Calendrier de l’Avent 2024",
-    "temperature": 365.98,
+    "temperature": 367.98,
     "publication": "24/10/2024",
     "price": 23.48,
     "reduction": 33,
-    "promotion": "29 %",
+    "promotion": 29,
     "link": "https://www.kitstore.fr",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 25
   },
   {
     "threadId": 2889959,
     "image": "https://static-pepper.dealabs.com/threads/raw/KYwqM/2889959_1/re/300x300/qt/60/2889959_1.jpg",
     "id": "40499",
     "titre": "Jeu de construction Lego Le traîneau du Père Noël (40499)",
-    "temperature": 214.8,
+    "temperature": 216.8,
     "publication": "24/10/2024",
     "price": 33.99,
     "reduction": 39.99,
-    "promotion": "15 %",
+    "promotion": 15,
     "link": "https://www.amazon.fr/LEGO-tra%C3%AEneau-P%C3%A8re-No%C3%ABl-Construction/dp/B09HNZ431F?ref_=ast_sto_dp",
-    "datefin": false
-  },
-  {
-    "threadId": 2889848,
-    "image": "https://static-pepper.dealabs.com/threads/raw/KZ8nV/2889848_1/re/300x300/qt/60/2889848_1.jpg",
-    "id": "42626",
-    "titre": "LEGO Friends - Sports aquatiques à la base d’aventure (42626)",
-    "temperature": 65.57,
-    "publication": "23/10/2024",
-    "price": 49.99,
-    "reduction": 59.99,
-    "promotion": "17 %",
-    "link": "https://www.cultura.com/p-sports-aquatiques-a-la-base-d-aventure-10555990.html",
-    "datefin": false
-  },
-  {
-    "threadId": 2889784,
-    "image": "https://static-pepper.dealabs.com/threads/raw/U24VK/2889784_1/re/300x300/qt/60/2889784_1.jpg",
-    "id": "75371",
-    "titre": "Lego Star Wars 75371 Chewbacca (Sélection de magasins)",
-    "temperature": 27.46,
-    "publication": "23/10/2024",
-    "price": 116.99,
-    "reduction": 149.99,
-    "promotion": "22 %",
-    "link": "https://www.smythstoys.com/fr/fr-fr/jouets/lego/lego-star-wars/lego-star-wars-75371-chewbacca/p/223040",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2889442,
@@ -2790,74 +3942,10 @@
     "publication": "23/10/2024",
     "price": 0,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.king-jouet.com/",
-    "datefin": false
-  },
-  {
-    "threadId": 2889352,
-    "image": "https://static-pepper.dealabs.com/threads/raw/zjAZw/2889352_1/re/300x300/qt/60/2889352_1.jpg",
-    "id": "60391",
-    "titre": "LEGO City 60391 - Les Camions de Chantier et la Grue à Boule de Démolition (via coupon)",
-    "temperature": 29.2,
-    "publication": "23/10/2024",
-    "price": 32.23,
-    "reduction": 38.9,
-    "promotion": "17 %",
-    "link": "https://www.amazon.fr/dp/B0BPCD8L88?smid=A1X6FK5RDHNB96",
-    "datefin": false
-  },
-  {
-    "threadId": 2888590,
-    "image": "https://static-pepper.dealabs.com/threads/raw/kioxw/2888590_1/re/300x300/qt/60/2888590_1.jpg",
-    "id": "60408",
-    "titre": "Lego City 60408 - Le Camion de Transport de 4 Voitures de Sport (via coupon)",
-    "temperature": 16.25,
-    "publication": "22/10/2024",
-    "price": 64.49,
-    "reduction": 80.87,
-    "promotion": "20 %",
-    "link": "https://www.amazon.fr/dp/B0CWH2155C?smid=A1X6FK5RDHNB96",
-    "datefin": false
-  },
-  {
-    "threadId": 2888557,
-    "image": "https://static-pepper.dealabs.com/threads/raw/qhyd0/2888557_1/re/300x300/qt/60/2888557_1.jpg",
-    "id": "43253",
-    "titre": "Calendrier de l'avent Lego Disney 43253",
-    "temperature": 191.33,
-    "publication": "22/10/2024",
-    "price": 23.46,
-    "reduction": 34.99,
-    "promotion": "33 %",
-    "link": "https://www.kitstore.fr/p/lego-r-disneytm-43253-calendrier-de-l-avent-2024",
-    "datefin": false
-  },
-  {
-    "threadId": 2888481,
-    "image": "https://static-pepper.dealabs.com/threads/raw/Pll2N/2888481_1/re/300x300/qt/60/2888481_1.jpg",
-    "id": "21335",
-    "titre": "LEGO Ideas - Le phare motorisé (21335)",
-    "temperature": -4.45,
-    "publication": "21/10/2024",
-    "price": 219.99,
-    "reduction": 0,
-    "promotion": "0 %",
-    "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-21335-ideas-le-phare-motorise-maquette-a-con/f-12084-lego21335.html",
-    "datefin": false
-  },
-  {
-    "threadId": 2888297,
-    "image": "https://static-pepper.dealabs.com/threads/raw/XMDul/2888297_1/re/300x300/qt/60/2888297_1.jpg",
-    "id": "75389",
-    "titre": "Jeu de construction Lego Star Wars (75389) - Le Faucon Noir",
-    "temperature": -67.62,
-    "publication": "21/10/2024",
-    "price": 130.9,
-    "reduction": 0,
-    "promotion": "0 %",
-    "link": "https://www.alternate.fr/Lego/Star-Wars-Le-Faucon-Noir-Jouets-de-construction/html/product/100044139",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2888035,
@@ -2868,48 +3956,10 @@
     "publication": "21/10/2024",
     "price": 314,
     "reduction": 449.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.cactus.lu/fr/depliant-saint-nicolas-2024",
-    "datefin": false
-  },
-  {
-    "threadId": 2887992,
-    "image": "https://static-pepper.dealabs.com/threads/raw/EtUTy/2887992_1/re/300x300/qt/60/2887992_1.jpg",
-    "id": "11027",
-    "titre": "LEGO 11027 Classic L’Amusement Créatif Fluo",
-    "temperature": 51.68,
-    "publication": "21/10/2024",
-    "price": 11.77,
-    "reduction": 13.03,
-    "promotion": "10 %",
-    "link": "https://www.amazon.fr/dp/B01N5FKSBC?smid=A1X6FK5RDHNB96",
-    "datefin": false
-  },
-  {
-    "threadId": 2887857,
-    "image": "https://static-pepper.dealabs.com/threads/raw/2IsTw/2887857_1/re/300x300/qt/60/2887857_1.jpg",
-    "id": "77048",
-    "titre": "Lego Animal Crossing - Excursion Maritime d'Amiral 77048 (via 3€ cagnottés)",
-    "temperature": 43.01,
-    "publication": "21/10/2024",
-    "price": 16.89,
-    "reduction": 19.89,
-    "promotion": "15 %",
-    "link": "https://www.e.leclerc/fp/excursion-maritime-d-amiral-5702017592343",
-    "datefin": false
-  },
-  {
-    "threadId": 2887846,
-    "image": "https://static-pepper.dealabs.com/threads/raw/Bq30p/2887846_1/re/300x300/qt/60/2887846_1.jpg",
-    "id": "76960",
-    "titre": "Lego Jurassic Park 76960 - La Découverte du Brachiosaure (via coupon)",
-    "temperature": 58.16,
-    "publication": "21/10/2024",
-    "price": 54.74,
-    "reduction": 63.06,
-    "promotion": "13 %",
-    "link": "https://www.amazon.fr/dp/B0BPC9M14K?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 8
   },
   {
     "threadId": 2886915,
@@ -2920,9 +3970,10 @@
     "publication": "19/10/2024",
     "price": 11.9,
     "reduction": 14.9,
-    "promotion": "20 %",
+    "promotion": 20,
     "link": "https://www.e.leclerc/fp/5702017156583",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2886727,
@@ -2933,22 +3984,10 @@
     "publication": "19/10/2024",
     "price": 39.99,
     "reduction": 44.99,
-    "promotion": "11 %",
+    "promotion": 11,
     "link": "https://www.auchan.fr/lego-40573-la-sapin-de-noel-decoration-de-noel/pr-C1814158",
-    "datefin": false
-  },
-  {
-    "threadId": 2886183,
-    "image": "https://static-pepper.dealabs.com/threads/raw/I9JAy/2886183_1/re/300x300/qt/60/2886183_1.jpg",
-    "id": "42174",
-    "titre": "Lego Technic 42174 : Emirates Team New Zealand AC75 (Via 25€ cagnottés sur la carte fidélité)",
-    "temperature": 312.88,
-    "publication": "18/10/2024",
-    "price": 74.99,
-    "reduction": 87.9,
-    "promotion": "15 %",
-    "link": "https://www.auchan.fr/lego-technic-42174-voilier-coupe-america/pr-C1802519",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 9
   },
   {
     "threadId": 2885060,
@@ -2959,9 +3998,10 @@
     "publication": "16/10/2024",
     "price": 99.99,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.smythstoys.com/fr/fr-fr/jouets/lego/lego-star-wars/lego-star-wars-75337-le-marcheur-at-te/p/208075",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2884757,
@@ -2972,22 +4012,24 @@
     "publication": "16/10/2024",
     "price": 17.99,
     "reduction": 19.99,
-    "promotion": "10 %",
+    "promotion": 10,
     "link": "https://www.auchan.fr/lego-classic-10696-la-boite-de-briques-creatives/pr-C798818",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 7
   },
   {
     "threadId": 2884598,
     "image": "https://static-pepper.dealabs.com/threads/raw/1FoXf/2884598_1/re/300x300/qt/60/2884598_1.jpg",
     "id": "75380",
     "titre": "Lego 75380 - Diorama de la course de podracers de Mos Espa (via 20% de cagnotte fidélité)",
-    "temperature": 94.91,
+    "temperature": 97.59,
     "publication": "16/10/2024",
     "price": 47.92,
     "reduction": 59.9,
-    "promotion": "20 %",
+    "promotion": 20,
     "link": "https://www.intermarche.com/catalogues/1530422102024-JM9VEncX?version=V1&page=110",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2884589,
@@ -2998,9 +4040,10 @@
     "publication": "16/10/2024",
     "price": 34.9,
     "reduction": 39.9,
-    "promotion": "13 %",
+    "promotion": 13,
     "link": "https://www.intermarche.com/catalogues/1530422102024-JM9VEncX?version=V1&page=106",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2884419,
@@ -3011,9 +4054,10 @@
     "publication": "16/10/2024",
     "price": 11.9,
     "reduction": 19.99,
-    "promotion": "40 %",
+    "promotion": 40,
     "link": "https://www.intermarche.com/catalogues/1530422102024-JM9VEncX?page=78&version=V2",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 7
   },
   {
     "threadId": 2884219,
@@ -3024,9 +4068,10 @@
     "publication": "15/10/2024",
     "price": 14.92,
     "reduction": 29.99,
-    "promotion": "50 %",
+    "promotion": 50,
     "link": "https://www.intermarche.com/catalogues/1530422102024-JM9VEncX?version=V2&page=48",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 0
   },
   {
     "threadId": 2883578,
@@ -3037,9 +4082,10 @@
     "publication": "15/10/2024",
     "price": 29.9,
     "reduction": 39.9,
-    "promotion": "25 %",
+    "promotion": 25,
     "link": "https://www.intermarche.com/catalogues/1530422102024-JM9VEncX?version=V2&page=49",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 3
   },
   {
     "threadId": 2883549,
@@ -3050,9 +4096,10 @@
     "publication": "15/10/2024",
     "price": 147.9,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.auchan.fr/lego-lego-technic-42171-mercedes-amg-f1-w14-e-performance-replique-decoration-de-bureau/pr-C1784561#product-description-only",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 4
   },
   {
     "threadId": 2883529,
@@ -3063,9 +4110,10 @@
     "publication": "15/10/2024",
     "price": 27.93,
     "reduction": 40,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2882646,
@@ -3076,22 +4124,24 @@
     "publication": "13/10/2024",
     "price": 19.45,
     "reduction": 38.9,
-    "promotion": "50 %",
+    "promotion": 50,
     "link": "https://www.e.leclerc/fp/lego-technic-le-bolide-bugatti-42151-5702017424736",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 69
   },
   {
     "threadId": 2881820,
     "image": "https://static-pepper.dealabs.com/threads/raw/CfNwe/2881820_1/re/300x300/qt/60/2881820_1.jpg",
     "id": "10339",
     "titre": "[Precommande] Le bureau de poste du père noël Lego Icons 10339",
-    "temperature": 424.39,
+    "temperature": 426.39,
     "publication": "12/10/2024",
     "price": 79.99,
     "reduction": 99.99,
-    "promotion": "20 %",
+    "promotion": 20,
     "link": "https://www.jb-spielwaren.de/lego-10339-postamt-des-weihnachtsmanns/a-10339/",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 22
   },
   {
     "threadId": 2880117,
@@ -3102,22 +4152,24 @@
     "publication": "10/10/2024",
     "price": 24.9,
     "reduction": 39.99,
-    "promotion": "38 %",
+    "promotion": 38,
     "link": "https://www.carrefour.fr/p/lego-technic-neom-mclaren-formula-e-race-car-42169-lego-5702017583549",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 2
   },
   {
     "threadId": 2880105,
     "image": "https://static-pepper.dealabs.com/threads/raw/0f62D/2880105_1/re/300x300/qt/60/2880105_1.jpg",
     "id": "10280",
     "titre": "LEGO 10280 Icons - Bouquet de fleurs (via 11,97€ sur carte fidélité)",
-    "temperature": 253.14,
+    "temperature": 267.14,
     "publication": "10/10/2024",
     "price": 27.93,
     "reduction": 39.9,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.carrefour.fr/catalogue/carrefour/hypermarche-ChequierJouets-6396_000_2024-vnPhE1XU?page=10",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 11
   },
   {
     "threadId": 2880101,
@@ -3128,22 +4180,24 @@
     "publication": "10/10/2024",
     "price": 102.83,
     "reduction": 146.9,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.carrefour.fr/p/lego-technic-peugeot-9x8-24h-le-mans-hybrid-hypercar-42156-lego-5702017424767",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 14
   },
   {
     "threadId": 2876181,
     "image": "https://static-pepper.dealabs.com/threads/raw/HYhpe/2876181_1/re/300x300/qt/60/2876181_1.jpg",
     "id": "42172",
     "titre": "LEGO Technic McLaren P1 - 42172",
-    "temperature": 43.48,
+    "temperature": 42.08,
     "publication": "07/10/2024",
     "price": 364.99,
     "reduction": 409.54,
-    "promotion": "11 %",
+    "promotion": 11,
     "link": "https://www.amazon.fr/dp/B0CWH3TBGB?smid=A1X6FK5RDHNB96",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 5
   },
   {
     "threadId": 2875816,
@@ -3154,9 +4208,10 @@
     "publication": "06/10/2024",
     "price": 69.9,
     "reduction": 99.99,
-    "promotion": "30 %",
+    "promotion": 30,
     "link": "https://www.alternate.fr/Lego/Art-La-Joconde-Jouets-de-construction/html/product/100044249",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 20
   },
   {
     "threadId": 2872924,
@@ -3167,9 +4222,10 @@
     "publication": "01/10/2024",
     "price": 9.56,
     "reduction": 0,
-    "promotion": "0 %",
+    "promotion": 0,
     "link": "https://www.e.leclerc/fp/les-roses-5702017228402",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 24
   },
   {
     "threadId": 2866759,
@@ -3180,9 +4236,10 @@
     "publication": "23/09/2024",
     "price": 14.93,
     "reduction": 29.9,
-    "promotion": "50 %",
+    "promotion": 50,
     "link": "https://www.intermarche.com/produit/city-les-explorateurs-de-l'espace/5702017678122",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 5
   },
   {
     "threadId": 2866393,
@@ -3193,9 +4250,10 @@
     "publication": "23/09/2024",
     "price": 16.99,
     "reduction": 24.99,
-    "promotion": "32 %",
+    "promotion": 32,
     "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-creator-3-en-1-31136-le-perroquet-exotique/f-12084-lego31136.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 5
   },
   {
     "threadId": 2860890,
@@ -3206,9 +4264,10 @@
     "publication": "13/09/2024",
     "price": 159.99,
     "reduction": 214.99,
-    "promotion": "26 %",
+    "promotion": 26,
     "link": "https://www.cdiscount.com/juniors/maquette-modelisme/lego-r-10320-icons-la-forteresse-de-l-eldorado-k/f-12084-lego10320.html",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 29
   },
   {
     "threadId": 2782147,
@@ -3219,9 +4278,10 @@
     "publication": "17/05/2024",
     "price": 234.99,
     "reduction": 299.99,
-    "promotion": "22 %",
+    "promotion": 22,
     "link": "https://www.smythstoys.com/fr/fr-fr/jouets/lego/lego-creator/lego-creator-10273-la-maison-hantee/p/194438",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 1
   },
   {
     "threadId": 2727324,
@@ -3232,8 +4292,9 @@
     "publication": "04/02/2024",
     "price": 119.9,
     "reduction": 164.99,
-    "promotion": "27 %",
+    "promotion": 27,
     "link": "https://www.alternate.fr/Lego/Icons-Dune-Atreides-Royal-Ornithopter-Jouets-de-construction/html/product/100012679",
-    "datefin": false
+    "datefin": false,
+    "commentaire": 12
   }
 ]

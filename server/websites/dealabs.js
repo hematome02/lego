@@ -32,6 +32,8 @@ const fetch = (...args) => import("node-fetch").then(({ default: fetch }) => fet
         var reduction=0;        
         var datefin="";//vérifie que le deal n'est pas expiré
         var link="";
+        let promotion = 0;
+        let commentaire=-1;
 
         //Dans le deuxieme dataset
         var threadId=0;
@@ -53,6 +55,8 @@ const fetch = (...args) => import("node-fetch").then(({ default: fetch }) => fet
             //console.log(data.props.thread.link);
             link = data.props.thread.link;
             datefin=data.props.thread.isExpired;
+            console.log(data.props.thread.commentCount);
+            commentaire=data.props.thread.commentCount
             //console.log(data.props.thread.title);
             titre=data.props.thread.title;
             tempid=titre.match(/\d{4,5}/);
@@ -85,9 +89,10 @@ const fetch = (...args) => import("node-fetch").then(({ default: fetch }) => fet
             publication,
             price,
             reduction,
-            promotion: (price !== 0 && reduction !== 0) ? `${100-(Math.round((price / reduction) * 100))} %`: `${0} %`,           
+            promotion: (price !== 0 && reduction !== 0) ? 100-(Math.round((price / reduction) * 100)) : 0 ,           
             link,
-            datefin
+            datefin, 
+            commentaire,
           };
         }
       })
