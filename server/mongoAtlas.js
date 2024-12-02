@@ -1,6 +1,7 @@
 require(`dotenv`).config();
-const { MongoClient, ServerApiVersion } = require("mongodb");
+const { MongoClient, ServerApiVersion, ObjectId } = require("mongodb");
 const uri = `mongodb+srv://emmafromager:${process.env.SECRET_KEY}@lego.tb3vb.mongodb.net/?retryWrites=true&w=majority&appName=Lego`;
+
 
 //Crée un client Mongo pour créer la version API stable
 const client = new MongoClient(uri, {
@@ -174,3 +175,51 @@ module.exports.moinsCherAuPlusCher = async () => {
   }
 };
 //module.exports.moinsCherAuPlusCher().catch(console.dir);
+
+//Fonction qui renvoit les deals 
+module.exports.deal = async () => {
+  try {
+    // Ouvre la connexion
+    await client.connect();
+    const db = client.db("LegoDB");
+
+    const collection = db.collection("deals");
+    const sortedDeals = await collection.find({}).sort({ price: 1 }).toArray();
+
+    //console.log(sortedDeals);
+    return sortedDeals;
+  } finally {
+    // Ferme la connexion à la fin de la commande ou en cas d'erreur
+    await client.close();
+  }
+};
+//module.exports.deal().catch(console.dir);
+
+//Fonction qui renvoit un deal pour un id mongo spécifique
+module.exports.dealId = async (dealid) => {
+  try {
+    // Ouvre la connexion
+    await client.connect();
+    const db = client.db("LegoDB");
+    const collection = db.collection("deals");
+
+    // Convertit dealId en ObjectId si ce n'est pas déjà le cas
+   const objectId = new ObjectId(dealid);  // Cela garantit que l'ID est de type ObjectId
+
+    // Trouve un deal avec cet ID spécifique
+    const deal = await collection.find({ _id: objectId }).toArray();
+
+    console.log(deal);
+
+    // Si un deal est trouvé, le renvoyer. Sinon, renvoyer null ou une réponse d'erreur.
+    return deal || null;  // Retourne null si aucun deal n'a été trouvé avec cet ID
+
+  } catch (error) {
+    console.error('Erreur lors de la récupération du deal:', error);
+    throw error;  // Rethrow l'erreur pour gérer l'erreur ailleurs si nécessaire
+  } finally {
+    // Ferme la connexion à la fin de la commande ou en cas d'erreur
+    await client.close();
+  }
+};
+module.exports.dealId('6742181ffd7308737154b6ea').catch(console.dir);
