@@ -198,6 +198,7 @@ app.get("/deals", (request, response) => {
       response.send({ test: deal });
     })
     .catch((error) => {
+      console.log(error)
       response
         .status(500)
         .send({ error: "Erreur lors de la récupération du deal" });

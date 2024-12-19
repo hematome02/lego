@@ -56,8 +56,7 @@ module.exports.run = async (obj, name) => {
 module.exports.bestTemperature = async () => {
   try {
     //Ouvre la connexion
-    await client.connect();
-    const db = client.db("LegoDB");
+    const db = await connectToDatabase();
 
     const collection = db.collection("deals"); //sera toujours deals lorsque les fonctions concernent les deals dealabs et l'id du set lego pour les sales vinted
     const deals = await collection.find({}).toArray();
@@ -74,8 +73,7 @@ module.exports.bestTemperature = async () => {
 module.exports.mostCommented = async () => {
   try {
     //Ouvre la connexion
-    await client.connect();
-    const db = client.db("LegoDB");
+    const db = await connectToDatabase();
 
     const collection = db.collection("deals");
     const deals = await collection.find({}).toArray();
@@ -92,9 +90,7 @@ module.exports.mostCommented = async () => {
 module.exports.bestPromotion = async () => {
   try {
     //Ouvre la connexion
-    await client.connect();
-    const db = client.db("LegoDB");
-
+    const db = await connectToDatabase();
     const collection = db.collection("deals"); 
     const deals = await collection.find({}).toArray();
     const best = deals.filter((deal) => deal.promotion >= 30);
@@ -110,9 +106,7 @@ module.exports.bestPromotion = async () => {
 module.exports.plusRecent = async () => {
   try {
     // Ouvre la connexion
-    await client.connect();
-    const db = client.db("LegoDB");
-
+    const db = await connectToDatabase();
     const collection = db.collection("deals");
     const sortedDeals = await collection.find({}).sort({ publication: -1 }).toArray();
 
@@ -129,8 +123,7 @@ module.exports.plusRecent = async () => {
 module.exports.plusAncien = async () => {
   try {
     // Ouvre la connexion
-    await client.connect();
-    const db = client.db("LegoDB");
+    const db = await connectToDatabase();
 
     const collection = db.collection("deals");
     const sortedDeals = await collection.find({}).sort({ publication: 1 }).toArray();
@@ -148,8 +141,7 @@ module.exports.plusAncien = async () => {
 module.exports.plusCherAuMoinsCher = async () => {
   try {
     // Ouvre la connexion
-    await client.connect();
-    const db = client.db("LegoDB");
+    const db = await connectToDatabase();
 
     const collection = db.collection("deals");
     const sortedDeals = await collection.find({}).sort({ price: -1 }).toArray();
@@ -167,8 +159,7 @@ module.exports.plusCherAuMoinsCher = async () => {
 module.exports.moinsCherAuPlusCher = async () => {
   try {
     // Ouvre la connexion
-    await client.connect();
-    const db = client.db("LegoDB");
+    const db = await connectToDatabase();
 
     const collection = db.collection("deals");
     const sortedDeals = await collection.find({}).sort({ price: 1 }).toArray();
@@ -184,20 +175,15 @@ module.exports.moinsCherAuPlusCher = async () => {
 
 //Fonction qui renvoit les deals 
 module.exports.deal = async () => {
-  try {
+  
     // Ouvre la connexion
-    await client.connect();
-    const db = client.db("LegoDB");
-
+    const db = await connectToDatabase();
     const collection = db.collection("deals");
     const sortedDeals = await collection.find({}).sort({ price: 1 }).toArray();
 
     //console.log(sortedDeals);
     return sortedDeals;
-  } finally {
-    // Ferme la connexion à la fin de la commande ou en cas d'erreur
-    await client.close();
-  }
+   
 };
 //module.exports.deal().catch(console.dir);
 
