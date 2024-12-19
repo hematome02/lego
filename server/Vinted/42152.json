@@ -1,26 +1,50 @@
 [
   {
+    "titre": "Lego 42152 neuf",
+    "lienURL": "https://www.vinted.fr/items/5526280382-lego-42152-neuf",
+    "price": "80.0",
+    "favourite": 2
+  },
+  {
     "titre": "Lego 42152 technic met doos",
     "lienURL": "https://www.vinted.fr/items/5357753943-lego-42152-technic-met-doos",
     "price": "25.0",
-    "favourite": 1
+    "favourite": 2
   },
   {
-    "titre": "Lego 42152 l'avion des pompiers - firefighter aircraft",
-    "lienURL": "https://www.vinted.fr/items/5428462373-lego-42152-lavion-des-pompiers-firefighter-aircraft",
-    "price": "75.0",
-    "favourite": 1
+    "titre": "Lego 42152",
+    "lienURL": "https://www.vinted.fr/items/5524268517-lego-42152",
+    "price": "77.5",
+    "favourite": 3
   },
   {
-    "titre": "LEGO Technic",
-    "lienURL": "https://www.vinted.fr/items/5236974340-lego-technic",
+    "titre": "NEUF Lego Technic 42152 L’avion de lutte contre l’incendie Canadair pompier jeu construction",
+    "lienURL": "https://www.vinted.fr/items/5532796959-neuf-lego-technic-42152-lavion-de-lutte-contre-lincendie-canadair-pompier-jeu-construction",
     "price": "100.0",
-    "favourite": 4
+    "favourite": 6
   },
   {
-    "titre": "Lego Technic Brandweervliegtuig (42152)",
-    "lienURL": "https://www.vinted.fr/items/5175918262-lego-technic-brandweervliegtuig-42152",
-    "price": "107.5",
+    "titre": "Vend lego 42152 Firefighter Aircraft",
+    "lienURL": "https://www.vinted.fr/items/5524042616-vend-lego-42152-firefighter-aircraft",
+    "price": "82.0",
+    "favourite": 3
+  },
+  {
+    "titre": "Lego technic neuf et scellé 42152",
+    "lienURL": "https://www.vinted.fr/items/5511088940-lego-technic-neuf-et-scelle-42152",
+    "price": "100.0",
+    "favourite": 5
+  },
+  {
+    "titre": "Lego techic firefighter",
+    "lienURL": "https://www.vinted.fr/items/5509580459-lego-techic-firefighter",
+    "price": "110.0",
+    "favourite": 3
+  },
+  {
+    "titre": "Lego Technic Firefighter Aircraft (42152)",
+    "lienURL": "https://www.vinted.fr/items/5520475715-lego-technic-firefighter-aircraft-42152",
+    "price": "89.8",
     "favourite": 5
   },
   {
@@ -28,5 +52,23 @@
     "lienURL": "https://www.vinted.fr/items/1694394910-lego-trolls-41252",
     "price": "29.0",
     "favourite": 8
+  },
+  {
+    "titre": "Lrgo Technic 42152 Firefighter Aircraft",
+    "lienURL": "https://www.vinted.fr/items/5536558354-lrgo-technic-42152-firefighter-aircraft",
+    "price": "92.0",
+    "favourite": 0
+  },
+  {
+    "titre": "LEGO Technic Brandweervliegtuig - 42152",
+    "lienURL": "https://www.vinted.fr/items/5510849968-lego-technic-brandweervliegtuig-42152",
+    "price": "100.0",
+    "favourite": 2
+  },
+  {
+    "titre": "LEGO Technic",
+    "lienURL": "https://www.vinted.fr/items/5236974340-lego-technic",
+    "price": "100.0",
+    "favourite": 7
   }
 ]

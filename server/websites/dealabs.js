@@ -55,7 +55,7 @@ const fetch = (...args) => import("node-fetch").then(({ default: fetch }) => fet
             //console.log(data.props.thread.link);
             link = data.props.thread.link;
             datefin=data.props.thread.isExpired;
-            console.log(data.props.thread.commentCount);
+            //console.log(data.props.thread.commentCount);
             commentaire=data.props.thread.commentCount
             //console.log(data.props.thread.title);
             titre=data.props.thread.title;

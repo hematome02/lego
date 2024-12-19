@@ -41,7 +41,7 @@ async function sandbox() {
     //3eme étape bis : Sauvegarde sur Mongo des deals
     await mongo.run(deals, "deals");
     console.log("Les deals ont été enregistrés");
-/*
+
     //4eme étape : Récuperer les ids des set Lego de dealabs.com
     const iddeal = new Set(deals.map((deal) => deal.id));
     console.log("Length table avec les ids", deals.length);
@@ -56,30 +56,53 @@ async function sandbox() {
       );
       //6eme étape : Transformer le tableau en fichier json
       //un fichier json par id set Lego qui nenvoit des offres Vinted
-      console.log(temp.length);
-      console.log(temp != null);
-      if (temp.length > 0) {
-        fs.writeFileSync(
-          `Vinted/${id}.json`,
-          JSON.stringify(temp, null, 2),
-          "utf-8"
-        );
-        console.log(`Data saved to ${id}.json`);
-        await mongo.run(temp, `${id}`);
-        console.log(`${id} ont été enregistrés sur MongoDB Atlas`);
-      } else {
-        console.log("id de set Lego non vendu sur Vinted", id);
-        fs.writeFileSync(
-          `Vinted/Non existant ${id}.json`,
-          JSON.stringify(temp, null, 2),
-          "utf-8"
-        );
-        console.log(`Data saved to ${id}.json`);
+
+      if (temp != null) {
+        console.log(temp.length);
+        if (temp.length > 0) {
+            fs.writeFileSync(
+              `Vinted/${id}.json`,
+              JSON.stringify(temp, null, 2),
+              "utf-8"
+            );
+            console.log(`Data saved to ${id}.json`);
+            await mongo.run(temp, `${id}`);
+            console.log(`${id} ont été enregistrés sur MongoDB Atlas`);
+        }else {
+          console.log("id de set Lego non vendu sur Vinted", id);
+          fs.writeFileSync(
+            `Vinted/Non existant ${id}.json`,
+            JSON.stringify(temp, null, 2),
+            "utf-8"
+          );
+          console.log(`Data saved to ${id}.json`);
+        }
+
+
+      // console.log(temp.length);
+      // console.log(temp != null);
+      // if (temp.length > 0) {
+      //   fs.writeFileSync(
+      //     `Vinted/${id}.json`,
+      //     JSON.stringify(temp, null, 2),
+      //     "utf-8"
+      //   );
+      //   console.log(`Data saved to ${id}.json`);
+      //   await mongo.run(temp, `${id}`);
+      //   console.log(`${id} ont été enregistrés sur MongoDB Atlas`);
+      // } else {
+      //   console.log("id de set Lego non vendu sur Vinted", id);
+      //   fs.writeFileSync(
+      //     `Vinted/Non existant ${id}.json`,
+      //     JSON.stringify(temp, null, 2),
+      //     "utf-8"
+      //   );
+      //   console.log(`Data saved to ${id}.json`);
       }
 
-      await delay(500);
+      await delay(1000);
     }
-*/
+
     console.log("done");
 
     process.exit(0);
