@@ -515,7 +515,7 @@ selectLegoSetIds.addEventListener("change", async (event) => {
             texteGoodBad = "Ok deal. You can start to see the functioning";
           else {
             texteGoodBad =
-              "Bad deals. I would not recommend investing in those to gain money";
+              "Bad deals. The gain would be minimal or inexistant";
           }
         }
       }
