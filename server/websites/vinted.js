@@ -17,7 +17,9 @@ const fetch = (...args) => import("node-fetch").then(({ default: fetch }) => fet
         //console.log(item.price.amount);
         price:item.price.amount,
         //console.log(item.favourite_count)
-        favourite:item.favourite_count        
+        favourite:item.favourite_count, 
+        image : new Date(item.photo.high_resolution.timestamp*1000).toLocaleDateString()//item.photo.high_resolution.timestamp
+        //ew Date(sales[i].image*1000).toLocaleDateString()
     }));
 
     return result; 

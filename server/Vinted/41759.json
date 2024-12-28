@@ -2,25 +2,29 @@
   {
     "titre": "Lego 41759 neuf",
     "lienURL": "https://www.vinted.fr/items/5544720910-lego-41759-neuf",
-    "price": "33.0",
-    "favourite": 0
+    "price": "31.5",
+    "favourite": 5,
+    "image": "19/12/2024"
   },
   {
     "titre": "Lego Friends 41759",
     "lienURL": "https://www.vinted.fr/items/5516305154-lego-friends-41759",
     "price": "40.0",
-    "favourite": 2
-  },
-  {
-    "titre": "Lego 41759",
-    "lienURL": "https://www.vinted.fr/items/3101623187-lego-41759",
-    "price": "40.0",
-    "favourite": 4
+    "favourite": 3,
+    "image": "12/12/2024"
   },
   {
     "titre": "Lego friends tourné en bus ",
     "lienURL": "https://www.vinted.fr/items/3399453608-lego-friends-tourne-en-bus",
     "price": "40.0",
-    "favourite": 0
+    "favourite": 0,
+    "image": "27/08/2023"
+  },
+  {
+    "titre": "Lego 41759",
+    "lienURL": "https://www.vinted.fr/items/3101623187-lego-41759",
+    "price": "40.0",
+    "favourite": 4,
+    "image": "05/06/2023"
   }
 ]

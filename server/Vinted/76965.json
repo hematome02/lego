@@ -1,20 +1,30 @@
 [
   {
-    "titre": "Lego set 76965",
-    "lienURL": "https://www.vinted.fr/items/5539909340-lego-set-76965",
-    "price": "55.0",
-    "favourite": 1
+    "titre": "Lego 76965 - Jurassic World - Missions dinosaures : la découverte du Stégausore",
+    "lienURL": "https://www.vinted.fr/items/5562834433-lego-76965-jurassic-world-missions-dinosaures-la-decouverte-du-stegausore",
+    "price": "50.0",
+    "favourite": 12,
+    "image": "26/12/2024"
   },
   {
-    "titre": "Lego harry potter 76965",
-    "lienURL": "https://www.vinted.fr/items/3139219689-lego-harry-potter-76965",
-    "price": "20.0",
-    "favourite": 1
+    "titre": "Lego set 76965",
+    "lienURL": "https://www.vinted.fr/items/5539909340-lego-set-76965",
+    "price": "57.5",
+    "favourite": 3,
+    "image": "18/12/2024"
   },
   {
     "titre": "Lego 76965 jarrasic world",
     "lienURL": "https://www.vinted.fr/items/5303707275-lego-76965-jarrasic-world",
     "price": "52.0",
-    "favourite": 7
+    "favourite": 8,
+    "image": "30/10/2024"
+  },
+  {
+    "titre": "Lego harry potter 76965",
+    "lienURL": "https://www.vinted.fr/items/3139219689-lego-harry-potter-76965",
+    "price": "20.0",
+    "favourite": 1,
+    "image": "15/06/2023"
   }
 ]

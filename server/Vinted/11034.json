@@ -1,11 +1,5 @@
 [
   {
-    "titre": "Lego classic 11034 neuf",
-    "lienURL": "https://www.vinted.fr/items/5499389030-lego-classic-11034-neuf",
-    "price": "27.0",
-    "favourite": 11
-  },
-  {
     "titre": "Lego 11034 novo e selado caixa impecável",
     "lienURL": "https://www.vinted.fr/items/5539818801-lego-11034-novo-e-selado-caixa-impecavel",
     "price": "24.9",
@@ -18,22 +12,28 @@
     "favourite": 17
   },
   {
-    "titre": "Lego classic 11034+11037",
-    "lienURL": "https://www.vinted.fr/items/5517432458-lego-classic-1103411037",
-    "price": "40.0",
-    "favourite": 10
-  },
-  {
     "titre": "Lego 11034 novo e selado",
     "lienURL": "https://www.vinted.fr/items/5493509849-lego-11034-novo-e-selado",
     "price": "27.5",
     "favourite": 0
   },
   {
+    "titre": "Lego classic 11034 neuf",
+    "lienURL": "https://www.vinted.fr/items/5499389030-lego-classic-11034-neuf",
+    "price": "27.0",
+    "favourite": 11
+  },
+  {
     "titre": "Lego classic 11034",
     "lienURL": "https://www.vinted.fr/items/5282786436-lego-classic-11034",
     "price": "27.9",
     "favourite": 24
+  },
+  {
+    "titre": "Lego classic 11034+11037",
+    "lienURL": "https://www.vinted.fr/items/5517432458-lego-classic-1103411037",
+    "price": "40.0",
+    "favourite": 10
   },
   {
     "titre": "Lego Classic 11034 Creative Pets",

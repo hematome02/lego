@@ -12,6 +12,12 @@
     "favourite": 1
   },
   {
+    "titre": "Lego City",
+    "lienURL": "https://www.vinted.fr/items/5538315814-lego-city",
+    "price": "8.0",
+    "favourite": 7
+  },
+  {
     "titre": "Boîte lego vide 60401",
     "lienURL": "https://www.vinted.fr/items/4819938117-boite-lego-vide-60401",
     "price": "2.0",
@@ -24,28 +30,22 @@
     "favourite": 0
   },
   {
-    "titre": "Lego City",
-    "lienURL": "https://www.vinted.fr/items/5538315814-lego-city",
-    "price": "8.0",
-    "favourite": 6
-  },
-  {
     "titre": "LEGO 60401 neu ungeöffnet",
     "lienURL": "https://www.vinted.fr/items/5511483332-lego-60401-neu-ungeoffnet",
     "price": "5.0",
     "favourite": 5
   },
   {
-    "titre": "LEGO City",
-    "lienURL": "https://www.vinted.fr/items/5506562429-lego-city",
-    "price": "8.0",
-    "favourite": 4
-  },
-  {
     "titre": "Lego 60401",
     "lienURL": "https://www.vinted.fr/items/5263539551-lego-60401",
     "price": "6.0",
     "favourite": 2
+  },
+  {
+    "titre": "LEGO City",
+    "lienURL": "https://www.vinted.fr/items/5506562429-lego-city",
+    "price": "8.0",
+    "favourite": 4
   },
   {
     "titre": "Lego city",

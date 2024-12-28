@@ -24,6 +24,12 @@
     "favourite": 1
   },
   {
+    "titre": "Lego City kart 60400",
+    "lienURL": "https://www.vinted.fr/items/4788682825-lego-city-kart-60400",
+    "price": "9.9",
+    "favourite": 3
+  },
+  {
     "titre": "60400 Lego",
     "lienURL": "https://www.vinted.fr/items/5004478305-60400-lego",
     "price": "5.0",
@@ -36,21 +42,15 @@
     "favourite": 4
   },
   {
-    "titre": "Lego City kart 60400",
-    "lienURL": "https://www.vinted.fr/items/4788682825-lego-city-kart-60400",
-    "price": "9.9",
-    "favourite": 3
-  },
-  {
     "titre": "Set lego 60400 city",
     "lienURL": "https://www.vinted.fr/items/5434056492-set-lego-60400-city",
     "price": "8.0",
     "favourite": 1
   },
   {
-    "titre": "LEGO City Karts y Pilotos de carrera 60400",
-    "lienURL": "https://www.vinted.fr/items/5470911922-lego-city-karts-y-pilotos-de-carrera-60400",
-    "price": "5.0",
+    "titre": "Lego 60400 und 60399 Set",
+    "lienURL": "https://www.vinted.fr/items/5533857887-lego-60400-und-60399-set",
+    "price": "7.0",
     "favourite": 2
   },
   {
@@ -66,21 +66,21 @@
     "favourite": 3
   },
   {
-    "titre": "Lego 60400 - Go-Karts and Race Drivers",
-    "lienURL": "https://www.vinted.fr/items/5522612398-lego-60400-go-karts-and-race-drivers",
-    "price": "12.99",
-    "favourite": 2
-  },
-  {
     "titre": "Lego 60400",
     "lienURL": "https://www.vinted.fr/items/4868253861-lego-60400",
     "price": "10.0",
     "favourite": 0
   },
   {
-    "titre": "Lego 60400 und 60399 Set",
-    "lienURL": "https://www.vinted.fr/items/5533857887-lego-60400-und-60399-set",
-    "price": "7.0",
+    "titre": "LEGO City Karts y Pilotos de carrera 60400",
+    "lienURL": "https://www.vinted.fr/items/5470911922-lego-city-karts-y-pilotos-de-carrera-60400",
+    "price": "5.0",
+    "favourite": 2
+  },
+  {
+    "titre": "Lego 60400 - Go-Karts and Race Drivers",
+    "lienURL": "https://www.vinted.fr/items/5522612398-lego-60400-go-karts-and-race-drivers",
+    "price": "12.99",
     "favourite": 2
   },
   {

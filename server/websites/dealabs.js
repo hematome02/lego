@@ -25,19 +25,19 @@ const fetch = (...args) => import("node-fetch").then(({ default: fetch }) => fet
         //Dans le premier dataset
         var id=null;   //du set de lego
         var tempid = null;  
-        var titre="";    
+        var title="";    
         var temperature=0;
         var publication="";
         var price=0;
         var reduction=0;        
         var datefin="";//vérifie que le deal n'est pas expiré
         var link="";
-        let promotion = 0;
-        let commentaire=-1;
+        let discount = 0;
+        let comments=-1;
 
         //Dans le deuxieme dataset
         var threadId=0;
-        var image="";
+        var photo="";
 
         if (dataVue2Content) {
           try {
@@ -56,10 +56,10 @@ const fetch = (...args) => import("node-fetch").then(({ default: fetch }) => fet
             link = data.props.thread.link;
             datefin=data.props.thread.isExpired;
             //console.log(data.props.thread.commentCount);
-            commentaire=data.props.thread.commentCount
+            comments=data.props.thread.commentCount
             //console.log(data.props.thread.title);
-            titre=data.props.thread.title;
-            tempid=titre.match(/\d{4,5}/);
+            title=data.props.thread.title;
+            tempid=title.match(/\d{4,5}/);
             if(tempid ){id=tempid[0];}
           } catch (error) { console.error("Erreur lors du parsing du JSON :", error); }
         } else {console.error("L'attribut data-vue2 est vide ou introuvable.");}
@@ -72,7 +72,7 @@ const fetch = (...args) => import("node-fetch").then(({ default: fetch }) => fet
             // console.log(data.props.threadId);
             threadId=data.props.threadId;
             //console.log(data.props.threadImageUrl);
-            image=data.props.threadImageUrl;                   
+            photo=data.props.threadImageUrl;                   
           } catch (error) { console.error("Erreur lors du parsing du JSON :", error); }
         } else { console.error("L'attribut recuperationimage est vide ou introuvable.");}
 
@@ -82,17 +82,17 @@ const fetch = (...args) => import("node-fetch").then(({ default: fetch }) => fet
         if (datefin == false && id !== null){
           return {
             threadId,
-            image,
+            photo,
             id,
-            titre, 
+            title, 
             temperature,
             publication,
             price,
             reduction,
-            promotion: (price !== 0 && reduction !== 0) ? 100-(Math.round((price / reduction) * 100)) : 0 ,           
+            discount: (price !== 0 && reduction !== 0) ? 100-(Math.round((price / reduction) * 100)) : 0 ,           
             link,
             datefin, 
-            commentaire,
+            comments,
           };
         }
       })

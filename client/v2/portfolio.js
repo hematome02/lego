@@ -1,9 +1,10 @@
 // Invoking strict mode https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode#invoking_strict_mode
 'use strict';
 
+
 /**
 Description of the available api
-GET https://lego-api-blue.vercel.app/deals
+GET ${url}/deals
 
 Search for specific deals
 
@@ -12,7 +13,7 @@ This endpoint accepts the following optional query string parameters:
 - `page` - page of deals to return
 - `size` - number of deals to return
 
-GET https://lego-api-blue.vercel.app/sales
+GET ${url}/sales
 
 Search for current Vinted sales for a given lego set id
 
@@ -27,6 +28,11 @@ let currentPagination = {};
 let currentDealsVinted = [];
 let favoriteDeals = localStorage.getItem('favoriteDeals') ? JSON.parse(localStorage.getItem('favoriteDeals')) : [];
 
+let prixIdDealalbs=[];
+
+const url = "https://api-emma.romainpathe.com";
+//const url = "https://lego-api-blue.vercel.app";
+//http://localhost:8092/deals/?page=1&size=6
 
 // instantiate the selectors
 const selectShow = document.querySelector('#show-select');
@@ -41,6 +47,7 @@ const spanp5 = document.querySelector('#p5');
 const spanp25 = document.querySelector('#p25');
 const spanp50 = document.querySelector('#p50');
 const lifetime = document.querySelector('#lifetimevalue');
+const goodBad = document.querySelector('#valeur-deal');
 
 
 /**
@@ -63,7 +70,7 @@ const fetchDeals = async (page = 1, size = 6
 ) => {
   try {
     const response = await fetch(
-      `https://lego-api-blue.vercel.app/deals?page=${page}&size=${size}`
+      `${url}/deals?page=${page}&size=${size}`
     );
     const body = await response.json();
 
@@ -83,7 +90,7 @@ const fetchVinted = async (id
 ) => {
   try {
     const response = await fetch(
-      `https://lego-api-blue.vercel.app/sales?id=${id}`
+      `${url}/sales/${id}`      
     );
     const body = await response.json();
 
@@ -91,6 +98,8 @@ const fetchVinted = async (id
       console.error(body);
       return null;
     }
+
+    console.log(body);
 
     return body.data;
   } catch (error) {
@@ -114,10 +123,12 @@ const renderDeals = (deals, table = 'deals') => {
       </tr>
     `;
   }else{
+    
     template = deals
         .map(deal => {
+          prixIdDealalbs.push({ id: deal.id, price: deal.price });
           return `
-        <tr id="${deal.uuid}">
+        <tr id="${deal.threadId}">
           <td>
             ${deal.id}
             <br>
@@ -131,18 +142,21 @@ const renderDeals = (deals, table = 'deals') => {
             <a href="${deal.link}" target="_blank">${deal.title}</a>
           </td>
           <td>
-            ${deal.price}€
+            ${deal.price}€    
+            <br>
+            <s>${deal.reduction}€</s>        
             <br>
             <span class="badge rounded-pill bg-info text-dark">${deal.discount}%</span>
           </td>
           <td>
-            Nombre de commentaires : ${deal.comments}
+            Number of comments : ${deal.comments}
             <br>
             <span class="badge rounded-pill bg-danger">${deal.temperature}°</span> 
         </tr>
     `;
         })
         .join('');
+        
   }
 
   document.querySelector('#'+table+'-table').innerHTML = template;
@@ -153,23 +167,28 @@ const renderVinted = dealvinteds => {
   if(!dealvinteds.length) {
     template = `
       <tr>
-        <td colspan="3" class="text-center">No vinted found</td>
+        <td colspan="4" class="text-center">No Vinted sales found</td>
       </tr>
     `;
   }else{
+    
     template = dealvinteds
         .map(dealvinted => {
           return `
-        <tr id="${dealvinted.uuid}">
+        <tr id="${dealvinted._id}">
           <td>
-            <a href="${dealvinted.link}" target="_blank">${dealvinted.title}</a>
+            <a href="${dealvinted.lienURL}" target="_blank">${dealvinted.titre}</a>
           </td>
           <td>
-            ${dealvinted.price}€
+            ${dealvinted.price} €
           </td>
           <td>
-            ${new Date(dealvinted.published*1000).toLocaleDateString()}
+           ${dealvinted.image}
           </td>
+          <td>
+           ${dealvinted.favourite}
+          </td>
+
         </tr>
     `;
         })
@@ -200,7 +219,7 @@ const renderPagination = pagination => {
  */
 const renderLegoSetIds = deals => {
   const ids = getIdsFromDeals(deals);
-  let options = '<option value="">Select a lego id</option>';
+  let options = '<option value="">Select a Lego Id</option>';
   options += ids.map(id =>
     `<option value="${id}">${id}</option>`
   ).join('');
@@ -220,7 +239,9 @@ const renderIndicators = pagination => {
 };
 
 const render = (deals, pagination) => {
+  console.log("deals");
   renderDeals(deals);
+  console.log("ok");
   renderPagination(pagination);
   renderIndicators(pagination);
   renderLegoSetIds(deals)
@@ -297,8 +318,7 @@ selectSort.addEventListener('change', async (event) => {
 
 selectLegoSetIds.addEventListener('change', async (event) => {
   
-  const dealvinteds = await fetchVinted(selectLegoSetIds.value);
-  
+  const dealvinteds = await fetchVinted(selectLegoSetIds.value);  
   spanNbSales.innerHTML = dealvinteds.result.length;
   
   //je recupere l'id du set lego
@@ -309,7 +329,7 @@ selectLegoSetIds.addEventListener('change', async (event) => {
 
   const response = await fetchVinted(selectLegoSetIds.value);
   const sales = response.result;
-  
+  //console.log(sales);
   //je parcours le tableau des ventes vinted et je résupere le prix 
   
   const prices = [];
@@ -338,11 +358,6 @@ selectLegoSetIds.addEventListener('change', async (event) => {
   //la date d'aujourd'hui est hui
   let hui = new Date( year, month-1, day).toLocaleDateString();
 
-  console.log("aujourd", aujourd); 
-  console.log("hui",hui);
-
-  console.log("day",day);
-
   let an=-1;
   let mo =-1;
   let jour=-1;
@@ -356,14 +371,8 @@ selectLegoSetIds.addEventListener('change', async (event) => {
   
   for (let i=0; i< sales.length; i++)
   {
-    const temp= new Date(sales[i].published*1000).toLocaleDateString();
-    /*console.log(temp);
-    console.log("top");
-    console.log(temp.slice(0,2));
-    console.log(temp.slice(3,5));
-    console.log(temp.slice(6,10));
-    console.log(temp.slice(6,10));*/
-    
+    const temp=sales[i].image;
+   
     //console.log("annee", year-temp.slice(6,10));
     an=year-temp.slice(6,10);
      
@@ -399,14 +408,14 @@ selectLegoSetIds.addEventListener('change', async (event) => {
       jour=Math.abs((moisJour.find(m => m.mois === month)).jours-(temp.slice(0,2)-day)+2);
     }
      
-    console.log("diff year", temp.slice(6,10)==year)
+    //console.log("diff year", temp.slice(6,10)==year)
     if(temp.slice(6,10)!=year ){
       mo=month;  
       jour=day;             
     }
 
-    console.log(ana, moi, jours);
-    console.log(an,mo, jour);
+    //console.log(ana, moi, jours);
+    //console.log(an,mo, jour);
 
     if(ana<=an){ 
       ana=an;
@@ -424,6 +433,65 @@ selectLegoSetIds.addEventListener('change', async (event) => {
   }
  
   lifetime.innerHTML=`${ana} an, ${moi} mois, ${jours} jour(s)`;
+
+  //Fonction pour savoir si c'est un bon deal
+
+  let texteGoodBad =""
+  //combien de sales existantes et depuis combien de temps ces sales sont présents
+
+  console.log(prixIdDealalbs);
+  console.log(prixIdDealalbs.find(deal => deal.id === id ));
+  
+  //Deals.find(deal => deal.id === targetId);
+
+  const result = prixIdDealalbs.find(deal => deal.id === id);
+
+// Si un deal est trouvé, vous pouvez accéder à la propriété price
+if (result) {
+  console.log(result.price);  // Affiche uniquement le prix
+} else {
+  console.log("Deal non trouvé");
+}
+
+
+  
+  //Premiere étape que faire si pas de sales lego 
+  if(ana == -1){texteGoodBad="There is no history on Vinted for this Lego Id "}
+  else {
+    if (spanNbSales.innerHTML >5)
+      {
+        if(ana >0){texteGoodBad="Bad Deals. There is already some offers on Vinted and they have been there for a while."}
+        
+        else{//ana <= 0
+          if (moi >6){texteGoodBad="Bad Deals. There is already some offers on Vinted and they have been there for a while."}
+          else {
+            texteGoodBad="Bad Deals. Thoses offers haven't been here for a while but they havn't sale."
+
+          }
+        }
+      }
+      else //spanNbSales.innerHTML <=5
+      { 
+        if(ana >0){texteGoodBad="Bad Deals. There is not a lot of offers on Vinted but they have been there for a while."}
+        else{//ana <= 0
+          if (moi >6){
+            texteGoodBad="Bad Deals. There is not a lot of offers on Vinted but they have been there for a while."             
+          }
+          else {
+            texteGoodBad=result.price,"€";
+
+            // voir en fonction de la marge possible 
+          }
+    
+        }
+    
+      }
+    
+
+  }
+  
+
+  goodBad.innerHTML=`${texteGoodBad}`;
 
 
   renderVinted(dealvinteds.result);

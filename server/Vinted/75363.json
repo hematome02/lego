@@ -1,17 +1,5 @@
 [
   {
-    "titre": "Lot lego Star Wars",
-    "lienURL": "https://www.vinted.fr/items/5543657884-lot-lego-star-wars",
-    "price": "20.0",
-    "favourite": 9
-  },
-  {
-    "titre": "75363 lego starwars",
-    "lienURL": "https://www.vinted.fr/items/5541956927-75363-lego-starwars",
-    "price": "13.5",
-    "favourite": 7
-  },
-  {
     "titre": "LEGO - Mandalorian N-1 Starfighter 75363 - TBE.",
     "lienURL": "https://www.vinted.fr/items/5432469190-lego-mandalorian-n-1-starfighter-75363-tbe",
     "price": "3.0",
@@ -24,16 +12,22 @@
     "favourite": 5
   },
   {
-    "titre": "Lego Star Wars 75363",
-    "lienURL": "https://www.vinted.fr/items/5050947601-lego-star-wars-75363",
-    "price": "15.0",
-    "favourite": 2
+    "titre": "75363 lego starwars",
+    "lienURL": "https://www.vinted.fr/items/5541956927-75363-lego-starwars",
+    "price": "13.5",
+    "favourite": 7
   },
   {
     "titre": "Neuf Lego star wars 75363 pas de minifigs",
     "lienURL": "https://www.vinted.fr/items/5529104104-neuf-lego-star-wars-75363-pas-de-minifigs",
     "price": "9.9",
     "favourite": 0
+  },
+  {
+    "titre": "Lots de mini vaisseaux star wars",
+    "lienURL": "https://www.vinted.fr/items/5533218024-lots-de-mini-vaisseaux-star-wars",
+    "price": "15.0",
+    "favourite": 6
   },
   {
     "titre": "Lego star wars 75363",
@@ -48,16 +42,10 @@
     "favourite": 0
   },
   {
-    "titre": "Lots de mini vaisseaux star wars",
-    "lienURL": "https://www.vinted.fr/items/5533218024-lots-de-mini-vaisseaux-star-wars",
-    "price": "15.0",
-    "favourite": 6
-  },
-  {
-    "titre": "LEGO 75363 Star Wars",
-    "lienURL": "https://www.vinted.fr/items/5488065882-lego-75363-star-wars",
-    "price": "12.0",
-    "favourite": 7
+    "titre": "75363 LEGO Star Wars Le micro-chasseur N-1 du Mandalorien",
+    "lienURL": "https://www.vinted.fr/items/5431131496-75363-lego-star-wars-le-micro-chasseur-n-1-du-mandalorien",
+    "price": "13.99",
+    "favourite": 1
   },
   {
     "titre": "Lego Star Wars 75363 The Mandalorian N-1 Starfighter Microfighter",
@@ -66,10 +54,10 @@
     "favourite": 13
   },
   {
-    "titre": "75363 LEGO Star Wars Le micro-chasseur N-1 du Mandalorien",
-    "lienURL": "https://www.vinted.fr/items/5431131496-75363-lego-star-wars-le-micro-chasseur-n-1-du-mandalorien",
-    "price": "13.99",
-    "favourite": 1
+    "titre": "LEGO 75363 Star Wars",
+    "lienURL": "https://www.vinted.fr/items/5488065882-lego-75363-star-wars",
+    "price": "12.0",
+    "favourite": 7
   },
   {
     "titre": "Lego 75363",
@@ -78,10 +66,10 @@
     "favourite": 0
   },
   {
-    "titre": "Lego star wars the mandalorian N-1 star Fighter 75363",
-    "lienURL": "https://www.vinted.fr/items/5519009100-lego-star-wars-the-mandalorian-n-1-star-fighter-75363",
-    "price": "15.0",
-    "favourite": 3
+    "titre": "Lego stars wars 75363",
+    "lienURL": "https://www.vinted.fr/items/5471893517-lego-stars-wars-75363",
+    "price": "14.0",
+    "favourite": 1
   },
   {
     "titre": "Lego Star Wars - 75363 The Mandolarian N-1 Starfighter microfighter - Nieuw",
@@ -90,10 +78,16 @@
     "favourite": 9
   },
   {
-    "titre": "Lego stars wars 75363",
-    "lienURL": "https://www.vinted.fr/items/5471893517-lego-stars-wars-75363",
-    "price": "14.0",
-    "favourite": 1
+    "titre": "Lego star wars the mandalorian N-1 star Fighter 75363",
+    "lienURL": "https://www.vinted.fr/items/5519009100-lego-star-wars-the-mandalorian-n-1-star-fighter-75363",
+    "price": "15.0",
+    "favourite": 3
+  },
+  {
+    "titre": "Lego Star Wars, neu und original verpackt, ungeöffnet",
+    "lienURL": "https://www.vinted.fr/items/4979509337-lego-star-wars-neu-und-original-verpackt-ungeoffnet",
+    "price": "8.0",
+    "favourite": 11
   },
   {
     "titre": "LEGO Mandalorian N-1 Starfighter Microfighter / 75363",
@@ -106,12 +100,6 @@
     "lienURL": "https://www.vinted.fr/items/5476879525-lego-75363-mandalorian-star-wars",
     "price": "22.0",
     "favourite": 5
-  },
-  {
-    "titre": "Lego Star Wars, neu und original verpackt, ungeöffnet",
-    "lienURL": "https://www.vinted.fr/items/4979509337-lego-star-wars-neu-und-original-verpackt-ungeoffnet",
-    "price": "8.0",
-    "favourite": 11
   },
   {
     "titre": "Set Lego 75391 & 75344 & 75363",
@@ -150,12 +138,6 @@
     "favourite": 2
   },
   {
-    "titre": "Lego vaisseaux Star wars 75295 + 75344 + 75363",
-    "lienURL": "https://www.vinted.fr/items/5468747424-lego-vaisseaux-star-wars-75295-75344-75363",
-    "price": "25.0",
-    "favourite": 1
-  },
-  {
     "titre": "Mandalorian | Lego 75363\n\n",
     "lienURL": "https://www.vinted.fr/items/4294491082-mandalorian-lego-75363",
     "price": "10.0",
@@ -168,22 +150,34 @@
     "favourite": 5
   },
   {
-    "titre": "Set lego star wars",
-    "lienURL": "https://www.vinted.fr/items/4409139744-set-lego-star-wars",
-    "price": "40.0",
-    "favourite": 10
-  },
-  {
     "titre": "Set de Lego Star Wars 75363",
     "lienURL": "https://www.vinted.fr/items/4372150372-set-de-lego-star-wars-75363",
     "price": "15.0",
     "favourite": 7
   },
   {
+    "titre": "Set lego star wars",
+    "lienURL": "https://www.vinted.fr/items/4409139744-set-lego-star-wars",
+    "price": "40.0",
+    "favourite": 10
+  },
+  {
     "titre": "Lego Star Wars 75363 The Mandalorian N-1 Starfighter Microfighter MISB",
     "lienURL": "https://www.vinted.fr/items/4743290055-lego-star-wars-75363-the-mandalorian-n-1-starfighter-microfighter-misb",
     "price": "16.0",
     "favourite": 4
+  },
+  {
+    "titre": "Lot LEGO Star wars neuf",
+    "lienURL": "https://www.vinted.fr/items/5544371446-lot-lego-star-wars-neuf",
+    "price": "165.0",
+    "favourite": 10
+  },
+  {
+    "titre": "Lego vaisseaux Star wars 75295 + 75344 + 75363",
+    "lienURL": "https://www.vinted.fr/items/5468747424-lego-vaisseaux-star-wars-75295-75344-75363",
+    "price": "25.0",
+    "favourite": 1
   },
   {
     "titre": "Lego 75363 mandalorian  n-1 star fighter ",
@@ -213,13 +207,7 @@
     "titre": "Lego Star Wars Microfighters",
     "lienURL": "https://www.vinted.fr/items/5515452400-lego-star-wars-microfighters",
     "price": "45.0",
-    "favourite": 5
-  },
-  {
-    "titre": "Lot LEGO Star wars neuf",
-    "lienURL": "https://www.vinted.fr/items/5544371446-lot-lego-star-wars-neuf",
-    "price": "165.0",
-    "favourite": 6
+    "favourite": 4
   },
   {
     "titre": "LEGO Star Wars The Mandalorian & Grogu on Vespa",

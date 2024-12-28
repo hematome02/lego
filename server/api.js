@@ -83,8 +83,22 @@ app.get("/deals/search", async (request, response) => {
   }
 });*/
 
-app.get("/deals/search", async (request, response) => {
-  const {limit= 12, bestdiscount, mostcommented, hotdeals, sort } = request.query;
+app.get("/deals", async (request, response) => {
+  const { bestdiscount, mostcommented, hotdeals, sort } = request.query;
+  let limit = parseInt(request.query.size);
+  let page = parseInt(request.query.page);
+
+  if (isNaN(limit)) {
+    limit = 6; // Valeur par défaut si 'size' n'est pas un nombre valide
+  }
+  
+  if (isNaN(page)) {
+    page = 1; // Valeur par défaut si 'page' n'est pas un nombre valide
+  }
+
+  console.log(page);  
+  console.log(limit);
+
   try {
     let query ={};
     if (bestdiscount == "true") {
@@ -122,14 +136,41 @@ app.get("/deals/search", async (request, response) => {
           break;
     }
     //deals = await collection.find(query).toArray();
+    let displayDeals ={};
+      
+      if(page === null || limit === null){
+        displayDeals = deals;
+      }else{
+        let start = limit*(page-1);
+        let end = start + limit;  // Calculate the ending index based on the limit
+
+        console.log(start)
+        console.log(end)
+      
+        // Slice the 'deal' array based on the start and end indices
+        displayDeals = deals.slice(start, end); 
+      }
+
+
 
     const rep = {
-      limit: parseInt(limit),
-      total: deals.length,
-      result: deals,
+      success: true,
+      data: {
+        result: displayDeals,
+        meta: {
+          currentPage: page,
+          pageCount: Math.ceil(deals.length/limit),
+          pageSize: limit,
+          count: deals.length
+        }
+      },
+      // limit: parseInt(limit),
+      // total: deals.length,
+      // result: displayDeals,
     };
     response.status(200).send(rep);
   } catch (error) {
+    console.log(error)
     response
       .status(500)
       .send({ error: "An error occurred while searching for deals" });
@@ -154,9 +195,14 @@ app.get("/deals/:id", (request, response) => {
 //let id = "10273 ";
 app.get("/sales/:id", (request, response) => {
   const dealId = request.params.id;
+  
   mongo.saleId(dealId)
     .then((deal) => {
-      response.send({ test: deal });
+      response.status(200).send({
+        success : true, 
+        data : {
+          result : deal
+        }});
     })
     .catch((error) => {
       response
@@ -164,6 +210,19 @@ app.get("/sales/:id", (request, response) => {
         .send({ error: "Erreur lors de la récupération du sales" });
     });
 });
+/*
+
+  mongo.saleId(dealId)  
+  .then((deal) => {
+    response.send({ test: deal });
+  //  })
+   // .catch((error) => {
+   //   rsponse
+   //     .status(500)
+   //     .send({ error: "Erreur lors de la récupération du sales" });
+    //}
+},
+);*/
 /*
 app.get('/sales/search', async (request, response) => {
   const { limit = 12, legoSetId } = request.query;
@@ -191,11 +250,53 @@ app.get('/sales/search', async (request, response) => {
   }
 });*/
 
-app.get("/deals", (request, response) => {
+app.get("/deals/:id",(request, response) => {
+  const dealId = request.params.id;
+  console.log(dealId);
+  mongo.dealPriceId(dealId)
+    .then((deal) => {
+      console.log("app", deal);
+      response.status(200).send({        
+        success : true, 
+        deal
+        });
+    })
+    .catch((error) => {
+      console.log(error);
+      response
+        .status(500)
+        .send({ error: "Erreur lors de la récupération du prix" });
+    });
+});
+
+/*
+app.get("/deals/tt", (request, response) => {
+  let limit = parseInt(request.query.size) ?? null;
+  let page = parseInt(request.query.page) ?? null;
+
+  console.log(page)
+  console.log(limit)
+
   mongo
     .deal()
     .then((deal) => {
-      response.send({ test: deal });
+      let displayDeals ={};
+      
+      if(page === null || limit === null){
+        displayDeals = deal;
+      }else{
+        let start = limit*page;
+        let end = start + limit;  // Calculate the ending index based on the limit
+
+        console.log(start)
+        console.log(end)
+      
+        // Slice the 'deal' array based on the start and end indices
+        displayDeals = deal.slice(start, end); 
+      }
+
+
+      response.send(displayDeals);
     })
     .catch((error) => {
       console.log(error)
@@ -203,7 +304,7 @@ app.get("/deals", (request, response) => {
         .status(500)
         .send({ error: "Erreur lors de la récupération du deal" });
     });
-});
+});*/
 
 app.listen(PORT);
 

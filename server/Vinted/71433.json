@@ -3,24 +3,28 @@
     "titre": "Mario Lego 71433",
     "lienURL": "https://www.vinted.fr/items/5543297289-mario-lego-71433",
     "price": "10.0",
-    "favourite": 2
-  },
-  {
-    "titre": "Lego parco dei gomma 71433",
-    "lienURL": "https://www.vinted.fr/items/5489280179-lego-parco-dei-gomma-71433",
-    "price": "15.0",
-    "favourite": 2
-  },
-  {
-    "titre": "Lego Mario 71433",
-    "lienURL": "https://www.vinted.fr/items/5484477657-lego-mario-71433",
-    "price": "10.0",
-    "favourite": 13
+    "favourite": 7,
+    "image": "19/12/2024"
   },
   {
     "titre": "Lego super Mario plat 2x2 avec scanner code goomba",
     "lienURL": "https://www.vinted.fr/items/5138826658-lego-super-mario-plat-2x2-avec-scanner-code-goomba",
     "price": "1.2",
-    "favourite": 2
+    "favourite": 2,
+    "image": "01/10/2024"
+  },
+  {
+    "titre": "Lego Mario 71433",
+    "lienURL": "https://www.vinted.fr/items/5484477657-lego-mario-71433",
+    "price": "10.0",
+    "favourite": 12,
+    "image": "04/12/2024"
+  },
+  {
+    "titre": "Lego parco dei gomma 71433",
+    "lienURL": "https://www.vinted.fr/items/5489280179-lego-parco-dei-gomma-71433",
+    "price": "15.0",
+    "favourite": 2,
+    "image": "06/12/2024"
   }
 ]
