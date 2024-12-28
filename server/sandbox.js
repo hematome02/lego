@@ -55,7 +55,7 @@ async function sandbox() {
         `https://www.vinted.fr/api/v2/catalog/items?page=1&per_page=96&search_text=${id}&catalog_ids=&size_ids=&brand_ids=89162&status_ids=&material_ids=`
       );
       //6eme étape : Transformer le tableau en fichier json
-      //un fichier json par id set Lego qui nenvoit des offres Vinted
+      //un fichier json par id set Lego qui renvoit des offres Vinted
 
       if (temp != null) {
         console.log(temp.length);

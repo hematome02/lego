@@ -17,9 +17,8 @@ const connectToDatabase = require("./connection/conn.js");
 //Fonction de netoyage de la base de donnée
 module.exports.mongoClear = async (obj, name) => {
   try {
-    //Ouvre la connexion
-    //await client.connect();
-    const db = await connectToDatabase()//client.db("LegoDB");
+    //Ouvre la connexion    
+    const db = await connectToDatabase()
     const collections = await db.listCollections().toArray(); // Liste toutes les collections de la base
     for (const collection of collections) {
       await db.collection(collection.name).drop(); // Supprime chaque collection
@@ -34,21 +33,16 @@ module.exports.mongoClear = async (obj, name) => {
 //Function d'ajout à la base de donnée des deals et ventes sur Vinted
 module.exports.run = async (obj, name) => {
   try {
-    //Ouvre la connexion
-    // await client.connect();
-    const db = await connectToDatabase();//client.db("LegoDB");
-    const collection = db.collection(name);
-    //await collection.deleteMany({});
+    //Ouvre la connexion    
+    const db = await connectToDatabase();
+    const collection = db.collection(name);    
     const resultat = await collection.insertMany(obj);
-    //console.log(resultat);
+    
   } catch (error) {
     console.error('Erreur lors de la récupération du deal:', error);
     throw error;  // Rethrow l'erreur pour gérer l'erreur ailleurs si nécessaire
   } 
-  // } finally {
-  //   //Ferme la connexion à la fin de la commande ou si erreur
-  //   await client.close();
- // }
+  
 };
 //module.exports.run().catch(console.dir);
 
@@ -63,7 +57,7 @@ module.exports.bestTemperature = async () => {
     const best = deals.filter((deal) => deal.temperature >= 100);
     console.log(best);
   } finally {
-    //Ferme la connexion à la fin de la commande ou si erreur
+    
     await client.close();
   }
 };
@@ -228,85 +222,3 @@ module.exports.saleId = async (salenamed) => {
   }
 }
 //module.exports.saleId('71428').catch(console.dir);
-
-// Fonction pour récupérer un document par son numéro de fichier (ex. 71230)
-
-//module.exports.saleId("71428").catch(console.dir);
-
-module.exports.dealPriceId = async (dealid) => {
-  try {
-    // Connexion à la base de données
-    const db = await connectToDatabase();  // Assurez-vous que cette fonction fonctionne correctement
-    const collection = db.collection("deals");
-
-    // Vérifier que dealid est bien un string
-    if (typeof dealid !== 'string') {
-      throw new Error('dealid doit être une chaîne de caractères');
-    }
-    console.log(dealid);
-    dealid=dealid.trim();
-
-    // Trouver un deal avec l'ID spécifique (utiliser findOne pour un seul document)
-    const deal = await collection.findOne({ id : dealid });
-
-    // Afficher le deal trouvé pour le débogage
-    console.log("Deal trouvé:", deal);
-
-    // Si aucun deal n'est trouvé, retourner null
-    if (!deal) {
-      console.log(`Aucun deal trouvé pour l'ID: ${dealid}`);
-      return null;
-    }
-
-    console.log(deal.price);
-
-    // Retourner le prix du deal
-    return deal.price || null;
-
-  } catch (error) {
-    console.error('Erreur lors de la récupération du prix:', error);
-    throw error;  // Relance l'erreur pour gestion ultérieure
-  }
-};
-/*
-//Fonction qui renvoit un deal pour un id mongo spécifique
-module.exports.dealPriceId = async (dealid) => {
-  try {
-    // Ouvre la connexion
-    //await client.connect();
-    const db = await connectToDatabase();//client.db("LegoDB");
-    const collection = db.collection("deals");
-
-    //const str = String(dealid);
-    //console.log(str);
-    //console.log(typeof dealid);
-
-    //Trouve le prix d'un id lego specifique
-    const deal =  await collection.find({ id: dealid });
-      //{ $expr: { $eq: ["$id", dealid ] } } , { projection: { price: 1, id:1 } }).toArray();
-
-    console.log(dealid);
-
-
-    // Convertit dealId en ObjectId si ce n'est pas déjà le cas
-   //const objectId = new ObjectId(dealid);  // Cela garantit que l'ID est de type ObjectId
-
-    // Trouve un deal avec cet ID spécifique
-    //const deal = await collection.find({ _id: objectId }).toArray();
-
-    console.log("deals");
-    console.log(deal);
-
-    if(deal===null) return null;
-
-   
-
-    // Si un deal est trouvé, le renvoyer. Sinon, renvoyer null ou une réponse d'erreur.
-    return  deal.price || null;  // Retourne null si aucun deal n'a été trouvé avec cet ID
-
-  } catch (error) {
-    console.error('Erreur lors de la récupération du deal:', error);
-    throw error;  // Rethrow l'erreur pour gérer l'erreur ailleurs si nécessaire
-  } 
-};*/
-//module.exports.dealPriceId("76303").catch(console.dir);
